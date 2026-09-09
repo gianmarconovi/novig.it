@@ -274,32 +274,32 @@ Prodotti Chimici
         • Coccola di Talco.png
 
     Immagini/Categorie/Prodotti/Deodet 1lt/
-        • Bioloto.png
-        • Biomusk.png
-        • Bioorky.png
-        • Black Premium.png
-        • Delicati & Lana.png
-        • Note di Pulito.png
-        • Salvacolor.png
-        • White Xtra.png
+        • Bioloto - https://www.tintolav.com/images/dacshop/upload/a39-520dx12bioloto_1lt_363380436.png
+        • Biomusk - https://www.tintolav.com/images/dacshop/upload/a39-518dx12biomusk_1lt_1488407432.png
+        • Bioorky - https://www.tintolav.com/images/dacshop/upload/a39-519dx12bioorky_1lt_1711809932.png
+        • Black Premium - https://www.tintolav.com/images/dacshop/upload/a39-515dx12blackpremium_1lt_23565267.png
+        • Delicati & Lana - https://www.tintolav.com/images/dacshop/upload/a39-510dx12lanadelicati_1lt_359181498.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a39-525dx12detergente_notedipulito_1lt_1019023897.png
+        • Salvacolor - https://www.tintolav.com/images/dacshop/upload/a39-530dx12salvacolor_1lt_1137755163.png
+        • White Xtra - https://www.tintolav.com/images/dacshop/upload/a39-512dx12whitextra_1lt_491631693.png
 
     Immagini/Categorie/Prodotti/Deodet 10kg/
-        • Bio Loto 10kg.png
-        • Bio Musk 10kg.png
-        • Bio Orky 10kg.png
-        • Black Premium 10kg.png
-        • Delicati & Lana 10kg.png
-        • Note di Pulito 10kg.png
-        • Perfect 10kg.png
-        • Salvacolor 10kg.png
-        • White Xtra 10kg.png
+        • Bio Loto 10kg - https://www.tintolav.com/images/dacshop/upload/a39-520kbioloto_10kg_1721574963.png
+        • Bio Musk 10kg - https://www.tintolav.com/images/dacshop/upload/a39-518kbiomusk_10kg_216439076.png
+        • Bio Orky 10kg - https://www.tintolav.com/images/dacshop/upload/a39-519kbioorky_10kg_688753342.png
+        • Black Premium 10kg - https://www.tintolav.com/it/prodotti/hygienfresh/product/black-premium.html
+        • Delicati & Lana 10kg - https://www.tintolav.com/it/prodotti/hygienfresh/product/delicati-lana.html
+        • Note di Pulito 10kg - https://www.tintolav.com/images/dacshop/upload/a39-525kdetergente_notedipulito_10kg_1630671806.png
+        • Perfect 10kg - https://www.tintolav.com/images/dacshop/upload/a36-000kperfect_10kg.png
+        • Salvacolor 10kg - https://www.tintolav.com/images/dacshop/upload/a39-530ksalvacolor_10kg_465769402.png
+        • White Xtra 10kg - https://www.tintolav.com/images/dacshop/upload/a39-512kwhitextra_10kg_364658370.png
 
     Immagini/Categorie/Prodotti/Deodet 20kg/
-        • Bio Loto 20kg.png
-        • Bio Musk 20kg.png
-        • Bio Orky 20kg.png
-        • Note di Pulito 20kg.png
-        • White Xtra 20kg.png
+        • Bio Loto 20kg - https://www.tintolav.com/images/dacshop/upload/a39-520nbioloto_20kg_1285167880.png
+        • Bio Musk 20kg - https://www.tintolav.com/images/dacshop/upload/a39-518nbiomusk_20kg_1171288887.png
+        • Bio Orky 20kg - https://www.tintolav.com/images/dacshop/upload/a39-519nbioorky_20kg.png
+        • Note di Pulito 20kg - https://www.tintolav.com/images/dacshop/upload/a39-525ndetergente_notedipulito_20kg.png
+        • White Xtra 20kg - https://www.tintolav.com/images/dacshop/upload/a39-512nwhitextra_20kg_702180516.png
 
     Immagini/Categorie/Prodotti/Essense 1lt/
         • Ambra & Vanilla - https://www.tintolav.com/images/dacshop/upload/a48-034dessenza_1kg_ambravanilla.png
