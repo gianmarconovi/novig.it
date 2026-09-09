@@ -1,0 +1,548 @@
+GOOGLE SEARCH CONSOLE
+
+CMD
+dir /b | clip (per copiare il titoli delle immagini da una cartella)
+
+Links Immagini
+Accessori
+    Immagini/Categorie/Accessori/Grucce & Accessori/
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Asta Regolabile.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Coprispalla Cartone.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Doppia Punta.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette in Plastica.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Larghe.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Strette.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Grucce 500pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Portagrucce Cromato.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Portatende.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Salvaspalle.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Grucce 500pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Proteggi Spalla.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Tendipantaloni.png
+        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Tintogrippo.png
+    Immagini/Categorie/Accessori/Imballaggio/
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Bobina.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Camicie.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cappotti.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cravatte.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Giacche.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Lenzuola.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Maglie.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Piumoni.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Sottovuoto.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartene Stampato.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Camicia.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Papillon.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Nastro Adesivo 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Portanastro Adesivo Nova.png
+    Immagini/Categorie/Accessori/Lavaggio/
+        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Guanti Nitrile Taglia 7.png
+        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Rubinetto Taniche.png
+        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Sacco Rete Acqua 55x85 cm.png
+        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Sacco Rete Secco 60x90 cm.png
+    Immagini/Categorie/Accessori/Marcatura/
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Aghi Dennison.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Arancione.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Azzurro.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Bianco.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Giallo.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Grigio.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Marrone.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Rosa.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Rosso.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Verde.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Viola.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Arancione.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Azzurro.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Bianco.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Giallo.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Rosa.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Rosso.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Verde.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Viola.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastro Epson TM300.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Penne Indelebili.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Pinzatrice Bostitch.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Pistola Dennison.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Portanastri.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti 648.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti Bostitch 6mm.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti Bostitch 10mm.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Ricevute Carta Chimica.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Arancione 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Azzurro 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Bianco 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Giallo 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Rosa 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Rosso 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Verde 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Viola 76mm 10pz.png
+        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Toglipunti Bostitch.png
+    Immagini/Categorie/Accessori/Spazzole/
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Acciaio Setola.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Acciaio USA.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Nylon.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone Passamano.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone Setola.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone USA.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Tronchetto Acciaio.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Crine Misto Nylon.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Crine Nero.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Nylon Manico.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Pulisci Spazzole.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Spazzola Pelliccia.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Smacchiatura/Tampico Manico.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Toglinodi/Pill Remover Pro.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Toglinodi/Spazzola Doppia Azione.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Toglinodi/Spugna Abrasiva.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Toglipelo/Plik.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Toglipelo/Pulirella Ricambio.png
+        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Velluto/Senso Unico.png
+    Immagini/Categorie/Accessori/Stender & Carrelli/
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Carrello Grande.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Carrello Medio.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Carrello Piccolo.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Carrello Portalavoro.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Sacco Carrello.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Stender Doppio.png
+        https://novig.it/Immagini/Categorie/Accessori/Stender & Carrelli/Stender Semplice.png
+    Immagini/Categorie/Accessori/Stiratura/
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Asta Reggicavo.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Bracciolo Donna.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Bracciolo Uomo.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Carrucola Siraflex.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Copia Manichette.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Copribracciolo Uomo.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Copritavolo Ambria Ghidini Vaporetta.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Copritavolo Maxi.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Copritavolo Rotolo 165cm.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Cordone per Ferro Matassa.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Estensori Maxi.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Ez-Off.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Molle Ganci.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Mollettone Maxi.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Mollettone Rotolo 130cm.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Mollettone Vaporetta.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Pinza Curva.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Pinza Dritta.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Pinza Topper.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Platoncino a Mano.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Poggiaferro.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Saliscendi.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Schiumato Blu Maxi.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Schiumato Blu Rotolo 130cm.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Schiumato Blu Vaporetta.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Sciolino.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Corazzata Ironmaster.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Corazzata Lemm.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Corazzata Veronesi Grande.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Teflon 2F.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Teflon AEG.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Telo Antilucido.png
+        https://novig.it/Immagini/Categorie/Accessori/Stiratura/Tubo Vapore Matassa.png
+Attrezzature Lavanderia
+    Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugamento/
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES_6_8.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES_6_8.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES_6_8.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 11_14_18.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 11_14_18.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 11_14_18.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 23_26_32_36.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 23_26_32_36.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 23_26_32_36.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 55_75.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 55_75.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 55_75.jpg
+    Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/A_6_8.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/B_6_8.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/C_6_8.jpg
+    Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM-8_11_2023_F.jpg
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM-8_11_2023_P1_.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM-8_11_2023_P2_.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_14_18_23.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_14_18_23.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_14_18_23.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_26_32.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_26_32.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_26_32.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_40_55_70_85.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_40_55_70_85.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_40_55_70_85.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125_TILTING.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125_TILTING.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125_TILTING.png
+    Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/A_TDM 1818.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/B_TDM 1818.png
+        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/C_TDM 1818.png
+Loghi Fornitori
+    Immagini/Categorie/Loghi Fornitori/
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Alberti Angelo.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Bioxelle.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Buefa.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Christeyns.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Hygienfresh.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Imesa.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Olin.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Seitz.jpg
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Tintolav.png
+        https://novig.it/Immagini/Categorie/Loghi Fornitori/Wexor.png
+Prodotti Chimici
+    Immagini/Categorie/Prodotti/Additivi/
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Certisan K.png
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 1lt.png
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 20kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Sfeltran-tex.png
+        https://novig.it/Immagini/Categorie/Prodotti/Additivi/X9 Degreaser 2x5kg.png
+        
+    Immagini/Categorie/Prodotti/Appretti/
+        https://novig.it/Immagini/Categorie/Prodotti/Appretti/Apretex 2x5kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Appretti/Deopret.png
+        https://novig.it/Immagini/Categorie/Prodotti/Appretti/Okay.png
+        https://novig.it/Immagini/Categorie/Prodotti/Appretti/Renova.png
+        https://novig.it/Immagini/Categorie/Prodotti/Appretti/Wrinkle.png
+
+    Immagini/Categorie/Prodotti/Deoamm 1lt/
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Ambra Vanilla.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Caresse Blanche.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Cashmere.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Clean Sense.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Fior di Cotone.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Floral.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Fresh Lavender.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Orchidea Selvatica.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Purity.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Soffio Tropicale.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Tahiti.png
+
+    Immagini/Categorie/Prodotti/Deoamm 10kg/
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 10kg/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 10kg/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 10kg/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 10kg/Orchidea Selvatica.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 10kg/Piuma Soft.png
+
+    Immagini/Categorie/Prodotti/Deoamm 20kg/
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Ambra Vanilla.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Bioxelle.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Caresse Blanche.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Cashmere.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Certisan B.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Clean Sense.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Fior di Cotone.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Floral.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Fresh Lavender.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Note di Natura.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Orchidea Selvatica.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Purity.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Soffio Tropicale.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Soft Caps.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Tahiti.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deoamm 20kg/Tintosoft.png
+
+    Immagini/Categorie/Prodotti/Deospray 400ml/
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Bergamotto & Zagara.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Capri-Marine.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Caresse Blanche.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Fresh Lavender.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Latte di Rosa.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Lemongrass.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Orchidea Selvatica.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Oro & Argan.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Red Passion.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Soffio Tropicale.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Talco Fiorentino.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Vanilla Lemon.png
+
+    Immagini/Categorie/Prodotti/Deospray 400ml/Bioxelle/
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Bioxelle/Carezza di Argan.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deospray 400ml/Bioxelle/Coccola di Talco.png
+
+    Immagini/Categorie/Prodotti/Deodet 1lt/
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Bioloto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Biomusk.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Bioorky.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Black Premium.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Delicati & Lana.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Salvacolor.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/White Xtra.png
+
+    Immagini/Categorie/Prodotti/Deodet 10kg/
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Loto 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Musk 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Orky 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Black Premium 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Delicati & Lana 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Note di Pulito 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Perfect 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Salvacolor 10kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/White Xtra 10kg.png
+
+    Immagini/Categorie/Prodotti/Deodet 20kg/
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Loto 20kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Musk 20kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Orky 20kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Note di Pulito 20kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/White Xtra 20kg.png
+
+    Immagini/Categorie/Prodotti/Essense 1lt/
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Ambra & Vanilla.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Capri-Marine.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Caresse Blanche.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Clean Sense.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fior di Cotone.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fresh Lavender.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Orchidea Selvatica.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Soffio Tropicale.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Tintoflor.png
+
+    Immagini/Categorie/Prodotti/Essense 250ml/
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Ambra & Vanilla.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Capri-Marine.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Caresse Blanche.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Clean Sense.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Fior di Cotone.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Fior di Loto.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Orchidea Selvatica.png
+
+    Immagini/Categorie/Prodotti/Pavimenti 1lt/
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Capri-Marine.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Clean Sense.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Fresh Melody.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Muschio Bianco.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Note di Pulito.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Oro & Argan.png
+        https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Passion Fruit.png
+
+    Immagini/Categorie/Prodotti/Presmacchiatori/
+        https://novig.it/Immagini/Categorie/Prodotti/Presmacchiatori/InCarbon 2x5lt.png
+        https://novig.it/Immagini/Categorie/Prodotti/Presmacchiatori/Jolly Smak.png
+        https://novig.it/Immagini/Categorie/Prodotti/Presmacchiatori/PreCarbon 2x5lt.png
+
+    Immagini/Categorie/Prodotti/Rafforzatori/
+        https://novig.it/Immagini/Categorie/Prodotti/Rafforzatori/Activ Superstat.png
+
+    Immagini/Categorie/Prodotti/Smacchiatori/
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Dry Spot.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Oxon 750ml.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Prezym 2x5lt.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Prezym 750ml.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Shoes & Bags.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Tintosmac.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Toglisudore.png
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Top Degreaser 750ml.png
+    
+    Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Blutol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Cavesol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Colorsol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Ferrol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Frankosol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Lacol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Purasol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/Quickol.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/v1.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/v2.jpg
+        https://novig.it/Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/v3.jpg
+    
+    Immagini/Categorie/Prodotti/Solventi/        
+        https://novig.it/Immagini/Categorie/Prodotti/Solventi/Carbone Attivo 5kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Solventi/Dowper 23kg.png
+        https://novig.it/Immagini/Categorie/Prodotti/Solventi/Tonsil 25kg.png
+Ricambi
+    https://novig.it/Immagini/Categorie/Ricambi/Anelli Tenuta.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Ber-Mar Compressore.png
+    https://novig.it/Immagini/Categorie/Ricambi/Bobina.png
+    https://novig.it/Immagini/Categorie/Ricambi/Carbone.png
+    https://novig.it/Immagini/Categorie/Ricambi/Condensatore 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Condensatore 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Condensatore 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Condensatore AISI.png
+    https://novig.it/Immagini/Categorie/Ricambi/Depuratori AISI.png
+    https://novig.it/Immagini/Categorie/Ricambi/Disco B.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Disco C.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Disco Filtro.png
+    https://novig.it/Immagini/Categorie/Ricambi/Distillo 1.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Distillo 2.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Distillo 3.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Dry Control 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Dry Control 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elementi per Lavasecco 2.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elementi per Lavasecco.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elementi per Tavoli da Stiro.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elementi.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1 Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Chiocciola.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Doppio Occhiello 2.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Doppio Occhiello.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Occhiello Semplice.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Spinetta.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 1-4 Triplo Occhiello.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 2 Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3 Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 Doppio Occhiello.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 Guaina  Termostato.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 Occhiello Semplice.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 Quadruplo Occhiello.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 3-8 Triplo Occhiello.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 4 Flangiato Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento 5 Flangiato Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento a Soffietto.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento a Tappo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Acciaio Secco.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Alettato 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Alettato 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Ama-Universal.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Chiocciola.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Lindus.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento per Essicatoio Renzacci.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Socolmatic C15.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Tortiglione 1-4.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento Tortiglione.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elemento U Asse da Stiro.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettovalvola Vapore CEME.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua 1B.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua 1C.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua 4.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvola Acqua.png
+    https://novig.it/Immagini/Categorie/Ricambi/Elettrovalvole Vapore.png
+    https://novig.it/Immagini/Categorie/Ricambi/Erclor.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Faro Distillo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Filtro Cartuccia.png
+    https://novig.it/Immagini/Categorie/Ricambi/Filtro Rotativo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Filtro.png
+    https://novig.it/Immagini/Categorie/Ricambi/Flange e Gruppi di Elementi.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Flange ed Elementi per Caldaiette.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Flangia 3 elementi.png
+    https://novig.it/Immagini/Categorie/Ricambi/Flangia 6 fori.png
+    https://novig.it/Immagini/Categorie/Ricambi/Flangia Trevil 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Flangia Triangolare 1 Elemento.png
+    https://novig.it/Immagini/Categorie/Ricambi/FP Valvaut.png
+    https://novig.it/Immagini/Categorie/Ricambi/Freon Tank.png
+    https://novig.it/Immagini/Categorie/Ricambi/Galleggiante.png
+    https://novig.it/Immagini/Categorie/Ricambi/Gomma.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Gruppo Trattamento Aria.png
+    https://novig.it/Immagini/Categorie/Ricambi/Guarnizione Oblo Socolmatic.png
+    https://novig.it/Immagini/Categorie/Ricambi/Guarnizioni.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Imbuto Nylon.png
+    https://novig.it/Immagini/Categorie/Ricambi/Indicatore Passaggio.png
+    https://novig.it/Immagini/Categorie/Ricambi/Ingranaggio.png
+    https://novig.it/Immagini/Categorie/Ricambi/Interruttore.png
+    https://novig.it/Immagini/Categorie/Ricambi/Involucro AISI.png
+    https://novig.it/Immagini/Categorie/Ricambi/Lampada Faro Distillo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Lastra Spugna.png
+    https://novig.it/Immagini/Categorie/Ricambi/Livellostato Socolmatic.png
+    https://novig.it/Immagini/Categorie/Ricambi/Manichini Topper.png
+    https://novig.it/Immagini/Categorie/Ricambi/Manometro 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Manopole Termostato.png
+    https://novig.it/Immagini/Categorie/Ricambi/Microinterruttore.png
+    https://novig.it/Immagini/Categorie/Ricambi/Microinterruttori.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Becco Lama.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Comando Leva.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Nebulizzatrice 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Nebulizzatrice 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Nebulizzatrice 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Nebulizzatrice 4.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Nebulizzatrice 5.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Puntale.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Smacchiatrice 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Smacchiatrice 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Vapore 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pistola Vapore 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pompa Pedrollo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pompa Percloro.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pompa Sapone.png
+    https://novig.it/Immagini/Categorie/Ricambi/Porta Sonda.png
+    https://novig.it/Immagini/Categorie/Ricambi/Pressostati.png
+    https://novig.it/Immagini/Categorie/Ricambi/Regolatore Livello Elettronico.png
+    https://novig.it/Immagini/Categorie/Ricambi/Regolatore Livello.png
+    https://novig.it/Immagini/Categorie/Ricambi/Resistenza Chromalox.png
+    https://novig.it/Immagini/Categorie/Ricambi/Resistenza Comel.png
+    https://novig.it/Immagini/Categorie/Ricambi/Resistenza Max-Stir-90.png
+    https://novig.it/Immagini/Categorie/Ricambi/Resistenza Max-Stir-W.png
+    https://novig.it/Immagini/Categorie/Ricambi/Ricambi.png
+    https://novig.it/Immagini/Categorie/Ricambi/Scaricatori Condensa.png
+    https://novig.it/Immagini/Categorie/Ricambi/Separatore Condensa.png
+    https://novig.it/Immagini/Categorie/Ricambi/Serpentino.png
+    https://novig.it/Immagini/Categorie/Ricambi/Soffietto Socolmatic.png
+    https://novig.it/Immagini/Categorie/Ricambi/Spia Passaggio 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Spia Passaggio 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Spina Presa ILME.png
+    https://novig.it/Immagini/Categorie/Ricambi/Tenuta 12 A.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Tenuta 12 B.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Tenuta 19.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Tenuta Meccanica.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Termoregolatore 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termoregolatore 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termoregolatore 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 4.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 5.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 6.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 7.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 8.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato 9.png
+    https://novig.it/Immagini/Categorie/Ricambi/Termostato Elmwood.png
+    https://novig.it/Immagini/Categorie/Ricambi/Tubo PTFE.png
+    https://novig.it/Immagini/Categorie/Ricambi/Tubo Scarico Socolmatic.png
+    https://novig.it/Immagini/Categorie/Ricambi/Uscita Filtro Nylon.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Pneumatica 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Pneumatica 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Pneumatica 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Pneumatica 4.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Pneumatica 5.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Regolazione.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Acqua 1.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Acqua 2.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Acqua 3.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Acqua 4.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Europa.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Roma.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Tenuta Metallica.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Ritegno Vapore.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Sfera.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Sicurezza Leva.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Sicurezza Scarico Libero.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Sicurezza Tappo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Sicurezza Vite.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Meccanica Inf Camptel.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Meccanica Inf Pony.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Meccanica Sup Pony.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Pneumatica Camptel.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Pneumatica Pony.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Tavolo Camptel.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Tavolo Ghidini.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Vapore Tavolo Pony.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvola Viton.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Valvole Distillo.png
+    https://novig.it/Immagini/Categorie/Ricambi/Valvole Hoffmann.png
+    https://novig.it/Immagini/Categorie/Ricambi/Vetro 1.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Vetro 2.jpg
+    https://novig.it/Immagini/Categorie/Ricambi/Viton.jpg

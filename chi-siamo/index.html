@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="6ed61f83-152a-4e7c-bda6-fec8144f9cec" data-blockingmode="auto" type="text/javascript"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Angelo Alberti, Buefa, Biar, Bioxelle, Christeyns, Hygienfresh, Hypnosense, Imesa, Olin, Seitz, Tintolav, Wexor...">
+        <meta name="keywords" content="novig.it, novig, novi, gioacchino, paolo, acqua, sapone, sfuso, intero, detersfuso, detersivo, detergente, ammorbidente, additivo, sgrassatore, smacchiatore, liquido, polvere, prodotto, lavanderia, lavaggio, a secco, assistenza, tecnica, bobina, buste, maglie, piumoni, pantaloni, camicie, cravatte, giacche, cappotti, lucide, sagomate, rettangolari, percloro, dowper, tintolav, ghidini, imesa, iron, tecnology, ferro, da, stiro, tavolo, resistenza, termostato, caldaia, pressostato, elettricista, idraulico, termoidraulica, bertolini, casella, riat, sagi, vella, lavanderie shop, lavanderiastore, store">
+        <meta property="og:title" content="novig.it">
+        <meta property="og:description" content="Angelo Alberti, Buefa, Biar, Bioxelle, Christeyns, Hygienfresh, Hypnosense, Imesa, Olin, Seitz, Tintolav, Wexor...">
+        <meta property="og:url" content="https://novig.it/">
+        <meta property="og:site_name" content="novig.it">
+        <meta property="og:type" content="website">
+        <title>novig.it | Attrezzature Lavanderia</title>
+        <link rel="icon" type="image/svg+xml" href="https://novig.it/Immagini/novigLogoFavicon.ico">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-------------- novig.it Style -------------->
+        <style>
+            *{margin: 0;padding: 0;box-sizing: border-box;}
+            html { scroll-behavior: smooth; }
+            body{font-family: 'Poppins', sans-serif;}
+            a{text-decoration: none;color: #555;}
+            a:hover{color: #009541; cursor: pointer;}
+            p{color: #555;}
+            .header{background: #fff;}
+            .container{max-width: 1300px;margin: auto;padding-left: 25px;padding-right: 25px;}
+            .navbar {display: flex;flex-direction: column;align-items: center;padding: 20px;gap: 8px;}
+            .menu-icon{display: none;width: 28px;margin-left: 20px;}
+            .row{display: flex;align-items: center;flex-wrap: wrap;justify-content: space-around;}
+            /* ── VARIABILI ── */
+            :root {
+                --green: #009541;
+                --green-dark: #007a35;
+                --black: #000;
+                --cream: #F7F4EF;
+                --border: #E8E1D5;
+                --text-muted: #777;
+            }
+            /*IFRAME MODAL*/
+            .iframe-modal-overlay {display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 500;}
+            .iframe-modal-overlay.open {display: flex; align-items: center; justify-content: center;}
+            .iframe-modal-box {position: relative; width: 90%; height: 85vh; background: #fff; border-radius: 12px; overflow: hidden;}
+            .iframe-modal-close {position: absolute; top: 12px; right: 12px; z-index: 10; margin: 0;cursor:pointer;}
+            .iframe-modal-box iframe {width: 100%; height: 100%; border: none;}
+            /*BACKTOTOP*/
+            #backToTop {position: fixed;bottom: 283px;right: 3px;width: 58px;height: 58px;border-radius: 50%;background: #009541;color: #fff;border: none;font-size: 10px;font-weight: 600;cursor: pointer;z-index: 199;box-shadow: 0 4px 16px rgba(0,0,0,0.2);transition: background 0.3s, transform 0.3s, opacity 0.4s;opacity: 0;pointer-events: none;left: auto; /* rimuove il centramento precedente */ transform: none;}
+            #backToTop.visible {opacity: 1;pointer-events: auto;}
+            #backToTop:hover {background: #000;transform: scale(1.08);}
+            /*MENU BUTTON*/
+            #hamburger {position: fixed;bottom: 213px;right: 3px;width: 56px;height: 56px;border-radius: 50%;background: #009541;color: #fff;border: none;font-size: 10px;font-weight: 600;cursor: pointer;z-index: 199;box-shadow: 0 4px 16px rgba(0,0,0,0.2);transition: background 0.3s, transform 0.3s;}
+            #hamburger:hover {background: #000;transform: scale(1.08);}
+            /*WHATSAPP BUTTON*/
+            #waBtn {position: fixed;bottom: 3px;right: 3px;width: 56px;height: 56px;border-radius: 50%;background: #009541;color: #fff;border: none;display: flex;align-items: center;justify-content: center;cursor: pointer;z-index: 199;box-shadow: 0 4px 16px rgba(0,0,0,0.2);transition: background 0.3s, transform 0.3s;}
+            #waBtn:hover {background: #000;transform: scale(1.08);}
+            /*TELEFONO BUTTON*/
+            #telBtn {position: fixed;bottom: 73px;right: 3px;width: 56px;height: 56px;border-radius: 50%;background: #009541;color: #fff;border: none;display: flex;align-items: center;justify-content: center;cursor: pointer;z-index: 199;box-shadow: 0 4px 16px rgba(0,0,0,0.2);transition: background 0.3s, transform 0.3s;}
+            #telBtn:hover {background: #000;transform: scale(1.08);}
+            /* TOOLTIP FUMETTO */
+            .btn-tooltip {position:absolute;right:68px;top:50%;transform:translateY(-50%);background:#1a1a1a;color:#fff;font-family:'Poppins',sans-serif;font-size:11px;font-weight:500;white-space:nowrap;padding:6px 12px;border-radius:20px;pointer-events:none;opacity:0;transition:opacity 0.25s, right 0.25s;box-shadow:0 2px 8px rgba(0,0,0,0.2);}
+            .btn-tooltip::after {content:'';position:absolute;left:100%;top:50%;transform:translateY(-50%);border:6px solid transparent;border-left-color:#1a1a1a;}
+            #waBtn:hover .btn-tooltip, #telBtn:hover .btn-tooltip, #emailBtn:hover .btn-tooltip {opacity:1;right:72px;}
+            /* EMAIL BUTTON */
+            #emailBtn {position:fixed;bottom:143px;right:3px;width:56px;height:56px;border-radius:50%;background:#009541;color:#fff;border:none;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:199;box-shadow:0 4px 16px rgba(0,0,0,0.2);transition:background 0.3s, transform 0.3s;}
+            #emailBtn:hover {background:#000;transform:scale(1.08);}
+            .email-popup {position:fixed;bottom:213px;right:3px;width:300px;background:#fff;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.15);z-index:300;overflow:hidden;opacity:0;pointer-events:none;transform:translateY(10px);transition:opacity 0.3s, transform 0.3s;}
+            .email-popup.open {opacity:1;pointer-events:auto;transform:translateY(0);}
+            .email-popup-head {background:#009541;padding:16px 20px;display:flex;justify-content:space-between;align-items:center;color:#fff;font-size:13px;font-weight:600;}
+            .email-popup-close {background:none;border:none;color:#fff;font-size:16px;cursor:pointer;opacity:0.8;transition:opacity 0.2s;}
+            .email-popup-close:hover {opacity:1;}
+            .email-popup-body {padding:8px 0;}
+            .email-contact {display:flex;align-items:center;gap:12px;padding:16px 20px;text-decoration:none;transition:background 0.2s;}
+            .email-contact:hover {background:#f5f5f5;}
+            .email-avatar {width:40px;height:40px;border-radius:50%;background:#009541;color:#fff;font-size:18px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+            .email-info {flex:1;display:flex;flex-direction:column;}
+            .email-info strong {font-size:14px;color:#1a1a1a;}
+            .email-info span {font-size:12px;color:#888;}
+            .email-arrow {color:#009541;font-size:18px;}
+            .tel-popup {position: fixed;bottom: 143px;right: 30px;width: 300px;background: #fff;border-radius: 16px;box-shadow: 0 8px 32px rgba(0,0,0,0.15);z-index: 300;overflow: hidden;opacity: 0;pointer-events: none;transform: translateY(10px);transition: opacity 0.3s, transform 0.3s;}
+            .tel-popup.open {opacity: 1;pointer-events: auto;transform: translateY(0);}
+            .tel-popup-head {background: #009541;padding: 16px 20px;display: flex;justify-content: space-between;align-items: center;color: #fff;font-size: 13px;font-weight: 600;}
+            .tel-popup-close {background: none;border: none;color: #fff;font-size: 16px;cursor: pointer;opacity: 0.8;transition: opacity 0.2s;}
+            .tel-popup-close:hover {opacity: 1;}
+            .tel-popup-body {padding: 8px 0;}
+            .tel-contact {display: flex;align-items: center;gap: 12px;padding: 12px 20px;text-decoration: none;transition: background 0.2s;}
+            .tel-contact:hover {background: #f5f5f5;}
+            .tel-avatar {width: 40px;height: 40px;border-radius: 50%;background: #009541;color: #fff;font-size: 16px;font-weight: 700;display: flex;align-items: center;justify-content: center;flex-shrink: 0;}
+            .tel-info {flex: 1;display: flex;flex-direction: column;}
+            .tel-info strong {font-size: 14px;color: #1a1a1a;}
+            .tel-info span {font-size: 12px;color: #888;}
+            .tel-arrow {color: #009541;font-size: 18px;}
+            .wa-popup {position: fixed;bottom: 73px;right: 30px;width: 300px;background: #fff;border-radius: 16px;box-shadow: 0 8px 32px rgba(0,0,0,0.15);z-index: 300;overflow: hidden;opacity: 0;pointer-events: none;transform: translateY(10px);transition: opacity 0.3s, transform 0.3s;}
+            .wa-popup.open {opacity: 1;pointer-events: auto;transform: translateY(0);}
+            .wa-popup-head {background: #009541;padding: 16px 20px;display: flex;justify-content: space-between;align-items: center;color: #fff;font-size: 13px;font-weight: 600;}
+            .wa-popup-close {background: none;border: none;color: #fff;font-size: 16px;cursor: pointer;opacity: 0.8;transition: opacity 0.2s;}
+            .wa-popup-close:hover {opacity: 1;}
+            .wa-popup-body {padding: 8px 0;}
+            .wa-contact {display: flex;align-items: center;gap: 12px;padding: 12px 20px;text-decoration: none;transition: background 0.2s;}
+            .wa-contact:hover {background: #f5f5f5;}
+            .wa-avatar {width: 40px;height: 40px;border-radius: 50%;background: #009541;color: #fff;font-size: 16px;font-weight: 700;display: flex;align-items: center;justify-content: center;flex-shrink: 0;}
+            .wa-info {flex: 1;display: flex;flex-direction: column;}
+            .wa-info strong {font-size: 14px;color: #1a1a1a;}
+            .wa-info span {font-size: 12px;color: #888;}
+            .wa-arrow {color: #25D366;font-size: 18px;}
+            /* SEARCH BUTTON */
+            .search-input-wrap {display:flex;gap:8px;align-items:center;}
+            .search-input-wrap input {flex:1;padding:10px 14px;border:1px solid #E8E1D5;border-radius:8px;font-family:'Poppins',sans-serif;font-size:13px;outline:none;transition:border-color 0.3s;}
+            .search-input-wrap input:focus {border-color:#009541;}
+            .search-input-wrap button {background:#009541;color:#fff;border:none;border-radius:8px;padding:10px 14px;cursor:pointer;font-size:13px;transition:background 0.3s;}
+            .search-input-wrap button:hover {background:#000;}
+            .search-no-results {display:none;text-align:center;font-size:13px;color:#888;margin-top:10px;}
+            /* BARRA RICERCA */
+            #searchBarWrap {margin: 16px auto 24px;max-width: 600px;}
+            #searchBar {display:flex;align-items:center;gap:10px;background:#fff;border:2px solid #009541;border-radius:30px;padding:8px 18px;box-shadow:0 2px 12px rgba(0,0,0,0.08);}
+            #searchBar input {flex:1;border:none;font-family:'Poppins',sans-serif;font-size:14px;outline:none;background:transparent;}
+            #searchBar .search-count {font-size:12px;color:#888;white-space:nowrap;}
+            #searchClear {background:none;border:none;cursor:pointer;color:#aaa;font-size:18px;line-height:1;padding:0;transition:color 0.2s;display:none;}
+            #searchClear:hover {color:#009541;}
+            /* quando diventa sticky */
+            #searchBarWrap.sticky {position:fixed;top:0;left:0;right:0;z-index:190;background:#fff;margin:0;max-width:100%;padding:10px 20px;border-bottom:2px solid #009541;border-radius:0;box-shadow:0 2px 12px rgba(0,0,0,0.08);}
+            #searchBarWrap.sticky #searchBar {max-width:600px;margin:0 auto;border:2px solid #009541;border-radius:30px;box-shadow:none;}
+            body.search-sticky {padding-top: 62px;}
+            /* ACCORDION CATEGORIE */
+            .accordion-section {margin-bottom:16px;}
+            .accordion-header {display:flex;justify-content:space-between;align-items:center;background:#009541;color:#fff;padding:14px 20px;border-radius:10px;cursor:pointer;user-select:none;font-size:15px;font-weight:600;letter-spacing:0.03em;transition:background 0.3s;}
+            .accordion-header:hover {background:#007a35;}
+            .accordion-arrow {font-size:18px;transition:transform 0.35s;}
+            .accordion-body {overflow:hidden;max-height:0;transition:max-height 0.5s cubic-bezier(0.23,1,0.32,1);}
+            .accordion-body.open {max-height:20000px;}
+            .accordion-header.open .accordion-arrow {transform:rotate(180deg);}
+            /* MENU SIDEBAR */
+            .cart-overlay {position: fixed; inset: 0;background: rgba(26,23,20,0.5);z-index: 200;opacity: 0; pointer-events: none;transition: opacity 0.4s;}
+            .cart-overlay.open {opacity: 1;pointer-events: auto;}
+            .nav-cart {font-size: 1rem;background: none;border: none;color: #1A1714;opacity: 0.8;transition: opacity 0.3s;position: relative;cursor:pointer;}
+            .nav-cart:hover { opacity: 1; }
+            .menu-sidebar {position: fixed; top: 0; right: 0; bottom: 0;width: 420px;background: #F7F4EF;z-index: 201;transform: translateX(100%);transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);display: flex; flex-direction: column;}
+            .menu-sidebar.open { transform: translateX(0); }
+            .menu-head {padding: 32px;border-bottom: 1px solid #E8E1D5;display: flex; justify-content: space-between; align-items: center;}
+            .menu-head-title {font-family: 'Cormorant Garamond', serif;font-size: 1.5rem;font-weight: 300;}
+            .menu-close {background: none; border: none;font-size: 1.2rem; color: #1A1714; opacity: 0.5;transition: opacity 0.3s;cursor:pointer;}
+            .menu-close:hover { opacity: 1; }
+            .menu-body {flex: 1; display: flex; flex-direction: column;justify-content: center;padding: 0 32px;}
+            .menu-nav-links {list-style: none;margin-bottom: 48px;}
+            .menu-nav-links li {border-bottom: 1px solid #E8E1D5;}
+            .menu-nav-links a {display: block;font-family: 'Cormorant Garamond', serif;font-size: 2rem;font-weight: 300;color: #1A1714;text-decoration: none;padding: 20px 0;letter-spacing: 0.02em; opacity: 0.75; transition: opacity 0.3s, padding-left 0.3s;} 
+            .menu-nav-links a:hover { opacity: 1; padding-left: 8px; }
+            .menu-socials {display: flex; gap: 24px;}
+            .menu-socials a {font-size: 0.65rem;letter-spacing: 0.2em;text-transform: uppercase;text-decoration: none;color: #C4B9A8;transition: color 0.3s;}
+            .menu-socials a:hover { color: #1A1714; }
+            @media (max-width: 900px) { .menu-sidebar { width: 100%; } }
+            /* MARQUEE TEXT */
+            .marquee-wrap {background: #009541;padding: 18px 0;position:relative;overflow: hidden;}
+            .marquee-wrap::before, .marquee-wrap::after {content: '';position: absolute;top: 0; bottom: 0;width: 120px;z-index: 2;pointer-events: none;}
+            .marquee-wrap::before { left: 0; background: linear-gradient(to right, #009541, transparent); }
+            .marquee-wrap::after  { right: 0; background: linear-gradient(to left, #009541, transparent); }
+            .marquee-track {display: flex; gap: 16px;white-space: nowrap;animation: marquee 18s linear infinite;}
+            .marquee-item {font-size: 0.85rem;letter-spacing: 0.3em;text-transform: uppercase;color: #000;flex-shrink: 0;}
+            .marquee-dot { color: #000; margin-right: 8px; }
+            @keyframes marquee {from { transform: translateX(0); } to   { transform: translateX(-50%); }}
+            /* MARQUEE — IMAGE */
+            .marquee-wrapp {overflow: hidden;padding: 40px 0;background: #fff;border-top: 1px solid #E8E1D5;border-bottom: 1px solid #E8E1D5;position: relative;}
+            /* fade edges */
+            .marquee-wrapp::before, .marquee-wrapp::after {content: '';position: absolute; top: 0; bottom: 0; width: 120px;z-index: 2; pointer-events: none;}
+            .marquee-wrapp::before { left: 0;  background: linear-gradient(to right, #fff, transparent); }
+            .marquee-wrapp::after  { right: 0; background: linear-gradient(to left,  #fff, transparent); }
+            .marquee-trackk {display: flex; gap: 20px;width: max-content;animation: marqueee 30s linear infinite;}
+            .marquee-card {flex-shrink: 0;position: relative;overflow: hidden;border-radius: 2px;}
+            .marquee-card img {width: 160px; height: 210px;object-fit: cover;display: block;filter: saturate(0.85) brightness(0.97);transition: transform 0.6s cubic-bezier(0.23,1,0.32,1), filter 0.4s;}
+            .marquee-card:hover img {transform: scale(1.05);filter: saturate(1) brightness(1);}
+            .marquee-card-label {position: absolute; bottom: 0; left: 0; right: 0;padding: 32px 20px 18px;background: linear-gradient(to top, rgba(26,23,20,0.7) 0%, transparent 100%);opacity: 0;transition: opacity 0.3s;}
+            .marquee-card:hover .marquee-card-label { opacity: 1; }
+            .marquee-card-label span {font-family: 'Cormorant Garamond', serif;font-size: 1rem;font-style: italic;color: #F7F4EF;letter-spacing: 0.05em;}
+            /* MARQUEE REVERSE — second strip */
+            .marquee-wrapp-2 {overflow: hidden;padding: 0 0 40px;background: #fff;position: relative;}
+            .marquee-wrapp-2::before, .marquee-wrapp-2::after {content: '';position: absolute; top: 0; bottom: 0; width: 120px;z-index: 2; pointer-events: none;}
+            .marquee-wrapp-2::before { left: 0;  background: linear-gradient(to right, #fff, transparent); }
+            .marquee-wrapp-2::after  { right: 0; background: linear-gradient(to left,  #fff, transparent); }
+            .marquee-trackk-rev {display: flex; gap: 20px;width: max-content;animation: marqueee-rev 36s linear infinite;}
+            .marquee-wrapp, .marquee-wrapp-2 {max-width: 1080px;margin: 0 auto;}
+            @keyframes marqueee { from { transform: translateX(0); } to   { transform: translateX(-50%); }}
+            @keyframes marqueee-rev { from { transform: translateX(-50%); } to   { transform: translateX(0); }}
+            /* HERO */
+            .hero { position: relative; overflow: hidden; background: var(--cream); padding: 90px 25px 80px; text-align: center; }
+            .hero::before { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,149,65,0.06) 0%, transparent 60%); pointer-events: none; }
+            .hero-eyebrow { display: inline-block; font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: var(--green); font-weight: 600; border: 1px solid var(--green); border-radius: 30px; padding: 5px 18px; margin-bottom: 24px; opacity: 0; animation: fadeUp 0.7s 0.1s forwards; }
+            .hero h1 { font-family: 'Cormorant Garamond', serif; font-size: clamp(2.8rem, 7vw, 5.5rem); font-weight: 300; line-height: 1.1; color: var(--black); opacity: 0; animation: fadeUp 0.7s 0.25s forwards; }
+            .hero h1 em { font-style: italic; color: var(--green); }
+            .hero-sub { max-width: 620px; margin: 24px auto 0; font-size: 1rem; color: var(--text-muted); line-height: 1.7; opacity: 0; animation: fadeUp 0.7s 0.4s forwards; }
+            .hero-line { width: 60px; height: 2px; background: var(--green); margin: 36px auto 0; opacity: 0; animation: fadeUp 0.7s 0.55s forwards; }
+            @keyframes fadeUp {
+                from { opacity: 0; transform: translateY(24px); }
+                to   { opacity: 1; transform: translateY(0); }
+            }
+            /* STORIA */
+            .storia { padding: 90px 25px; }
+            .storia .small-container { max-width: 1080px; margin: auto; }
+            .storia-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: center; }
+            .storia-text h2 { font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 4vw, 3rem); font-weight: 300; color: var(--black); margin-bottom: 20px; line-height: 1.2; }
+            .storia-text h2 span { color: var(--green); font-style: italic; }
+            .storia-text p { color: var(--text-muted); line-height: 1.8; margin-bottom: 16px; font-size: 0.97rem; }
+            .storia-image { position: relative; }
+            .storia-image img { width: 100%; border-radius: 4px; display: block; object-fit: cover; box-shadow: 20px 20px 0 var(--border); }
+            .storia-badge { position: absolute; bottom: -20px; left: -20px; background: var(--green); color: #fff; width: 110px; height: 110px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: 'Cormorant Garamond', serif; box-shadow: 0 8px 24px rgba(0,149,65,0.3); }
+            .storia-badge strong { font-size: 2rem; font-weight: 600; line-height: 1; }
+            .storia-badge span { font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.85; }
+            /* VALORI */
+            .valori { background: var(--black); padding: 80px 25px; }
+            .valori .small-container { max-width: 1080px; margin: auto; }
+            .valori-title { font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 4vw, 3rem); font-weight: 300; color: #fff; text-align: center; margin-bottom: 56px; }
+            .valori-title em { color: var(--green); font-style: italic; }
+            .valori-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+            .valore-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 36px 28px; transition: border-color 0.3s, background 0.3s; }
+            .valore-card:hover { border-color: var(--green); background: rgba(0,149,65,0.08); }
+            .valore-icon { width: 48px; height: 48px; background: var(--green); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 20px; color: #fff; margin-bottom: 20px; }
+            .valore-card h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; font-weight: 400; color: #fff; margin-bottom: 12px; }
+            .valore-card p { font-size: 0.88rem; color: rgba(255,255,255,0.55); line-height: 1.7; }
+            /* TEAM */
+            .team { padding: 90px 25px; background: var(--cream); }
+            .team .small-container { max-width: 1080px; margin: auto; }
+            .team-header { text-align: center; margin-bottom: 60px; }
+            .team-header h2 { font-family: 'Cormorant Garamond', serif; font-size: clamp(2rem, 4vw, 3rem); font-weight: 300; color: var(--black); }
+            .team-header h2 em { color: var(--green); font-style: italic; }
+            .team-header p { color: var(--text-muted); margin-top: 12px; font-size: 0.95rem; }
+            .team-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
+            .team-card { background: #fff; border-radius: 8px; overflow: hidden; border: 1px solid var(--border); transition: transform 0.3s, box-shadow 0.3s; }
+            .team-card:hover { transform: translateY(-8px); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
+            .team-avatar { height: 200px; background: var(--green); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
+            .team-avatar::before { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,0,0,0.15) 0%, transparent 60%); }
+            .team-initials { font-family: 'Cormorant Garamond', serif; font-size: 4rem; font-weight: 300; color: rgba(255,255,255,0.9); position: relative; z-index: 1; }
+            .team-info { padding: 24px 28px; }
+            .team-info h3 { font-size: 1rem; font-weight: 600; color: var(--black); margin-bottom: 4px; }
+            .team-info .role { font-size: 0.78rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--green); font-weight: 500; margin-bottom: 14px; }
+            .team-info p { font-size: 0.88rem; color: var(--text-muted); line-height: 1.6; }
+            .team-contact { display: flex; gap: 10px; margin-top: 16px; flex-wrap: wrap; }
+            .team-contact a { display: inline-flex; align-items: center; gap: 6px; font-size: 0.8rem; color: var(--text-muted); padding: 5px 12px; border: 1px solid var(--border); border-radius: 20px; transition: all 0.3s; }
+            .team-contact a:hover { border-color: var(--green); color: var(--green); }
+            /* NUMERI */
+            .numeri { padding: 80px 25px; background: #fff; }
+            .numeri .small-container { max-width: 1080px; margin: auto; }
+            .numeri-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; text-align: center; }
+            .numero-box { padding: 36px 20px; border: 1px solid var(--border); border-radius: 8px; transition: border-color 0.3s; }
+            .numero-box:hover { border-color: var(--green); }
+            .numero-box .num { font-family: 'Cormorant Garamond', serif; font-size: 3.5rem; font-weight: 600; color: var(--green); line-height: 1; }
+            .numero-box .suffix { font-size: 1.5rem; }
+            .numero-box p { font-size: 0.82rem; color: var(--text-muted); margin-top: 8px; letter-spacing: 0.05em; text-transform: uppercase; }
+            @media only screen and (max-width: 768px) {
+                /* HERO */
+                .hero { padding: 60px 20px 50px; }
+                .hero h1 { font-size: clamp(2.2rem, 10vw, 3rem); }
+                .hero-sub { font-size: 0.92rem; }
+                /* STORIA */
+                .storia { padding: 60px 20px; }
+                .storia-grid { grid-template-columns: 1fr; gap: 40px; }
+                .storia-image { margin-top: 20px; }
+                .storia-badge { width: 90px; height: 90px; bottom: -14px; left: -10px; }
+                .storia-badge strong { font-size: 1.6rem; }
+                /* NUMERI */
+                .numeri { padding: 60px 20px; }
+                .numeri-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+                .numero-box { padding: 24px 14px; }
+                .numero-box .num { font-size: 2.5rem; }
+                /* VALORI */
+                .valori { padding: 60px 20px; }
+                .valori-grid { grid-template-columns: 1fr; gap: 20px; }
+                .valore-card { padding: 28px 20px; }
+                /* TEAM */
+                .team { padding: 60px 20px; }
+                .team-grid { grid-template-columns: 1fr; gap: 20px; }
+                .team-header { margin-bottom: 36px; }
+            }
+            @media only screen and (max-width: 480px) {
+                .numeri-grid { grid-template-columns: repeat(2, 1fr); }
+                .storia-text h2 { font-size: 1.8rem; }
+                .valori-title, .team-header h2 { font-size: 1.9rem; }
+                .accordion-header { font-size: 14px; padding: 12px 16px; }
+                .menu-sidebar { width: 100%; }
+                .hero-eyebrow { font-size: 0.62rem; letter-spacing: 0.25em; }
+            }
+            /*---------*/
+            .header .row{margin-top: 70px;}
+            .col-2{flex-basis: 50%;min-width: 300px;}
+            .col-2 img{max-width: 100%;padding: 50px 0;}
+            .col-2 h1{font-size: 50px;line-height: 60px;margin: 25px 0;}
+            .btn{display: inline-block;background: #009541;color: #fff;padding: 8px 30px;margin: 30px 0;border-radius: 30px;transition: background 0.5s;border:none;}
+            .btn:hover{background: #000000;}
+            /*-----------------------------*/
+            .categories{margin: 70px 0;}
+            .small-container{max-width: 1080px;margin: auto; margin-top: 50px;padding-left: 25px;padding-right: 25px;}
+            .col-3{flex-basis: 30%;min-width: 250px;margin-bottom: 30px;}
+            .col-3 img{width: 100%;}
+            .slider-container {position: relative;width: 80%;max-width: 800px;overflow: hidden;border-radius: 5px;background-color: #fff;}
+            .slider {display: flex;transition: transform 0.5s ease-in-out;}
+            /* FIX #2: corretto il selettore da discendente a lista separata da virgole */
+            .slide1, .slide2, .slide3 {min-width: 100%;height: 200px;object-fit: cover;display: block;scroll-behavior: smooth;}
+            /*-------featured product--------------*/
+            .title{text-align: center;margin: 0px auto 80px;position: relative;line-height: 60px;color: #555;}
+            .title::after{content: '';background: #009541;width: 80px;height: 5px;border-radius: 5px;position: absolute;bottom: 0;left: 50%;transform: translateX(-50%);}
+            .col-4{flex-basis: 25%;padding: 10px;min-width: 200px;margin-bottom: 50px;transition: transform 0.5s;}
+            .col-4 img{width: 100%;}
+            h4{color: #555;font-weight: normal;}
+            .col-4 p{font-size: 14px;}
+            .rating .fa{color: #009541;}
+            .col-4:hover{transform: translateY(-5px);}
+            /*-----------offer-------------*/
+            .offer{background: #fff;margin-top: 80px;padding: 30px 0;}
+            /* FIX #4: padding laterale esplicito per offer-img, evita conflitto con .col-2 img {padding: 50px 0} */
+            .col-2 .offer-img{padding: 50px 0;}
+            small{color: #555;}
+            /*--------------------testimonial---------------*/
+            .testimonial{padding-top: 100px;}
+            .testimonial .col-3{text-align: center;padding: 40px 20px 40px;box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);cursor: pointer;transition: transform .5s;}
+            .testimonial .col-3 img{width: 50px;margin-top: 20px;border-radius: 50%;}
+            .fa.fa-quote-left{font-size: 34px;color: #009541;}
+            .col-3 p{font-size: 12px;margin: 12px 0px;color: #777;}
+            .testimonial .col-3 h3{font-weight: 600;color: #555;font-size: 16px;}
+            .testimonial .col-3:hover{transform: translateY(-10px);}
+            /*--------------- brands ------------*/
+            .brands{margin: 100px auto;}
+            .col-5{width: 160px;}
+            .col-5 img{width: 100%;cursor: pointer;filter: grayscale(100%);}
+            .col-5 img:hover{filter: grayscale(0);}
+            /*---------footer-------*/
+            .footer{background: #fff;color: #8a8a8a;font-size: 14px;padding: 60px 0 20px;}
+            .footer p{color: #8a8a8a;}
+            .footer h3{color: #fff;margin-bottom: 20px;}
+            .footer-col1,.footer-col2,.footer-col3,.footer-col4{min-width: 250px;margin-bottom: 20px;}
+            .footer-col1{flex-basis: 30%;}
+            .footer-col2{flex: 1;text-align: center;}
+            .footer-col2 img{width: 180px;margin-bottom: 20px;}
+            .footer-col3,.footer-col4{flex-basis: 12%;text-align: center;}
+            .app-logo{margin-top: 20px;}
+            .app-logo img{width: 140px;}
+            .footer li{display: block;}
+            .footer hr{border: none;background: #b5b5b5;height: 1px;margin:  20px 0;}
+            .copyright{text-align: center;}
+            /*-------media-query-for-max-width-1000---------*/
+            @media only screen and (max-width: 1000px){
+                /* FIX #5: rimossa la prima "transition: 1s" duplicata, mantenuta solo "transition: max-height 0.5s" */
+                nav ul:not(.menu-nav-links){position: absolute;top: 70px;left: 0;background: #333;width: 100%;overflow: hidden;max-height: 0;transition: max-height 0.5s;}
+                nav ul:not(.menu-nav-links) li{display: block;margin-right: 50px;margin-top: 10px;margin-bottom: 10px;}
+                nav ul:not(.menu-nav-links) li a{color: #fff;}
+                .menu-icon{display: block;cursor: pointer;}}
+            /* FIX #1: unificato il primo blocco @media 600px */
+            @media only screen and (max-width: 600px){
+                .row{text-align: center;}
+                .col-1, .col-2, .col-3{flex-basis: 100%;}
+                .col-4{flex-basis: 50%; min-width: 0;}
+                /* FIX #1: spostato qui il secondo blocco 600px che era separato (single-product) */
+                .single-product .row{text-align: left;}
+                .single-product .col-2{padding: 20px 0;}
+                .single-product h1{font-size: 26px;line-height: 22px;}}
+            /*----------All Product page------------*/
+            .row-2{justify-content: space-between;margin: 100px auto 50px;}
+            select{border: 1px solid #ff523b;padding: 5px;}
+            select:focus{outline: none;}
+            .page-btn{margin: 0 auto 80px;}
+            .page-btn span{display: inline-block;border: 1px solid #ff523b;margin-left: 10px;width: 40px;height: 40px;text-align: center;line-height: 40px;cursor: pointer;}
+            .page-btn span:hover{background: #ff523b;color: #fff;}
+            /*---------product details-----------*/
+            .single-product{margin-top: 80px;}
+            .single-product .col-2 img{padding: 0;}
+            .single-product .col-2{padding: 20px;}
+            .single-product h4{margin: 20px 0;font-size: 22px;font-weight: bold;}
+            .single-product select{display: block;padding: 10px;margin-top: 20px;}
+            .single-product input{width: 50px;height: 40px;padding-left: 10px;font-size: 20px;margin-right: 10px;border: 1px solid #ff523b;}
+            input:focus{outline: none;}
+            .single-product .fa{color: #009541;margin-left: 10px;}
+            .small-img-row{display: flex;justify-content: space-between;}
+            .small-img-col{flex-basis: 24%;cursor: pointer;}
+            /* FIX #3: .col-3 p usa #777 ma il footer usa .footer-col3 che eredita anche .col-3 p.
+               Aggiunto override esplicito per garantire il colore corretto nel footer */
+            .footer-col3 p, .footer-col4 p { color: #8a8a8a; }
+            /*---------------- cart page -----------*/
+            .cart-page{margin: 80px auto;}
+            table{width: 100%;border-collapse: collapse;}
+            .cart-info{display: flex;flex-wrap: wrap;}
+            th{text-align: left;padding: 5px;color: #fff;background: #ff523b;font-weight: normal;}
+            td{padding: 10px 5px;}
+            td input{width: 40px;height: 30px;padding: 5px;}
+            td a{color: #ff523b;font-size: 12px;}
+            td img{width: 80px;height: 80px;margin-right: 10px;}
+            .total-price{display: flex;justify-content: flex-end;}
+            .total-price table{border-top: 3px solid #ff523b;width: 100%;max-width: 350px;}
+            td:last-child{text-align: right;}
+            th:last-child{text-align: right;}
+            @media only screen and (max-width: 600px){.cart-info p{display: none;}}
+            /*-------account page--------*/
+            .account-page{padding: 50px 0;background: radial-gradient(#fff,#ffd6d6);}
+            .form-container{background: #fff;width: 300px;height: 400px;position: relative;text-align: center;padding: 20px 0;margin: auto;box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);overflow: hidden;}
+            .form-container span{font-weight: bold;padding: 0 10px;color: #555;cursor: pointer;width: 100px;display: inline-block;}
+            .form-btn{display: inline-block;}
+            #indicator{width: 100px;border: none;background: #ff523b;height: 3px;margin-top: 8px;transform: translateX(100px);transition: transform 1s;}
+            .form-container form{max-width: 300px;padding: 0 20px;position: absolute;top: 130px;transition: transform 1s;}
+            form input{width: 100%;height: 30px;margin: 10px 0;padding: 0 10px;border: 1px solid #ccc;}
+            form input:focus{outline: none;}
+            form .btn{width: 100%;border: none;cursor: pointer;margin: 10px 0;}
+            form .btn:focus{outline: none;}
+            form a{font-size: 12px;}
+            #LoginForm{left: -300px;}
+            #RegForm{left: 0;}
+            /*--back-to-top button--*/
+            .back-to-top {position: fixed;bottom: 20px;right: 20px;padding: 10px 15px;font-size: 16px;cursor: pointer;background-color: black;color: white;border: none;border-radius: 5px;z-index: 1000;}
+        </style>
+    </head>
+    <!--oncopy="return false;" oncut="return false;" onpaste="return false;" onselectstart="return false;" oncontextmenu="return false;"-->
+    <body oncopy="return false;" oncut="return false;" onpaste="return false;" onselectstart="return false;" oncontextmenu="return false;">
+        <header>
+            <div class="header">
+                <div class="container">
+                    <nav>
+                        <div class="navbar">
+                            <div class="logo">
+                                <a href="https://novig.it"><img src="https://novig.it/Immagini/novigLogo.png" width="125px"></a>
+                            </div>
+                            <div class="cart-overlay" id="menuOverlay" onclick="closeMenu()"></div>
+                            <aside class="menu-sidebar" id="menuSidebar">
+                                <div class="menu-head">
+                                    <h2 class="menu-head-title">Menu</h2>
+                                    <button class="menu-close" onclick="closeMenu()">✕</button>
+                                </div>
+                                <div class="menu-body">
+                                    <ul class="menu-nav-links">
+                                        <li><a href="https://novig.it/" onclick="closeMenu()">Home</a></li>
+                                        <li><a href="https://novig.it/catalogo-generale/" onclick="closeMenu()">Catalogo Generale</a></li>                       
+                                        <li><a onclick="openModal('https://novig.it/richiesta-listino-prezzi.html')" onclick="closeMenu()">Richiedi Listino Prezzi</a></li>
+                                        <li><a href="https://novig.it/chi-siamo/" onclick="closeMenu()">Chi Siamo</a></li>
+                                    </ul>
+                                    <div class="menu-socials">
+                                        <a href="https://www.instagram.com/novigsnc/"target="_blank">Instagram</a>
+                                        <a href="https://www.facebook.com/novig.it/"target="_blank">Facebook</a>
+                                        <a href="https://www.facebook.com/groups/1873244559425021/"target="_blank">Blog</a>
+                                    </div>
+                                </div>
+                            </aside>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <main>
+            <!-- MARQUEE -->
+            <div class="marquee-wrap">
+                <div class="marquee-track" id="marqueeTrack"></div>
+            </div>
+
+            <!-- HERO -->
+            <section class="hero">
+                <span class="hero-eyebrow">La nostra storia</span>
+                <h1>Chi <em>Siamo</em></h1>
+                <p class="hero-sub">Da oltre cinquant'anni al fianco delle lavanderie professionali italiane, con passione, competenza e la dedizione di una famiglia.</p>
+                <div class="hero-line"></div>
+            </section>
+
+            <!-- STORIA -->
+            <section class="storia">
+                <div class="small-container">
+                    <div class="storia-grid">
+                        <div class="storia-text reveal">
+                            <h2>Una storia di <span>famiglia</span> e professionalità</h2>
+                            <p>La NoviG s.n.c. nasce dalla visione imprenditoriale di Gioacchino Novi, con l'obiettivo di diventare il punto di riferimento per le lavanderie professionali in tutta Italia. Nel corso degli anni, l'azienda si è consolidata come partner affidabile per centinaia di operatori del settore.</p>
+                            <p>Oggi, con il coinvolgimento dei figli Paolo e Gianmarco, Novig è cresciuta fino a offrire un catalogo completo di attrezzature, prodotti chimici e accessori per lavanderie — tutto con la qualità e l'assistenza che contraddistinguono le aziende a conduzione familiare.</p>
+                            <p>La nostra sede è in Campania, ma serviamo clienti in tutta Italia con spedizioni rapide e un servizio di assistenza tecnica sempre a disposizione.</p>
+                            <a href="https://novig.it/catalogo-generale/" class="btn" style="margin-top: 8px;">Scopri il Catalogo →</a>
+                        </div>
+                        <div class="storia-image reveal" style="transition-delay: 0.15s">
+                            <img src="https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/IMESA_PROEasyLine_01_W.jpg" alt="Attrezzature Lavanderia">
+                            <div class="storia-badge">
+                                <strong>50+</strong>
+                                <span>anni</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- NUMERI -->
+            <section class="numeri">
+                <div class="small-container">
+                    <div class="numeri-grid">
+                        <div class="numero-box reveal">
+                            <div class="num">50<span class="suffix">+</span></div>
+                            <p>Anni di esperienza</p>
+                        </div>
+                        <div class="numero-box reveal" style="transition-delay: 0.1s">
+                            <div class="num">500<span class="suffix">+</span></div>
+                            <p>Clienti serviti</p>
+                        </div>
+                        <div class="numero-box reveal" style="transition-delay: 0.2s">
+                            <div class="num">20<span class="suffix">+</span></div>
+                            <p>Brand in catalogo</p>
+                        </div>
+                        <div class="numero-box reveal" style="transition-delay: 0.3s">
+                            <div class="num">100<span class="suffix">%</span></div>
+                            <p>Spedizioni in Italia</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- VALORI -->
+            <section class="valori">
+                <div class="small-container">
+                    <h2 class="valori-title reveal">I nostri <em>valori</em></h2>
+                    <div class="valori-grid">
+                        <div class="valore-card reveal">
+                            <div class="valore-icon"><i class="fa fa-handshake-o"></i></div>
+                            <h3>Fiducia</h3>
+                            <p>Costruiamo relazioni durature con i nostri clienti, basate sulla trasparenza, la serietà e il rispetto reciproco. Il tuo successo è il nostro successo.</p>
+                        </div>
+                        <div class="valore-card reveal" style="transition-delay: 0.1s">
+                            <div class="valore-icon"><i class="fa fa-cogs"></i></div>
+                            <h3>Competenza</h3>
+                            <p>Conosciamo a fondo ogni prodotto e attrezzatura che vendiamo. Il nostro team è formato e aggiornato per offrire la consulenza più precisa e professionale.</p>
+                        </div>
+                        <div class="valore-card reveal" style="transition-delay: 0.2s">
+                            <div class="valore-icon"><i class="fa fa-truck"></i></div>
+                            <h3>Puntualità</h3>
+                            <p>Spediamo in tutta Italia con tempi rapidi e tracciabilità garantita. Sappiamo che per te ogni giorno conta e ci impegniamo a non farti attendere.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TEAM -->
+            <section class="team">
+                <div class="small-container">
+                    <div class="team-header reveal">
+                        <h2>Il nostro <em>team</em></h2>
+                        <p>Tre generazioni unite dalla stessa passione per le lavanderie professionali</p>
+                    </div>
+                    <div class="team-grid">
+                        <!-- Gioacchino -->
+                        <div class="team-card reveal">
+                            <div class="team-avatar" style="background: #005c28;">
+                                <div class="team-initials">GN</div>
+                            </div>
+                            <div class="team-info">
+                                <h3>Gioacchino Novi</h3>
+                                <div class="role">Fondatore</div>
+                                <p>La mente e il cuore della NoviG. Con decenni di esperienza nel settore, Gioacchino ha costruito un'azienda fondata sulla qualità dei prodotti e sulla cura del cliente.</p>
+                                <div class="team-contact">
+                                    <a href="tel:3397393099"><i class="fa fa-phone"></i> 339 7393099</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Paolo -->
+                        <div class="team-card reveal" style="transition-delay: 0.2s">
+                            <div class="team-avatar" style="background: #007a35;">
+                                <div class="team-initials">PN</div>
+                            </div>
+                            <div class="team-info">
+                                <h3>Paolo Novi</h3>
+                                <div class="role">Assistenza Tecnica</div>
+                                <p>Paolo è il punto di riferimento per tutto ciò che riguarda l'assistenza tecnica, installazioni e riparazioni di attrezzature per lavanderia.</p>
+                                <div class="team-contact">
+                                    <a href="tel:3291561726"><i class="fa fa-phone"></i> 329 1561726</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Gianmarco -->
+                        <div class="team-card reveal" style="transition-delay: 0.1s">
+                            <div class="team-avatar" style="background: #009541;">
+                                <div class="team-initials">GN</div>
+                            </div>
+                            <div class="team-info">
+                                <h3>Gianmarco Novi</h3>
+                                <div class="role">Commerciale & Vendite</div>
+                                <p>Gianmarco gestisce le relazioni commerciali e la consulenza ai clienti, garantendo sempre la soluzione più adatta alle esigenze di ogni lavanderia professionale.</p>
+                                <div class="team-contact">
+                                    <a href="tel:3382562456"><i class="fa fa-phone"></i> 338 2562456</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main> 
+        <footer>
+            <div class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="footer-col4">
+                        <h3 style="color:#000">CONTATTACI</h3>
+                            <ul>
+                                <li><a href="tel:081 0604604">Ufficio: 081 0604604</a></li>
+                                <li><a href="tel:339 7393099">Gioacchino Novi: 339 7393099</a></li>
+                                <li><a href="tel:329 1561726">Paolo Novi: 329 1561726</a></li>
+                                <li><a href="tel:338 2562456">Gianmarco Novi: 338 2562456</a></li>
+                                <li><a href="mailto: novigsnc@gmail.com">Mail: novigsnc@gmail.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <hr>
+                    <p class="copyright">Copyright 2019@ novig.it - Tutti i diritti sono riservati.</p>
+                </div>
+            </div>
+        </footer>
+        <button id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'})">VAI SU</button>
+        <button id="hamburger" onclick="toggleMenu()" aria-label="Menu">MENU</button>
+        <!-- PULSANTE EMAIL -->
+        <button id="emailBtn" onclick="toggleEmailPopup()" aria-label="Email">
+            <span class="btn-tooltip">Mandaci una mail</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 2-8 5-8-5h16zm0 12H4V8.236l8 5 8-5V18z"/></svg>
+        </button>
+        <!-- POPUP EMAIL -->
+        <div id="emailPopup" class="email-popup">
+            <div class="email-popup-head">
+                <span>&#9993; Mandaci una mail</span>
+                <button class="email-popup-close" onclick="toggleEmailPopup()">&#10005;</button>
+            </div>
+            <div class="email-popup-body">
+                <a class="email-contact" href="mailto:novigsnc@gmail.com">
+                    <div class="email-avatar">&#9993;</div>
+                    <div class="email-info"><strong>novigsnc@gmail.com</strong><span>Scrivici per qualsiasi richiesta</span></div>
+                    <div class="email-arrow">&#8594;</div>
+                </a>
+            </div>
+        </div>
+        <!-- PULSANTE TELEFONO -->
+        <button id="telBtn" onclick="toggleTelPopup()" aria-label="Telefono">
+            <span class="btn-tooltip">Chiamaci</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24"><path d="M6.62 10.79a15.05 15.05 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.61 21 3 13.39 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.46.57 3.58a1 1 0 0 1-.25 1.01l-2.2 2.2z"/></svg>
+        </button>
+        <!-- POPUP CONTATTI TELEFONO -->
+        <div id="telPopup" class="tel-popup">
+            <div class="tel-popup-head">
+                <span>&#128222; Chiamaci</span>
+                <button class="tel-popup-close" onclick="toggleTelPopup()">&#10005;</button>
+            </div>
+            <div class="tel-popup-body">
+                <a class="tel-contact" href="tel:+390810604604">
+                    <div class="tel-avatar" style="background:#555">U</div>
+                    <div class="tel-info"><strong>Ufficio</strong><span>081 0604604</span></div>
+                    <div class="tel-arrow">&#8594;</div>
+                </a>
+                <a class="tel-contact" href="tel:+393397393099">
+                    <div class="tel-avatar">G</div>
+                    <div class="tel-info"><strong>Gioacchino Novi</strong><span>339 7393099</span></div>
+                    <div class="tel-arrow">&#8594;</div>
+                </a>
+                <a class="tel-contact" href="tel:+393291561726">
+                    <div class="tel-avatar">P</div>
+                    <div class="tel-info"><strong>Paolo Novi</strong><span>329 1561726</span></div>
+                    <div class="tel-arrow">&#8594;</div>
+                </a>
+                <a class="tel-contact" href="tel:+393382562456">
+                    <div class="tel-avatar">G</div>
+                    <div class="tel-info"><strong>Gianmarco Novi</strong><span>338 2562456</span></div>
+                    <div class="tel-arrow">&#8594;</div>
+                </a>
+            </div>
+        </div>
+        <!-- POPUP CONTATTI WHATSAPP -->
+        <div id="waPopup" class="wa-popup">
+            <div class="wa-popup-head">
+                <span>💬 Contattaci su WhatsApp</span>
+                <button class="wa-popup-close" onclick="toggleWaPopup()">✕</button>
+            </div>
+            <div class="wa-popup-body">
+                <a class="wa-contact" href="https://wa.me/390810604604" target="_blank" rel="noopener">
+                    <div class="wa-avatar">U</div>
+                    <div class="wa-info">
+                        <strong>Ufficio</strong>
+                    </div>
+                    <div class="wa-arrow">→</div>
+                </a>
+                <a class="wa-contact" href="https://wa.me/393397393099" target="_blank" rel="noopener">
+                    <div class="wa-avatar">G</div>
+                    <div class="wa-info">
+                        <strong>Gioacchino Novi</strong>
+                    </div>
+                    <div class="wa-arrow">→</div>
+                </a>
+                <a class="wa-contact" href="https://wa.me/393291561726" target="_blank" rel="noopener">
+                    <div class="wa-avatar">P</div>
+                    <div class="wa-info">
+                        <strong>Paolo Novi</strong>
+                    </div>
+                    <div class="wa-arrow">→</div>
+                </a>
+                <a class="wa-contact" href="https://wa.me/393382562456" target="_blank" rel="noopener">
+                    <div class="wa-avatar">G</div>
+                    <div class="wa-info">
+                        <strong>Gianmarco Novi</strong>
+                    </div>
+                    <div class="wa-arrow">→</div>
+                </a>
+            </div>
+        </div>
+        <!-- WHATSAPP CUSTOM WIDGET -->
+        <button id="waBtn" onclick="toggleWaPopup()" aria-label="WhatsApp">
+            <span class="btn-tooltip">Scrivici su WhatsApp</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="26" height="26">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+                <path d="M12 0C5.373 0 0 5.373 0 12c0 2.125.558 4.122 1.533 5.858L.054 23.05a.75.75 0 0 0 .916.916l5.192-1.479A11.942 11.942 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.75a9.71 9.71 0 0 1-4.951-1.354l-.355-.211-3.683 1.048 1.048-3.683-.211-.355A9.71 9.71 0 0 1 2.25 12C2.25 6.615 6.615 2.25 12 2.25S21.75 6.615 21.75 12 17.385 21.75 12 21.75z"/>
+            </svg>
+        </button>
+        <script>
+            //BACKTOTOP
+            window.addEventListener('scroll', function() {document.getElementById('backToTop').classList.toggle('visible', window.scrollY > 300);});
+            
+            // WHATSAPP BUTTON
+            function toggleWaPopup() {
+                document.getElementById('waPopup').classList.toggle('open');
+                document.getElementById('telPopup').classList.remove('open');
+                document.getElementById('emailPopup').classList.remove('open');
+            }
+            // TELEFONO BUTTON
+            function toggleTelPopup() {
+                document.getElementById('telPopup').classList.toggle('open');
+                document.getElementById('waPopup').classList.remove('open');
+                document.getElementById('emailPopup').classList.remove('open');
+            }
+            // EMAIL BUTTON
+            function toggleEmailPopup() {
+                document.getElementById('emailPopup').classList.toggle('open');
+                document.getElementById('waPopup').classList.remove('open');
+                document.getElementById('telPopup').classList.remove('open');
+            }
+            // chiudi popup cliccando fuori
+            document.addEventListener('click', function(e) {
+                const waPopup    = document.getElementById('waPopup');
+                const waBtn      = document.getElementById('waBtn');
+                const telPopup   = document.getElementById('telPopup');
+                const telBtn     = document.getElementById('telBtn');
+                const emailPopup = document.getElementById('emailPopup');
+                const emailBtn   = document.getElementById('emailBtn');
+                if (!waPopup.contains(e.target) && !waBtn.contains(e.target)) waPopup.classList.remove('openn');
+                if (!telPopup.contains(e.target) && !telBtn.contains(e.target)) telPopup.classList.remove('open');
+                if (!emailPopup.contains(e.target) && !emailBtn.contains(e.target)) emailPopup.classList.remove('open');
+            });
+            
+            // HAMBURGER MENU
+            let menuOpen = false;
+            function toggleMenu() {
+            menuOpen = !menuOpen;
+            document.getElementById('menuOverlay').classList.toggle('open', menuOpen);
+            document.getElementById('menuSidebar').classList.toggle('open', menuOpen);
+            document.getElementById('hamburger').textContent = menuOpen ? 'Chiudi' : 'MENU';
+            document.body.style.overflow = menuOpen ? 'hidden' : '';
+            }
+            function closeMenu() {
+            menuOpen = false;
+            document.getElementById('menuOverlay').classList.remove('open');
+            document.getElementById('menuSidebar').classList.remove('open');
+            document.getElementById('hamburger').textContent = 'MENU';
+            document.body.style.overflow = '';
+            }
+
+            // MARQUEE TEXT
+            const items = ['Spedizioni in Tutta Italia', 'Accessori', 'Prodotti Chimici', 'Attrezzature Lavanderia'];
+            const track = document.getElementById('marqueeTrack');
+            let html = '';
+            for (let i = 0; i < 3; i++) {
+            items.forEach(item => {
+                html += `<span class="marquee-item">${item}</span><span class="marquee-item marquee-dot">✦</span>`;
+            });
+            }
+            track.innerHTML = html;
+            // MARQUEE IMAGES
+            const marqueeImages = [
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Additivi/Certisan K.png', label: 'Certisan K' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 1lt.png', label: 'Oxon 1lt' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Additivi/Sfeltran-tex.png', label: 'Sfeltran-tex' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Appretti/Deopret.png', label: 'Deopret' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Appretti/Okay.png', label: 'Okay' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Appretti/Renova.png', label: 'Renova' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Appretti/Wrinkle.png', label: 'Wrinkle' },
+            { url: 'https://novig.it/Immagini/Categorie/Prodotti/Deoamm 1lt/Ambra Vanilla.png', label: 'Ambra & Vanilla 1lt' },
+            ];
+            const marqueeImages2 = [
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Stiro/Generatori di Vapore/Vaporino 2lt 3.jpg', label: 'Vaporino 2lt' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_14_18_23.png', label: 'Supercentrifugante 18kg' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_26_32.png', label: 'Supercentrifugante 32kg' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Stiro/Tavoli da Stiro/Tavolo aspirante vaporizzante 1270 caldaia.jpg', label: 'Vaporizzante con Caldaia' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/IMESA_PROEasyLine_01_W.jpg', label: 'Professional 8kg' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Imballaggio/Imbustatrice Murale Manuale.png', label: 'Imbustatrice a Muro' },
+            { url: 'https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 11_14_18.jpg', label: 'Essiccatoio 18kg' },
+            ];
+
+            function buildMarquee(trackEl, images) {
+            let html = '';
+            // duplicate for seamless loop
+            for (let i = 0; i < 2; i++) {
+                images.forEach(img => {
+                html += `
+                    <div class="marquee-card">
+                    <img src="${img.url}" alt="${img.label}" loading="lazy"/>
+                    <div class="marquee-card-label"><span>${img.label}</span></div>
+                    </div>`;
+                });
+            }
+            trackEl.innerHTML = html;
+            }
+
+            buildMarquee(document.getElementById('marqueeTrackk'), marqueeImages);
+            buildMarquee(document.getElementById('marqueeTrackk2'), marqueeImages2);
+
+            //IFRAME MODAL
+            function openModal(url) {
+                document.getElementById('iframeContent').src = url;
+                document.getElementById('iframeModal').classList.add('open');
+                document.body.style.overflow = 'hidden';
+                document.getElementById('backToTop').style.display = 'none';
+            }
+            function closeModal() {
+                document.getElementById('iframeModal').classList.remove('open');
+                document.getElementById('iframeContent').src = '';
+                document.body.style.overflow = '';
+                document.getElementById('backToTop').style.display = '';
+            }
+
+        </script>
+        <div id="iframeModal" class="iframe-modal-overlay" onclick="closeModal()">
+            <div class="iframe-modal-box" onclick="event.stopPropagation()">
+                <button class="iframe-modal-close btn" onclick="closeModal()">✕ Chiudi</button>
+                <iframe id="iframeContent" src="" frameborder="0"></iframe>
+            </div>
+        </div>
+    </body>
+</html>

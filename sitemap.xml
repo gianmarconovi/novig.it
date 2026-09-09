@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Pagine principali -->
+  <url>
+    <loc>https://www.novig.it/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.novig.it/chi-siamo/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sezione: Prodotti Chimici -->
+  <!-- Additivi -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#additivi</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Ammorbidenti -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#ammorbidenti</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Appretti -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#appretti</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Deospray -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#deospray</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Detergenti -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#detergenti</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Essenze -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#essenze</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Finissanti -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#finissanti</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Monodose -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#monodose</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Pavimenti -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#pavimenti</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Presmacchiatori -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#presmacchiatori</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Rafforzatori -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#rafforzatori</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Smacchiatori -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#smacchiatori</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Solventi -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#solventi</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Sezione: Accessori -->
+  <!-- Grucce e Accessori -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#grucce-accessori</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Imballaggio -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#imballaggio</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Accessori Lavaggio -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#accessori-lavaggio</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Marcatura -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#marcatura</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Spazzole -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#spazzole</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Stender e Carrelli -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#stender-carrelli</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Stiratura -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#stiratura</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Sezione: Attrezzature Lavanderia -->
+  <!-- Asciugatura -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#asciugatura</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Gestione Deposito -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#gestione-deposito</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Imballaggio Attrezzature -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#attrezzature-imballaggio</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Lavaggio ad Acqua -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#lavaggio-acqua</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Tavoli e Attrezzature da Stiro -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#attrezzature-stiro</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sezione: Ricambi -->
+  <url>
+    <loc>https://www.novig.it/catalogo-generale/#ricambi</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

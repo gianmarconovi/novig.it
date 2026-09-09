@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="I migliori prodotti per la tua lavanderia">
+        <meta name="keywords" content="novig.it, novig, novi, gioacchino, paolo, acqua, sapone, sfuso, intero, detersfuso, detersivo, detergente, ammorbidente, additivo, sgrassatore, smacchiatore, liquido, polvere, prodotto, lavanderia, lavaggio, a secco, assistenza, tecnica, bobina, buste, maglie, piumoni, pantaloni, camicie, cravatte, giacche, cappotti, lucide, sagomate, rettangolari, percloro, dowper, tintolav, ghidini, imesa, iron, tecnology, ferro, da, stiro, tavolo, resistenza, termostato, caldaia, pressostato, elettricista, idraulico, termoidraulica, bertolini, casella, riat, sagi, vella, lavanderie shop, lavanderiastore, store">
+        <meta property="og:title" content="novig.it">
+        <meta property="og:description" content="I migliori prodotti per la tua lavanderia">
+        <meta property="og:url" content="https://novig.it/">
+        <meta property="og:site_name" content="novig.it">
+        <meta property="og:type" content="website">
+        <title>novig.it | Accessori</title>
+        <link rel="icon" type="image/svg+xml" href="https://novig.it/Immagini/novigLogoFavicon.ico">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-------------- novig.it Style -------------->
+        <style>
+            *{margin: 0;padding: 0;box-sizing: border-box;}
+            html { scroll-behavior: smooth; }
+            body{font-family: 'Poppins', sans-serif;}
+            a{text-decoration: none;color: #555;}
+            p{color: #555;}
+            .header{background: #fff;}
+            .container{max-width: 1300px;margin: auto;padding-left: 25px;padding-right: 25px;}
+            .navbar {display: flex;flex-direction: column;align-items: center;padding: 20px;gap: 8px;}
+            nav {text-align: center;}
+            nav ul{display: inline-block;list-style-type: none;}
+            nav ul li{display: inline-block;margin-right: 20px;}
+            .menu-icon{display: none;width: 28px;margin-left: 20px;}
+            .row{display: flex;align-items: center;flex-wrap: wrap;justify-content: space-around;}
+            /*BACKTOTOP*/
+            #backToTop {position: fixed;bottom: 30px;left: 50%;transform: translateX(-50%);z-index: 1000;opacity: 0;pointer-events: none;transition: opacity 0.4s, background 0.5s;cursor:pointer;}
+            #backToTop.visible {opacity: 1;pointer-events: auto;}
+            /* MENU SIDEBAR */
+            .cart-overlay {position: fixed; inset: 0;background: rgba(26,23,20,0.5);z-index: 200;opacity: 0; pointer-events: none;transition: opacity 0.4s;}
+            .cart-overlay.open {opacity: 1;pointer-events: auto;}
+            .nav-cart {font-size: 1rem;background: none;border: none;color: #1A1714;opacity: 0.8;transition: opacity 0.3s;position: relative;cursor:pointer;}
+            .nav-cart:hover { opacity: 1; }
+            .menu-sidebar {position: fixed; top: 0; right: 0; bottom: 0;width: 420px;background: #F7F4EF;z-index: 201;transform: translateX(100%);transition: transform 0.5s cubic-bezier(0.23,1,0.32,1);display: flex; flex-direction: column;}
+            .menu-sidebar.open { transform: translateX(0); }
+            .menu-head {padding: 32px;border-bottom: 1px solid #E8E1D5;display: flex; justify-content: space-between; align-items: center;}
+            .menu-head-title {font-family: 'Cormorant Garamond', serif;font-size: 1.5rem;font-weight: 300;}
+            .menu-close {background: none; border: none;font-size: 1.2rem; color: #1A1714; opacity: 0.5;transition: opacity 0.3s;cursor:pointer;}
+            .menu-close:hover { opacity: 1; }
+            .menu-body {flex: 1; display: flex; flex-direction: column;justify-content: center;padding: 0 32px;}
+            .menu-nav-links {list-style: none;margin-bottom: 48px;}
+            .menu-nav-links li {border-bottom: 1px solid #E8E1D5;}
+            .menu-nav-links a {display: block;font-family: 'Cormorant Garamond', serif;font-size: 2rem;font-weight: 300;color: #1A1714;text-decoration: none;padding: 20px 0;letter-spacing: 0.02em; opacity: 0.75; transition: opacity 0.3s, padding-left 0.3s;} 
+            .menu-nav-links a:hover { opacity: 1; padding-left: 8px; }
+            .menu-socials {display: flex; gap: 24px;}
+            .menu-socials a {font-size: 0.65rem;letter-spacing: 0.2em;text-transform: uppercase;text-decoration: none;color: #C4B9A8;transition: color 0.3s;}
+            .menu-socials a:hover { color: #1A1714; }
+            @media (max-width: 900px) { .menu-sidebar { width: 100%; } }
+            /* MARQUEE TEXT */
+            .marquee-wrap {background: #009541;padding: 18px 0;overflow: hidden;}
+            .marquee-track {display: flex; gap: 32px;white-space: nowrap;animation: marquee 18s linear infinite;}
+            .marquee-item {font-size: 0.85rem;letter-spacing: 0.3em;text-transform: uppercase;color: #000;flex-shrink: 0;}
+            .marquee-dot { color: #000; margin-right: 8px; }
+            @keyframes marquee {from { transform: translateX(0); } to   { transform: translateX(-50%); }}
+            /* MARQUEE — IMAGE */
+            .marquee-wrapp {overflow: hidden;padding: 40px 0;background: #F7F4EF;border-top: 1px solid #E8E1D5;border-bottom: 1px solid #E8E1D5;position: relative;}
+            /* fade edges */
+            .marquee-wrapp::before,
+            .marquee-wrapp::after {content: '';position: absolute; top: 0; bottom: 0; width: 120px;z-index: 2; pointer-events: none;}
+            .marquee-wrapp::before { left: 0;  background: linear-gradient(to right, #F7F4EF, transparent); }
+            .marquee-wrapp::after  { right: 0; background: linear-gradient(to left,  #F7F4EF, transparent); }
+            .marquee-trackk {display: flex; gap: 20px;width: max-content;animation: marqueee 30s linear infinite;}
+            .marquee-trackk:hover { animation-play-state: paused; }
+            .marquee-card {flex-shrink: 0;position: relative;overflow: hidden;border-radius: 2px;}
+            .marquee-card img {width: 160px; height: 210px;object-fit: cover;display: block;filter: saturate(0.85) brightness(0.97);transition: transform 0.6s cubic-bezier(0.23,1,0.32,1), filter 0.4s;}
+            .marquee-card:hover img {transform: scale(1.05);filter: saturate(1) brightness(1);}
+            .marquee-card-label {position: absolute; bottom: 0; left: 0; right: 0;padding: 32px 20px 18px;background: linear-gradient(to top, rgba(26,23,20,0.7) 0%, transparent 100%);opacity: 0;transition: opacity 0.3s;}
+            .marquee-card:hover .marquee-card-label { opacity: 1; }
+            .marquee-card-label span {font-family: 'Cormorant Garamond', serif;font-size: 1rem;font-style: italic;color: #F7F4EF;letter-spacing: 0.05em;}
+            /* MARQUEE REVERSE — second strip */
+            .marquee-wrapp-2 {overflow: hidden;padding: 0 0 40px;background: #F7F4EF;position: relative;}
+            .marquee-wrapp-2::before,
+            .marquee-wrapp-2::after {content: '';position: absolute; top: 0; bottom: 0; width: 120px;z-index: 2; pointer-events: none;}
+            .marquee-wrapp-2::before { left: 0;  background: linear-gradient(to right, #F7F4EF, transparent); }
+            .marquee-wrapp-2::after  { right: 0; background: linear-gradient(to left,  #F7F4EF, transparent); }
+            .marquee-trackk-rev {display: flex; gap: 20px;width: max-content;animation: marqueee-rev 36s linear infinite;}
+            .marquee-trackk-rev:hover { animation-play-state: paused; }
+            @keyframes marqueee { from { transform: translateX(0); } to   { transform: translateX(-50%); }}
+            @keyframes marqueee-rev { from { transform: translateX(-50%); } to   { transform: translateX(0); }}
+            /*---------*/
+            .header .row{margin-top: 70px;}
+            .col-2{flex-basis: 50%;min-width: 300px;}
+            .col-2 img{max-width: 100%;padding: 50px 0;}
+            .col-2 h1{font-size: 50px;line-height: 60px;margin: 25px 0;}
+            .btn{display: inline-block;background: #009541;color: #fff;padding: 8px 30px;margin: 30px 0;border-radius: 30px;transition: background 0.5s;}
+            .btn:hover{background: #000000;}
+            /*-----------------------------*/
+            .categories{margin: 70px 0;}
+            .small-container{max-width: 1080px;margin: auto; margin-top: 50px;padding-left: 25px;padding-right: 25px;}
+            .col-3{flex-basis: 30%;min-width: 250px;margin-bottom: 30px;}
+            .col-3 img{width: 100%;}
+            .slider-container {position: relative;width: 80%;max-width: 800px;overflow: hidden;border-radius: 5px;background-color: #fff;}
+            .slider {display: flex;transition: transform 0.5s ease-in-out;}
+            /* FIX #2: corretto il selettore da discendente a lista separata da virgole */
+            .slide1, .slide2, .slide3 {min-width: 100%;height: 200px;object-fit: cover;display: block;scroll-behavior: smooth;}
+            /*-------featured product--------------*/
+            .title{text-align: center;margin: 0px auto 80px;position: relative;line-height: 60px;color: #555;}
+            .title::after{content: '';background: #009541;width: 80px;height: 5px;border-radius: 5px;position: absolute;bottom: 0;left: 50%;transform: translateX(-50%);}
+            .col-4{flex-basis: 25%;padding: 10px;min-width: 200px;margin-bottom: 50px;transition: transform 0.5s;}
+            .col-4 img{width: 100%;}
+            h4{color: #555;font-weight: normal;}
+            .col-4 p{font-size: 14px;}
+            .rating .fa{color: #009541;}
+            .col-4:hover{transform: translateY(-5px);}
+            /*-----------offer-------------*/
+            .offer{background: #fff;margin-top: 80px;padding: 30px 0;}
+            /* FIX #4: padding laterale esplicito per offer-img, evita conflitto con .col-2 img {padding: 50px 0} */
+            .col-2 .offer-img{padding: 50px 0;}
+            small{color: #555;}
+            /*--------------------testimonial---------------*/
+            .testimonial{padding-top: 100px;}
+            .testimonial .col-3{text-align: center;padding: 40px 20px 40px;box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);cursor: pointer;transition: transform .5s;}
+            .testimonial .col-3 img{width: 50px;margin-top: 20px;border-radius: 50%;}
+            .fa.fa-quote-left{font-size: 34px;color: #009541;}
+            .col-3 p{font-size: 12px;margin: 12px 0px;color: #777;}
+            .testimonial .col-3 h3{font-weight: 600;color: #555;font-size: 16px;}
+            .testimonial .col-3:hover{transform: translateY(-10px);}
+            /*--------------- brands ------------*/
+            .brands{margin: 100px auto;}
+            .col-5{width: 160px;}
+            .col-5 img{width: 100%;cursor: pointer;filter: grayscale(100%);}
+            .col-5 img:hover{filter: grayscale(0);}
+            /*---------footer-------*/
+            .footer{background: #fff;color: #8a8a8a;font-size: 14px;padding: 60px 0 20px;}
+            .footer p{color: #8a8a8a;}
+            .footer h3{color: #fff;margin-bottom: 20px;}
+            .footer-col1,.footer-col2,.footer-col3,.footer-col4{min-width: 250px;margin-bottom: 20px;}
+            .footer-col1{flex-basis: 30%;}
+            .footer-col2{flex: 1;text-align: center;}
+            .footer-col2 img{width: 180px;margin-bottom: 20px;}
+            .footer-col3,.footer-col4{flex-basis: 12%;text-align: center;}
+            .app-logo{margin-top: 20px;}
+            .app-logo img{width: 140px;}
+            .footer li{display: block;}
+            .footer hr{border: none;background: #b5b5b5;height: 1px;margin:  20px 0;}
+            .copyright{text-align: center;}
+            /*-------media-query-for-max-width-1000---------*/
+            @media only screen and (max-width: 1000px){
+                /* FIX #5: rimossa la prima "transition: 1s" duplicata, mantenuta solo "transition: max-height 0.5s" */
+                nav ul{position: absolute;top: 70px;left: 0;background: #333;width: 100%;overflow: hidden;max-height: 0;transition: max-height 0.5s;}
+                nav ul li{display: block;margin-right: 50px;margin-top: 10px;margin-bottom: 10px;}
+                nav ul li a{color: #fff;}
+                .menu-icon{display: block;cursor: pointer;}}
+            /* FIX #1: unificato il primo blocco @media 600px */
+            @media only screen and (max-width: 600px){
+                .row{text-align: center;}
+                .col-1, .col-2, .col-3, .col-4{flex-basis: 100%;}
+                /* FIX #1: spostato qui il secondo blocco 600px che era separato (single-product) */
+                .single-product .row{text-align: left;}
+                .single-product .col-2{padding: 20px 0;}
+                .single-product h1{font-size: 26px;line-height: 22px;}}
+            /*----------All Product page------------*/
+            .row-2{justify-content: space-between;margin: 100px auto 50px;}
+            select{border: 1px solid #ff523b;padding: 5px;}
+            select:focus{outline: none;}
+            .page-btn{margin: 0 auto 80px;}
+            .page-btn span{display: inline-block;border: 1px solid #ff523b;margin-left: 10px;width: 40px;height: 40px;text-align: center;line-height: 40px;cursor: pointer;}
+            .page-btn span:hover{background: #ff523b;color: #fff;}
+            /*---------product details-----------*/
+            .single-product{margin-top: 80px;}
+            .single-product .col-2 img{padding: 0;}
+            .single-product .col-2{padding: 20px;}
+            .single-product h4{margin: 20px 0;font-size: 22px;font-weight: bold;}
+            .single-product select{display: block;padding: 10px;margin-top: 20px;}
+            .single-product input{width: 50px;height: 40px;padding-left: 10px;font-size: 20px;margin-right: 10px;border: 1px solid #ff523b;}
+            input:focus{outline: none;}
+            .single-product .fa{color: #009541;margin-left: 10px;}
+            .small-img-row{display: flex;justify-content: space-between;}
+            .small-img-col{flex-basis: 24%;cursor: pointer;}
+            /* FIX #3: .col-3 p usa #777 ma il footer usa .footer-col3 che eredita anche .col-3 p.
+               Aggiunto override esplicito per garantire il colore corretto nel footer */
+            .footer-col3 p, .footer-col4 p { color: #8a8a8a; }
+            /*---------------- cart page -----------*/
+            .cart-page{margin: 80px auto;}
+            table{width: 100%;border-collapse: collapse;}
+            .cart-info{display: flex;flex-wrap: wrap;}
+            th{text-align: left;padding: 5px;color: #fff;background: #ff523b;font-weight: normal;}
+            td{padding: 10px 5px;}
+            td input{width: 40px;height: 30px;padding: 5px;}
+            td a{color: #ff523b;font-size: 12px;}
+            td img{width: 80px;height: 80px;margin-right: 10px;}
+            .total-price{display: flex;justify-content: flex-end;}
+            .total-price table{border-top: 3px solid #ff523b;width: 100%;max-width: 350px;}
+            td:last-child{text-align: right;}
+            th:last-child{text-align: right;}
+            @media only screen and (max-width: 600px){.cart-info p{display: none;}}
+            /*-------account page--------*/
+            .account-page{padding: 50px 0;background: radial-gradient(#fff,#ffd6d6);}
+            .form-container{background: #fff;width: 300px;height: 400px;position: relative;text-align: center;padding: 20px 0;margin: auto;box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);overflow: hidden;}
+            .form-container span{font-weight: bold;padding: 0 10px;color: #555;cursor: pointer;width: 100px;display: inline-block;}
+            .form-btn{display: inline-block;}
+            #indicator{width: 100px;border: none;background: #ff523b;height: 3px;margin-top: 8px;transform: translateX(100px);transition: transform 1s;}
+            .form-container form{max-width: 300px;padding: 0 20px;position: absolute;top: 130px;transition: transform 1s;}
+            form input{width: 100%;height: 30px;margin: 10px 0;padding: 0 10px;border: 1px solid #ccc;}
+            form input:focus{outline: none;}
+            form .btn{width: 100%;border: none;cursor: pointer;margin: 10px 0;}
+            form .btn:focus{outline: none;}
+            form a{font-size: 12px;}
+            #LoginForm{left: -300px;}
+            #RegForm{left: 0;}
+            /*--back-to-top button--*/
+            .back-to-top {position: fixed;bottom: 20px;right: 20px;padding: 10px 15px;font-size: 16px;cursor: pointer;background-color: black;color: white;border: none;border-radius: 5px;z-index: 1000;}
+        </style>
+    </head>
+    <!--oncopy="return false;" oncut="return false;" onpaste="return false;" onselectstart="return false;" oncontextmenu="return false;"-->
+    <body oncopy="return false;" oncut="return false;" onpaste="return false;" onselectstart="return false;" oncontextmenu="return false;">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="https://novig.it"><img src="https://novig.it/Immagini/novigLogo.png" width="125px"></a>
+                </div>
+                <nav></nav>
+                <div class="cart-overlay" id="menuOverlay" onclick="closeMenu()"></div>
+                    <aside class="menu-sidebar" id="menuSidebar">
+                        <div class="menu-head">
+                            <h2 class="menu-head-title">Menu</h2>
+                            <button class="menu-close" onclick="closeMenu()">✕</button>
+                        </div>
+                        <div class="menu-body">
+                            <ul class="menu-nav-links">
+                                <li><a href="https://novig.it/catalogo-generale/" onclick="closeMenu()">Catalogo Generale</a></li>
+                                <li><a href="https://novig.it/catalogo-generale/accessori/" onclick="closeMenu()">Accessori</a></li>
+                                <li><a href="https://novig.it/catalogo-generale/attrezzature-lavanderia/" onclick="closeMenu()">Attrezzature Lavanderia</a></li>
+                                <li><a href="https://novig.it/catalogo-generale/prodotti-chimici/" onclick="closeMenu()">Prodotti Chimici</a></li>
+                            </ul>
+                            <div class="menu-socials">
+                                <a href="https://www.instagram.com/novigsnc/"target="_blank">Instagram</a>
+                                <a href="https://www.facebook.com/novig.it/"target="_blank">Facebook</a>
+                                <a href="https://www.facebook.com/groups/1873244559425021/"target="_blank">Blog</a>
+                            </div>
+                        </div>
+                    </aside>
+                    <button class="btn nav-cart" id="hamburger" onclick="toggleMenu()" aria-label="Menu">
+                        Menu
+                    </button>
+            </div>
+        </div>
+        <!-- title -->
+        <div class="small-container">
+            <div class="row row-2">
+                <h2>Accessori</h2>
+                <a href="https://novig.it/catalogo-generale/" class="btn" title="Clicca qui">Torna al Catalogo Generale &#8594;</a>
+            </div>
+            <!-- Inizio catalogo -->
+            <div class="row">
+                <!-- Asta Regolabile -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/asta-regolabile/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Asta Regolabile.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/asta-regolabile/" title="Clicca qui">Asta Regolabile</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Coprispalla Cartone -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/coprispalla-cartone/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Coprispalla Cartone.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/coprispalla-cartone/" title="Clicca qui">Coprispalla Cartone 250pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Graffette Larghe -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/graffette-larghe/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Larghe.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/graffette-larghe/" title="Clicca qui">Graffette Larghe 2000pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Graffette Strette -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/graffette-strette/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Strette.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/graffette-strette/" title="Clicca qui">Graffette Strette 2000pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+            </div>
+            <div class="row">
+                <!-- Grucce 500pz -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/grucce-500pz/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Grucce 500pz.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/grucce-500pz/" title="Clicca qui">Grucce 500pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Portagrucce Cromato -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/portagrucce-cromato/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Portagrucce Cromato.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/portagrucce-cromato/" title="Clicca qui">Portagrucce Cromato</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Salvaspalle -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/salvaspalle/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Salvaspalle.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/salvaspalle/" title="Clicca qui">Salvaspalle</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Spugne Grucce 500pz -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/spugne-grucce/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Grucce 500pz.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/spugne-grucce/" title="Clicca qui">Spugne Grucce 500pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+            </div>
+            <div class="row">
+                <!-- Tintogrippo -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/tintogrippo/"><img src="https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Tintogrippo.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/grucce-accessori/tintogrippo/" title="Clicca qui">Tintogrippo 2500pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div>
+                <!-- Bobina -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/bobina/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Bobina.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/bobina/" title="Clicca qui">Bobina LDPE</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Buste Camicie -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-camicie/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Camicie.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-camicie/" title="Clicca qui">Buste Camicie 200pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Buste Cappotti -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-cappotti/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cappotti.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-cappotti/" title="Clicca qui">Buste Cappotti 50pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+            </div>
+            <div class="row">
+                <!-- Buste Cravatte -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-cravatte/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cravatte.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-cravatte/" title="Clicca qui">Buste Cravatte 100pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div>
+                <!-- Buste Giacche -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-giacche/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Giacche.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-giacche/" title="Clicca qui">Buste Giacche 50pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Buste Lenzuola -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-lenzuola/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Lenzuola.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-lenzuola/" title="Clicca qui">Buste Lenzuola 100pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Buste Maglie -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-maglie/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Maglie.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-maglie/" title="Clicca qui">Buste Maglie 100pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+            </div>
+            <div class="row">
+                <!-- Buste Piumoni -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-piumoni/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Piumoni.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-piumoni/" title="Clicca qui">Buste Piumoni 50pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div>
+                <!-- Buste Sottovuoto -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-sottovuoto/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Sottovuoto.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/buste-sottovuoto/" title="Clicca qui">Buste Sottovuoto 100pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Cartene Stampato -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartene-stampato/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartene Stampato.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartene-stampato/" title="Clicca qui">Cartene Stampato 10kg</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Cartoncini Camicia -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartoncini-camicia/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Camicia.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartoncini-camicia/" title="Clicca qui">Cartoncini Camicia 500pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+            </div>
+            <div class="row">
+                <!-- Cartoncini Papillon -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartoncini-papillon/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Papillon.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/cartoncini-papillon/" title="Clicca qui">Cartoncini Papillon 1000pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div>
+                <!-- Nastro Adesivo -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/nastro-adesivo/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Nastro Adesivo 10pz.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/nastro-adesivo/" title="Clicca qui">Nastro Adesivo 10pz</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Portanastro Adesivo Nova -->
+                <div class="col-4">
+                    <a href="https://novig.it/catalogo-generale/accessori/imballaggio/portanastro-adesivo-nova/"><img src="https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Portanastro Adesivo Nova.png" title="Clicca qui"></a>
+                    <h4><a href="https://novig.it/catalogo-generale/accessori/imballaggio/portanastro-adesivo-nova/" title="Clicca qui">Portanastro Adesivo Nova</a></h4>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                    <p>Scopri il prezzo!</p>
+                </div> 
+                <!-- Vuoto -->
+                <div class="col-4"></div> 
+            </div>
+        </div>
+            
+        <!----------Footer---------------> 
+
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="footer-col2">
+                        <a href="https://novig.it/catalogo-generale"><img src="https://novig.it/Immagini/novigLogo.png" title="Torna Su"></a>
+                        <p>Novi G. di Novi Gioacchino e Novi Paolo s.n.c. - Attrezzature Lavanderia</p>
+                    </div>
+                    <div class="footer-col3">
+                    <h3 style="color:#000">MENU'</h3>
+                        <ul>
+                            <li><a href="https://novig.it/" title="Torna alla Home">Home</a></li>
+                            <li><a href="https://novig.it/chi-siamo/" title="Conosci la Nostra Azienda">Chi siamo</a></li>
+                            <li><a href="https://novig.it/privacy-vendita/">Condizioni di Privacy & Vendita</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col4">
+                    <h3 style="color:#000">CONTATTACI</h3>
+                        <ul>
+                            <li><a href="tel:339 7393099">Gioacchino: 339 7393099</a></li>
+                            <li><a href="tel:329 1561726">Paolo: 329 1561726</a></li>
+                            <li><a href="tel:338 2562456">Gianmarco: 338 2562456</a></li>
+                            <li><a href="tel:081 0604604">Ufficio: 081 0604604</a></li>
+                            <li><a href="mailto: novigsnc@gmail.com">Mail: novigsnc@gmail.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+                <p class="copyright">Copyright 2019@ novig.it - Tutti i diritti sono riservati.</p>
+            </div>
+        </div>
+        <script>
+            //BACKTOTOP
+            window.addEventListener('scroll', function() {document.getElementById('backToTop').classList.toggle('visible', window.scrollY > 300);});
+            
+            // WHATSAPP BUTTON
+            var glassixWidgetOptions = {"numbers":[{"number":"3382562456","name":"Assistenza clienti","subtitle":"Clicca qui"}],"left":false,"ltr":true,"popupText":"Come possiamo aiutarti?","title":"novig.it","subTitle":""};!function (t) { var e = function () { window.requirejs && !window.whatsAppWidgetClient && (requirejs.config({ paths: { GlassixWhatsAppWidgetClient: "https://cdn.glassix.com/clients/whatsapp.widget.1.2.min.js" } }), require(["GlassixWhatsAppWidgetClient"], function (t) { window.whatsAppWidgetClient = new t(window.glassixWidgetOptions), whatsAppWidgetClient.attach() })), window.GlassixWhatsAppWidgetClient && "function" == typeof window.GlassixWhatsAppWidgetClient ? (window.whatsAppWidgetClient = new GlassixWhatsAppWidgetClient(t), whatsAppWidgetClient.attach()) : i() }, i = function () { a.onload = e, a.src = "https://cdn.glassix.net/clients/whatsapp.widget.1.2.min.js", s && s.parentElement && s.parentElement.removeChild(s), n.parentNode.insertBefore(a, n) }, n = document.getElementsByTagName("script")[0], s = document.createElement("script"); s.async = !0, s.type = "text/javascript", s.crossorigin = "anonymous", s.id = "glassix-whatsapp-widget-script"; var a = s.cloneNode(); s.onload = e, s.src = "https://cdn.glassix.com/clients/whatsapp.widget.1.2.min.js", !document.getElementById(s.id) && document.body && (n.parentNode.insertBefore(s, n), s.onerror = i) }(glassixWidgetOptions);
+            
+            // HAMBURGER MENU
+            let menuOpen = false;
+            function toggleMenu() {
+            menuOpen = !menuOpen;
+            document.getElementById('menuOverlay').classList.toggle('open', menuOpen);
+            document.getElementById('menuSidebar').classList.toggle('open', menuOpen);
+            document.getElementById('hamburger').textContent = menuOpen ? 'Chiudi' : 'Menu';
+            document.body.style.overflow = menuOpen ? 'hidden' : '';
+            }
+            function closeMenu() {
+            menuOpen = false;
+            document.getElementById('menuOverlay').classList.remove('open');
+            document.getElementById('menuSidebar').classList.remove('open');
+            document.getElementById('hamburger').textContent = 'Menu';
+            document.body.style.overflow = '';
+            }
+        </script>
+    </body>
+</html>
+
