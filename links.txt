@@ -204,53 +204,52 @@ Prodotti Chimici
         
     Immagini/Categorie/Prodotti/Appretti/
         • Apretex 2x5kg - https://www.tintolav.com/images/dacshop/upload/a51-000h2apretex_2x5kg.png
-        • Deopret.png
-        • Okay.png
-        • Renova.png
-        • Wrinkle.png
+        • Deopret - https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png
+        • Okay - https://www.tintolav.com/images/dacshop/upload/a70-015okay.png
+        • Renova - https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png
+        • Wrinkle - https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png
 
     Immagini/Categorie/Prodotti/Deoamm 1lt/
-        • Ambra Vanilla.png
-        • Caresse Blanche.png
-        • Cashmere.png
-        • Clean Sense.png
-        • Fior di Cotone.png
-        • Fior di Loto.png
-        • Floral.png
-        • Fresh Lavender.png
-        • Muschio Bianco.png
-        • Note di Pulito.png
+        • Ambra Vanilla - https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png
+        • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a45-001dx12ammorbidente_caresseblanche_1lt_2003387814.png
+        • Cashmere - https://www.tintolav.com/images/dacshop/upload/ah45-020dsoft_cashmere_6x1lt.png
+        • Clean Sense - https://www.tintolav.com/images/dacshop/upload/a45-024dx12_ammorbidente_cleansense_1lt.png
+        • Fior di Cotone - https://www.tintolav.com/images/dacshop/upload/a45-022dx12ammorbidente_fiordicotone_1lt.png
+        • Fior di Loto - https://www.tintolav.com/images/dacshop/upload/a45-002dx12ammorbidente_fiordiloto_1lt_647731693.png
+        • Floral - https://www.tintolav.com/images/dacshop/upload/ah45-010dsoft_floral_6x1lt.png
+        • Fresh Lavender - https://www.tintolav.com/images/dacshop/upload/a45-003dx12ammorbidente_freshlavender_1lt_1756445025.png
+        • Muschio Bianco - https://www.tintolav.com/images/dacshop/upload/a45-015dx12ammorbidente_muschio_1lt.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a45-016dx12ammorbidente_notedipulito_1lt_1152466301.png
         • Orchidea Selvatica.png
-        • Purity.png
+        • Purity - https://www.tintolav.com/images/dacshop/upload/ah45-015dsoft_purity_6x1lt.png
         • Soffio Tropicale.png
-        • Tahiti.png
+        • Tahiti - https://www.tintolav.com/images/dacshop/upload/ah45-005dsoft_tahiti_6x1lt.png
 
     Immagini/Categorie/Prodotti/Deoamm 10kg/
-        • Fior di Loto.png
-        • Muschio Bianco.png
-        • Note di Pulito.png
+        • Fior di Loto - https://www.tintolav.com/images/dacshop/upload/a45-002kammorbidente_fiordiloto_10kg_1966881408.png
+        • Muschio Bianco - https://www.tintolav.com/images/dacshop/upload/a45-015kammorbidente_muschio_10kg_2147178984.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a45-016kammorbidente_notedipulito_10kg_844136342.png
         • Orchidea Selvatica.png
         • Piuma Soft.png
 
     Immagini/Categorie/Prodotti/Deoamm 20kg/
-        • Ambra Vanilla.png
-        • Bioxelle.png
-        • Caresse Blanche.png
-        • Cashmere.png
-        • Certisan B.png
-        • Clean Sense.png
-        • Fior di Cotone.png
-        • Fior di Loto.png
-        • Floral.png
-        • Fresh Lavender.png
-        • Muschio Bianco.png
-        • Note di Natura.png
-        • Note di Pulito.png
+        • Ambra Vanilla - https://www.tintolav.com/images/dacshop/upload/a45-023n_ammorbidente_ambravanilla_20kg.png
+        • Bioxelle - https://www.tintolav.com/images/dacshop/upload/a45-900nbioxelle_ammorbidente_20kg.png
+        • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a45-001nammorbidente_caresseblanche_20kg_2065170068.png
+        • Cashmere - https://www.tintolav.com/images/dacshop/upload/ah45-020nsoft_cashmere_20kg.png
+        • Certisan B - https://www.tintolav.com/images/dacshop/upload/a45-200ncertisan_b_ammorbidente_20kg.png
+        • Clean Sense - https://www.tintolav.com/images/dacshop/upload/a45-024n_ammorbidente_cleansense_20kg.png
+        • Fior di Cotone - https://www.tintolav.com/images/dacshop/upload/a45-022nammorbidente_fiordicotone_20kg.png
+        • Fior di Loto - https://www.tintolav.com/images/dacshop/upload/a45-002nammorbidente_fiordiloto_20kg.png
+        • Floral - https://www.tintolav.com/images/dacshop/upload/ah45-010nsoft_floral_20kg.png
+        • Fresh Lavender - https://www.tintolav.com/images/dacshop/upload/a45-003nammorbidente_freshlavender_20kg_2125482202.png
+        • Muschio Bianco - https://www.tintolav.com/images/dacshop/upload/a45-015nammorbidente_muschio_20kg.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a45-016nammorbidente_notedipulito_20kg_389319088.png
         • Orchidea Selvatica.png
-        • Purity.png
+        • Purity - https://www.tintolav.com/images/dacshop/upload/ah45-015nsoft_purity_20kg.png
         • Soffio Tropicale.png
         • Soft Caps.png
-        • Tahiti.png
+        • Tahiti - https://www.tintolav.com/images/dacshop/upload/ah45-005nsoft_tahiti_20kg.png
         • Tintosoft.png
 
     Immagini/Categorie/Prodotti/Deospray 400ml/
@@ -262,7 +261,7 @@ Prodotti Chimici
         • Latte di Rosa.png
         • Lemongrass.png
         • Muschio Bianco.png
-        • Note di Pulito.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a73-012qudeospray_notedipulito_400ml_1600956983.png
         • Orchidea Selvatica.png
         • Oro & Argan.png
         • Red Passion.png
@@ -303,15 +302,15 @@ Prodotti Chimici
         • White Xtra 20kg.png
 
     Immagini/Categorie/Prodotti/Essense 1lt/
-        • Ambra & Vanilla.png
+        • Ambra & Vanilla - https://www.tintolav.com/images/dacshop/upload/a48-034dessenza_1kg_ambravanilla.png
         • Capri-Marine.png
         • Caresse Blanche.png
-        • Clean Sense.png
-        • Fior di Cotone.png
+        • Clean Sense - https://www.tintolav.com/images/dacshop/upload/a48-035dessenza_1kg_cleansense.png
+        • Fior di Cotone - https://www.tintolav.com/images/dacshop/upload/a48-033dessenza_1kg_fior-di-cotone.png
         • Fior di Loto.png
-        • Fresh Lavender.png
+        • Fresh Lavender - https://www.tintolav.com/images/dacshop/upload/a48-022dessenza_freshlavender_1kg.png
         • Muschio Bianco.png
-        • Note di Pulito.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a48-028dessenza_notedipulito_1kg.png
         • Orchidea Selvatica.png
         • Soffio Tropicale.png
         • Tintoflor.png
@@ -332,7 +331,7 @@ Prodotti Chimici
         • Clean Sense.png
         • Fresh Melody.png
         • Muschio Bianco.png
-        • Note di Pulito.png
+        • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a85-025dx12pavimenti_notedipulito_1lt_copy.png
         • Oro & Argan.png
         • Passion Fruit.png
 
