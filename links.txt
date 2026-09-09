@@ -195,12 +195,12 @@ Loghi Fornitori
         https://novig.it/Immagini/Categorie/Loghi Fornitori/Wexor.png
 Prodotti Chimici
     Immagini/Categorie/Prodotti/Additivi/
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Certisan K.png
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 1lt.png
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 10kg.png
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Oxon 20kg.png
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/Sfeltran-tex.png
-        https://novig.it/Immagini/Categorie/Prodotti/Additivi/X9 Degreaser 2x5kg.png
+        • Certisan K.png - https://www.tintolav.com/images/dacshop/upload/a48-410ncertisan_k_20kg.png
+        • Oxon 1lt - https://www.tintolav.com/images/dacshop/upload/a48-500dx12oxon_1lt_1006720412.png
+        • Oxon 10kg - https://www.tintolav.com/images/dacshop/upload/a48-500koxon_10kg_1726912271.png
+        • Oxon 20kg - https://www.tintolav.com/images/dacshop/upload/a48-500noxon_20kg_150796358.png
+        • Sfeltran-tex - https://www.tintolav.com/images/dacshop/upload/a48-510k_sfeltran-tex_10kg.png
+        • X9 Degreaser 2x5kg - https://www.tintolav.com/images/dacshop/upload/a39-050h2x9-degreaser_2x5kg.png
         
     Immagini/Categorie/Prodotti/Appretti/
         https://novig.it/Immagini/Categorie/Prodotti/Appretti/Apretex 2x5kg.png
