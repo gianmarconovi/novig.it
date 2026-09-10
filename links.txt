@@ -194,7 +194,7 @@ Loghi Fornitori
         https://novig.it/Immagini/Categorie/Loghi Fornitori/Tintolav.png
         https://novig.it/Immagini/Categorie/Loghi Fornitori/Wexor.png
 Prodotti Chimici
-    Immagini/Categorie/Prodotti/Additivi/
+    • Additivi
         • Certisan K.png - https://www.tintolav.com/images/dacshop/upload/a48-410ncertisan_k_20kg.png
         • Oxon 1lt - https://www.tintolav.com/images/dacshop/upload/a48-500dx12oxon_1lt_1006720412.png
         • Oxon 10kg - https://www.tintolav.com/images/dacshop/upload/a48-500koxon_10kg_1726912271.png
@@ -202,14 +202,14 @@ Prodotti Chimici
         • Sfeltran-tex - https://www.tintolav.com/images/dacshop/upload/a48-510k_sfeltran-tex_10kg.png
         • X9 Degreaser 2x5kg - https://www.tintolav.com/images/dacshop/upload/a39-050h2x9-degreaser_2x5kg.png
         
-    Immagini/Categorie/Prodotti/Appretti/
+    • Appretti
         • Apretex 2x5kg - https://www.tintolav.com/images/dacshop/upload/a51-000h2apretex_2x5kg.png
         • Deopret - https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png
         • Okay - https://www.tintolav.com/images/dacshop/upload/a70-015okay.png
         • Renova - https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png
         • Wrinkle - https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png
 
-    Immagini/Categorie/Prodotti/Deoamm 1lt/
+    • Amm 1lt
         • Ambra Vanilla - https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png
         • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a45-001dx12ammorbidente_caresseblanche_1lt_2003387814.png
         • Cashmere - https://www.tintolav.com/images/dacshop/upload/ah45-020dsoft_cashmere_6x1lt.png
@@ -225,14 +225,14 @@ Prodotti Chimici
         • Soffio Tropicale - https://www.tintolav.com/images/dacshop/upload/a45-018dx12ammorbidente_soffiotropicale_1lt_1987550444.png
         • Tahiti - https://www.tintolav.com/images/dacshop/upload/ah45-005dsoft_tahiti_6x1lt.png
 
-    Immagini/Categorie/Prodotti/Deoamm 10kg/
+    • Amm 10kg
         • Fior di Loto - https://www.tintolav.com/images/dacshop/upload/a45-002kammorbidente_fiordiloto_10kg_1966881408.png
         • Muschio Bianco - https://www.tintolav.com/images/dacshop/upload/a45-015kammorbidente_muschio_10kg_2147178984.png
         • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a45-016kammorbidente_notedipulito_10kg_844136342.png
         • Orchidea Selvatica - https://www.tintolav.com/images/dacshop/upload/a45-025kammorbidente_orchideaselvatica_10kg_702715273.png
         • Piuma Soft - https://www.tintolav.com/images/dacshop/upload/a45-020kammorbidente_piumasoft_10kg_923009331.png
 
-    Immagini/Categorie/Prodotti/Deoamm 20kg/
+    • Amm 20kg
         • Ambra Vanilla - https://www.tintolav.com/images/dacshop/upload/a45-023n_ammorbidente_ambravanilla_20kg.png
         • Bioxelle - https://www.tintolav.com/images/dacshop/upload/a45-900nbioxelle_ammorbidente_20kg.png
         • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a45-001nammorbidente_caresseblanche_20kg_2065170068.png
@@ -252,7 +252,7 @@ Prodotti Chimici
         • Tahiti - https://www.tintolav.com/images/dacshop/upload/ah45-005nsoft_tahiti_20kg.png
         • Tintosoft - https://www.tintolav.com/images/dacshop/upload/a45-000ntintosoft_20kg_1252461766.png
 
-    Immagini/Categorie/Prodotti/Deospray 400ml/
+    • Deospray 400ml
         • Bergamotto & Zagara.png
         • Capri-Marine.png
         • Caresse Blanche.png
@@ -269,11 +269,11 @@ Prodotti Chimici
         • Talco Fiorentino.png
         • Vanilla Lemon.png
 
-    Immagini/Categorie/Prodotti/Deospray 400ml/Bioxelle/
+    • Bioxelle
         • Carezza di Argan.png
         • Coccola di Talco.png
 
-    Immagini/Categorie/Prodotti/Deodet 1lt/
+    • Det 1lt
         • Bioloto - https://www.tintolav.com/images/dacshop/upload/a39-520dx12bioloto_1lt_363380436.png
         • Biomusk - https://www.tintolav.com/images/dacshop/upload/a39-518dx12biomusk_1lt_1488407432.png
         • Bioorky - https://www.tintolav.com/images/dacshop/upload/a39-519dx12bioorky_1lt_1711809932.png
@@ -283,7 +283,7 @@ Prodotti Chimici
         • Salvacolor - https://www.tintolav.com/images/dacshop/upload/a39-530dx12salvacolor_1lt_1137755163.png
         • White Xtra - https://www.tintolav.com/images/dacshop/upload/a39-512dx12whitextra_1lt_491631693.png
 
-    Immagini/Categorie/Prodotti/Deodet 10kg/
+    • Det 10kg
         • Bio Loto 10kg - https://www.tintolav.com/images/dacshop/upload/a39-520kbioloto_10kg_1721574963.png
         • Bio Musk 10kg - https://www.tintolav.com/images/dacshop/upload/a39-518kbiomusk_10kg_216439076.png
         • Bio Orky 10kg - https://www.tintolav.com/images/dacshop/upload/a39-519kbioorky_10kg_688753342.png
@@ -294,14 +294,14 @@ Prodotti Chimici
         • Salvacolor 10kg - https://www.tintolav.com/images/dacshop/upload/a39-530ksalvacolor_10kg_465769402.png
         • White Xtra 10kg - https://www.tintolav.com/images/dacshop/upload/a39-512kwhitextra_10kg_364658370.png
 
-    Immagini/Categorie/Prodotti/Deodet 20kg/
+    • Det 20kg
         • Bio Loto 20kg - https://www.tintolav.com/images/dacshop/upload/a39-520nbioloto_20kg_1285167880.png
         • Bio Musk 20kg - https://www.tintolav.com/images/dacshop/upload/a39-518nbiomusk_20kg_1171288887.png
         • Bio Orky 20kg - https://www.tintolav.com/images/dacshop/upload/a39-519nbioorky_20kg.png
         • Note di Pulito 20kg - https://www.tintolav.com/images/dacshop/upload/a39-525ndetergente_notedipulito_20kg.png
         • White Xtra 20kg - https://www.tintolav.com/images/dacshop/upload/a39-512nwhitextra_20kg_702180516.png
 
-    Immagini/Categorie/Prodotti/Essense 1lt/
+    • Essense 1lt
         • Ambra & Vanilla - https://www.tintolav.com/images/dacshop/upload/a48-034dessenza_1kg_ambravanilla.png
         • Capri-Marine - https://www.tintolav.com/images/dacshop/upload/a48-032dessenza_1kg_capri-marine.png
         • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a48-023dessenza_1kg_caresseblanche.png
@@ -315,7 +315,7 @@ Prodotti Chimici
         • Soffio Tropicale - https://www.tintolav.com/images/dacshop/upload/a48-029dessenza_1kg_soffiotropicale.png
         • Tintoflor - https://www.tintolav.com/images/dacshop/upload/a07-010dtintoflor_1lt.png
 
-    Immagini/Categorie/Prodotti/Essense 250ml/
+    • Essense 250ml
         • Ambra & Vanilla - https://www.tintolav.com/images/dacshop/upload/a80-077uvessenza_250ml_ambravanilla.png
         • Capri-Marine - https://www.tintolav.com/images/dacshop/upload/a80-079uvessenza_250ml_capri_marine.png
         • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a80-086essenza_250ml_caresseblanche.png
@@ -326,7 +326,7 @@ Prodotti Chimici
         • Note di Pulito - https://www.tintolav.com/images/dacshop/upload/a80-084essenza_250ml_notedipulito_619243243.png
         • Orchidea Selvatica - https://www.tintolav.com/images/dacshop/upload/a80-082essenza_orchideaselvatica_250ml.png
 
-    Immagini/Categorie/Prodotti/Pavimenti 1lt/
+    • Pavimenti 1lt
         • Capri-Marine - https://www.tintolav.com/images/dacshop/upload/a85-035dx12pavimenti_capri-marine_1lt.png
         • Clean Sense - https://www.tintolav.com/images/dacshop/upload/a85-020dx12pavimentigel_cleansenset_1lt.png
         • Fresh Melody - https://www.tintolav.com/images/dacshop/upload/a85-030pavimenti_freshmelody_groupage_copy.png
@@ -336,15 +336,15 @@ Prodotti Chimici
         • Oro & Argan - https://www.tintolav.com/images/dacshop/upload/a85-005dx12pavimenti_oroargan_1lt.png
         • Passion Fruit - https://www.tintolav.com/images/dacshop/upload/a85-010dx12pavimenti_passionfruit_1lt_969175134.png
 
-    Immagini/Categorie/Prodotti/Presmacchiatori/
+    • Presmacchiatori
         • InCarbon 2x5lt - https://www.tintolav.com/images/dacshop/upload/a60-005h2incarbon_2x5kg.png
         • Jolly Smak - https://www.tintolav.com/images/dacshop/upload/a01-000kjollysmak-10kg.png
         • PreCarbon 2x5lt - https://www.tintolav.com/images/dacshop/upload/a60-000h2precarbon_2x5kg.png
 
-    Immagini/Categorie/Prodotti/Rafforzatori/
+    • Rafforzatori
         • Activ Superstat - https://www.tintolav.com/images/dacshop/upload/a04-010kactivsuperstat-10kg.png
 
-    Immagini/Categorie/Prodotti/Smacchiatori/
+    • Smacchiatori
         • Dry Spot - https://www.tintolav.com/images/dacshop/upload/a70-070dudryspot_731342750.png
         • Oxon 750ml - https://www.tintolav.com/images/dacshop/upload/a31-500coxon_750ml.png
         • Prezym 2x5lt - https://www.tintolav.com/images/dacshop/upload/a31-000h2prezym.png
@@ -353,7 +353,7 @@ Prodotti Chimici
         • Toglisudore - https://www.tintolav.com/images/dacshop/upload/a01-020ctoglisudore-750ml.png
         • Top Degreaser 750ml - https://www.tintolav.com/images/dacshop/upload/a88-005ctopdegreaser_750ml.png
     
-    Immagini/Categorie/Prodotti/Smacchiatori/Smacchiatori Seitz/
+    • Smacchiatori Seitz
         • Blutol.jpg
         • Cavesol.jpg
         • Colorsol.jpg
@@ -366,7 +366,7 @@ Prodotti Chimici
         • v2.jpg
         • v3.jpg
     
-    Immagini/Categorie/Prodotti/Solventi/        
+    • Solventi
         • Carbone Attivo 5kg - https://www.tintolav.com/images/dacshop/upload/a10-015carboneattivo.png
         • Dowper 23kg - https://www.lavanderiastore.it/wp-content/uploads/2020/04/dowper-1.jpg
         • Tonsil 25kg - https://www.tintolav.com/images/dacshop/upload/a10-025tonsil_1391359041.png
