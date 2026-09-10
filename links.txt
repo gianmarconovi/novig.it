@@ -4,84 +4,85 @@ CMD
 dir /b | clip (per copiare il titoli delle immagini da una cartella)
 
 Links Immagini
-Accessori
-    Immagini/Categorie/Accessori/Grucce & Accessori/
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Asta Regolabile.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Coprispalla Cartone.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Doppia Punta.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette in Plastica.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Larghe.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Graffette Strette.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Grucce 500pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Portagrucce Cromato.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Portatende.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Salvaspalle.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Grucce 500pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Proteggi Spalla.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Tendipantaloni.png
-        https://novig.it/Immagini/Categorie/Accessori/Grucce & Accessori/Tintogrippo.png
-    Immagini/Categorie/Accessori/Imballaggio/
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Bobina.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Camicie.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cappotti.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Cravatte.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Giacche.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Lenzuola.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Maglie.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Piumoni.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Buste Sottovuoto.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartene Stampato.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Camicia.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Cartoncini Papillon.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Nastro Adesivo 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Imballaggio/Portanastro Adesivo Nova.png
-    Immagini/Categorie/Accessori/Lavaggio/
-        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Guanti Nitrile Taglia 7.png
-        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Rubinetto Taniche.png
-        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Sacco Rete Acqua 55x85 cm.png
-        https://novig.it/Immagini/Categorie/Accessori/Lavaggio/Sacco Rete Secco 60x90 cm.png
-    Immagini/Categorie/Accessori/Marcatura/
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Aghi Dennison.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Arancione.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Azzurro.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Bianco.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Giallo.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Grigio.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Marrone.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Rosa.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Rosso.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Verde.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Carta Marcatura Numerata Viola.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Arancione.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Azzurro.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Bianco.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Giallo.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Rosa.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Rosso.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Verde.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastri Fiberoll 12mm 12pz Viola.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Nastro Epson TM300.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Penne Indelebili.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Pinzatrice Bostitch.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Pistola Dennison.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Portanastri.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti 648.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti Bostitch 6mm.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Punti Bostitch 10mm.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Ricevute Carta Chimica.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Arancione 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Azzurro 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Bianco 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Giallo 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Rosa 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Rosso 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Verde 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Viola 76mm 10pz.png
-        https://novig.it/Immagini/Categorie/Accessori/Marcatura/Toglipunti Bostitch.png
-    Immagini/Categorie/Accessori/Spazzole/
-        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Acciaio Setola.png
-        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Acciaio USA.png
-        https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Nylon.png
+• Accessori
+    • Grucce & Accessori
+        • Asta Regolabile.png
+        • Ganci per Catena
+        • Coprispalla Cartone.png
+        • Graffette Doppia Punta.png
+        • Graffette in Plastica.png
+        • Graffette Larghe.png
+        • Graffette Strette.png
+        • Grucce 500pz.png
+        • Portagrucce Cromato.png
+        • Portatende.png
+        • Salvaspalle.png
+        • Spugne Grucce 500pz.png
+        • Spugne Proteggi Spalla.png
+        • Tendipantaloni.png
+        • Tintogrippo.png
+    • Imballaggio
+        • Bobina.png
+        • Buste Camicie.png
+        • Buste Cappotti.png
+        • Buste Cravatte.png
+        • Buste Giacche.png
+        • Buste Lenzuola.png
+        • Buste Maglie.png
+        • Buste Piumoni.png
+        • Buste Sottovuoto.png
+        • Cartene Stampato.png
+        • Cartoncini Camicia.png
+        • Cartoncini Papillon.png
+        • Nastro Adesivo 10pz.png
+        • Portanastro Adesivo Nova.png
+    • Lavaggio
+        • Guanti Nitrile Taglia 7.png
+        • Rubinetto Taniche.png
+        • Sacco Rete Acqua 55x85 cm.png
+        • Sacco Rete Secco 60x90 cm.png
+    • Marcatura
+        • Aghi Dennison.png
+        • Carta Marcatura Numerata Arancione.png
+        • Carta Marcatura Numerata Azzurro.png
+        • Carta Marcatura Numerata Bianco.png
+        • Carta Marcatura Numerata Giallo.png
+        • Carta Marcatura Numerata Grigio.png
+        • Carta Marcatura Numerata Marrone.png
+        • Carta Marcatura Numerata Rosa.png
+        • Carta Marcatura Numerata Rosso.png
+        • Carta Marcatura Numerata Verde.png
+        • Carta Marcatura Numerata Viola.png
+        • Nastri Fiberoll 12mm 12pz Arancione.png
+        • Nastri Fiberoll 12mm 12pz Azzurro.png
+        • Nastri Fiberoll 12mm 12pz Bianco.png
+        • Nastri Fiberoll 12mm 12pz Giallo.png
+        • Nastri Fiberoll 12mm 12pz Rosa.png
+        • Nastri Fiberoll 12mm 12pz Rosso.png
+        • Nastri Fiberoll 12mm 12pz Verde.png
+        • Nastri Fiberoll 12mm 12pz Viola.png
+        • Nastro Epson TM300.png
+        • Penne Indelebili.png
+        • Pinzatrice Bostitch.png
+        • Pistola Dennison.png
+        • Portanastri.png
+        • Punti 648.png
+        • Punti Bostitch 6mm.png
+        • Punti Bostitch 10mm.png
+        • Ricevute Carta Chimica.png
+        • Rotoli Hydrofix Arancione 76mm 10pz.png
+        • Rotoli Hydrofix Azzurro 76mm 10pz.png
+        • Rotoli Hydrofix Bianco 76mm 10pz.png
+        • Rotoli Hydrofix Giallo 76mm 10pz.png
+        • Rotoli Hydrofix Rosa 76mm 10pz.png
+        • Rotoli Hydrofix Rosso 76mm 10pz.png
+        • Rotoli Hydrofix Verde 76mm 10pz.png
+        • Rotoli Hydrofix Viola 76mm 10pz.png
+        • Toglipunti Bostitch.png
+    • Spazzole
+        • Spazzole Scamosciati/Acciaio Setola.png
+        • Spazzole Scamosciati/Acciaio USA.png
+        • Spazzole Scamosciati/Nylon.png
         https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone Passamano.png
         https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone Setola.png
         https://novig.it/Immagini/Categorie/Accessori/Spazzole/Spazzole Scamosciati/Ottone USA.png
@@ -140,7 +141,7 @@ Accessori
         https://novig.it/Immagini/Categorie/Accessori/Stiratura/Soletta Teflon AEG.png
         https://novig.it/Immagini/Categorie/Accessori/Stiratura/Telo Antilucido.png
         https://novig.it/Immagini/Categorie/Accessori/Stiratura/Tubo Vapore Matassa.png
-Attrezzature Lavanderia
+• Attrezzature Lavanderia
     Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugamento/
         https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES_6_8.jpg
         https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES_6_8.jpg
