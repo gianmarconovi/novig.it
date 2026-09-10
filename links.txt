@@ -178,10 +178,10 @@ Links Immagini
         • B_LM_100_125_TILTING.png
         • C_LM_100_125.png
         • C_LM_100_125_TILTING.png
-    Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/
-        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/A_TDM 1818.png
-        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/B_TDM 1818.png
-        https://novig.it/Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/C_TDM 1818.png
+    • Lavaggio ad Acqua/Tandem
+        • A_TDM 1818.png
+        • B_TDM 1818.png
+        • C_TDM 1818.png
 • Loghi Fornitori
     • Alberti Angelo - Immagini/Loghi Fornitori/Alberti Angelo.png
     • Bioxelle - Immagini/Loghi Fornitori/Bioxelle.png
