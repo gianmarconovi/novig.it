@@ -145,7 +145,7 @@ Links Immagini
         • Tubo Vapore a Metro - https://www.tintolav.com/images/dacshop/upload/b13-003tubo_vapore_silicone_roll.png
 • Attrezzature Lavanderia
     • Attrezzature Asciugamento
-        • A_ES_6_8.jpg
+        • A_ES_6_8 -
         • B_ES_6_8.jpg
         • C_ES_6_8.jpg
         • A_ES 11_14_18.jpg
@@ -162,24 +162,24 @@ Links Immagini
         • B_6_8.jpg
         • C_6_8.jpg
     • Lavaggio ad Acqua/Supercentrifuganti
-        • A_LM-8_11_2023_F.jpg
-        • B_LM-8_11_2023_P1_.png
-        • C_LM-8_11_2023_P2_.png
-        • A_LM_14_18_23.png
-        • B_LM_14_18_23.png
-        • C_LM_14_18_23.png
-        • A_LM_26_32.png
-        • B_LM_26_32.png
-        • C_LM_26_32.png
-        • A_LM_40_55_70_85.png
-        • B_LM_40_55_70_85.png
-        • C_LM_40_55_70_85.png
-        • A_LM_100_125.png
-        • A_LM_100_125_TILTING.png
-        • B_LM_100_125.png
-        • B_LM_100_125_TILTING.png
-        • C_LM_100_125.png
-        • C_LM_100_125_TILTING.png
+        • A_LM-8_11_2023_F - https://imesa.it/wp-content/uploads/2019/10/A_LM-8_11_2023_F-1000x1000.jpg
+        • B_LM-8_11_2023_P1_ - https://imesa.it/wp-content/uploads/2019/10/B_LM-8_11_2023_P1_-1000x1000.png
+        • C_LM-8_11_2023_P2_ - https://imesa.it/wp-content/uploads/2019/10/C_LM-8_11_2023_P2_.png
+        • A_LM_14_18_23 - https://imesa.it/wp-content/uploads/2019/10/A_LM_14_18_23_F_1.png
+        • B_LM_14_18_23 - https://imesa.it/wp-content/uploads/2019/10/B_LM_14_18_23_P1_1.png
+        • C_LM_14_18_23 - https://imesa.it/wp-content/uploads/2019/10/C_LM_14_18_23_P2_1.png
+        • A_LM_26_32 - https://imesa.it/wp-content/uploads/2019/10/A_LM_26_32_F_1.png
+        • B_LM_26_32 - https://imesa.it/wp-content/uploads/2019/10/B_LM_26_32_P1_1.png
+        • C_LM_26_32 - https://imesa.it/wp-content/uploads/2019/10/C_LM_26_32_P2_1.png
+        • A_LM_40_55_70_85 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_85_3.jpg
+        • B_LM_40_55_70_85 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_85_1.jpg
+        • C_LM_40_55_70_85 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_85_2.jpg
+        • A_LM_100_125 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_1.jpg
+        • A_LM_100_125_TILTING - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_7.jpg
+        • B_LM_100_125 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_3.jpg
+        • B_LM_100_125_TILTING - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_4.jpg
+        • C_LM_100_125 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_2.jpg
+        • C_LM_100_125_TILTING - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_4.jpg
     • Lavaggio ad Acqua/Tandem
         • A_TDM 1818.png
         • B_TDM 1818.png
