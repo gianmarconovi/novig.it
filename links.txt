@@ -6,21 +6,21 @@ dir /b | clip (per copiare il titoli delle immagini da una cartella)
 Links Immagini
 • Accessori
     • Grucce & Accessori
-        • Asta Regolabile.png
-        • Ganci per Catena
-        • Coprispalla Cartone.png
+        • Asta Regolabile - https://www.tintolav.com/images/dacshop/upload/b35-010asta_regolabile_1494891588.png
+        • Ganci per Catena - https://www.tintolav.com/images/dacshop/upload/b35-015ganci_catena.png
+        • Coprispalla Cartone - https://www.tintolav.com/images/dacshop/upload/b30-010coprispalle_911825665.png
         • Graffette Doppia Punta.png
         • Graffette in Plastica.png
         • Graffette Larghe.png
         • Graffette Strette.png
         • Grucce 500pz.png
-        • Portagrucce Cromato.png
-        • Portatende.png
-        • Salvaspalle.png
-        • Spugne Grucce 500pz.png
-        • Spugne Proteggi Spalla.png
-        • Tendipantaloni.png
-        • Tintogrippo.png
+        • Portagrucce Cromato - https://www.tintolav.com/images/dacshop/upload/b27-050portagrucce_cromato.png
+        • Portatende - https://www.tintolav.com/images/dacshop/upload/b35-030portatede.png
+        • Salvaspalle - https://www.tintolav.com/images/dacshop/upload/b27-045salvaspalle.png
+        • Spugne Grucce 500pz - https://www.tintolav.com/images/dacshop/upload/b27-040spugne_grucce_1821120554.png
+        • Spugne Sagoma Spalla - https://www.tintolav.com/images/dacshop/upload/bxx-xxxspugne_proteggi_spalla.png
+        • Tendipantaloni - https://www.tintolav.com/images/dacshop/upload/b35-050tendipantaloni.png
+        • Tintogrippo - https://www.tintolav.com/images/dacshop/upload/b30-005tintogrippo_2500_1482879236.png
     • Imballaggio
         • Bobina.png
         • Buste Camicie.png
@@ -37,30 +37,38 @@ Links Immagini
         • Nastro Adesivo 10pz.png
         • Portanastro Adesivo Nova.png
     • Lavaggio
-        • Guanti Nitrile Taglia 7.png
-        • Rubinetto Taniche.png
-        • Sacco Rete Acqua 55x85 cm.png
-        • Sacco Rete Secco 60x90 cm.png
+        • Guanti Nitrile.png
+        • Respiratore 3M - https://www.tintolav.com/images/dacshop/upload/c10-005_respiratore_3m_1014694339.jpg
+        • Rubinetto Taniche 5-10-20 lt - https://www.tintolav.com/images/dacshop/upload/c10-025rubinetto_tanciche_.png
+        • Sacco Rete Acqua 55x85 cm - https://www.tintolav.com/images/dacshop/upload/b35-038sacco_rete_acqua.png
+        • Sacco Rete Secco 60x90 cm - https://www.tintolav.com/images/dacshop/upload/b35-035sacco_rete_secco.png
+        • Sacco Rete Cravatte - https://www.tintolav.com/images/dacshop/upload/b35-039sacco_rete_cravattte.png
+        • Salvabottoni in Plastica - https://www.tintolav.com/images/dacshop/upload/b35-027salvabottoni_plastica.png
+        • Salvabottoni in Velcro - https://www.tintolav.com/images/dacshop/upload/b35-025salvabottoni_velcro.png
+        • Salvafibbie - https://www.tintolav.com/images/dacshop/upload/b35-026salvafibbie_2.png
+        • Spilli Acciaio - https://www.tintolav.com/images/dacshop/upload/b35-005spilli_acciaio.png
+        • Spille di Sicurezza 37 mm - https://www.tintolav.com/images/dacshop/upload/b35-006spille_sicurezza.png
+        • 
     • Marcatura
         • Aghi Dennison.png
-        • Carta Marcatura Numerata Arancione.png
-        • Carta Marcatura Numerata Azzurro.png
-        • Carta Marcatura Numerata Bianco.png
-        • Carta Marcatura Numerata Giallo.png
-        • Carta Marcatura Numerata Grigio.png
-        • Carta Marcatura Numerata Marrone.png
-        • Carta Marcatura Numerata Rosa.png
-        • Carta Marcatura Numerata Rosso.png
-        • Carta Marcatura Numerata Verde.png
-        • Carta Marcatura Numerata Viola.png
-        • Nastri Fiberoll 12mm 12pz Arancione.png
-        • Nastri Fiberoll 12mm 12pz Azzurro.png
-        • Nastri Fiberoll 12mm 12pz Bianco.png
-        • Nastri Fiberoll 12mm 12pz Giallo.png
-        • Nastri Fiberoll 12mm 12pz Rosa.png
-        • Nastri Fiberoll 12mm 12pz Rosso.png
-        • Nastri Fiberoll 12mm 12pz Verde.png
-        • Nastri Fiberoll 12mm 12pz Viola.png
+        • Carta Marcatura Numerata Arancione - https://www.tintolav.com/images/dacshop/upload/b01-030arcarta_numerata.png
+        • Carta Marcatura Numerata Azzurro - https://www.tintolav.com/images/dacshop/upload/b01-030azcarta_numerata.png
+        • Carta Marcatura Numerata Bianco - https://www.tintolav.com/images/dacshop/upload/b01-030bicarta_numerata.png
+        • Carta Marcatura Numerata Giallo - https://www.tintolav.com/images/dacshop/upload/b01-030gicarta_numerata.png
+        • Carta Marcatura Numerata Grigio - https://www.tintolav.com/images/dacshop/upload/b01-030grcarta_numerata.png
+        • Carta Marcatura Numerata Marrone - https://www.tintolav.com/images/dacshop/upload/b01-030macarta_numerata.png
+        • Carta Marcatura Numerata Rosa - https://www.tintolav.com/images/dacshop/upload/b01-030racarta_numerata.png
+        • Carta Marcatura Numerata Rosso - https://www.tintolav.com/images/dacshop/upload/b01-030rocarta_numerata.png
+        • Carta Marcatura Numerata Verde - https://www.tintolav.com/images/dacshop/upload/b01-030vecarta_numerata.png
+        • Carta Marcatura Numerata Viola - https://www.tintolav.com/images/dacshop/upload/b01-030vicarta_numerata.png
+        • Nastri Fiberoll 12mm 12pz Arancione - https://www.tintolav.com/it/prodotti/tintolav/accessori-attrezzature/marcatura/product/nastri-fiberoll-12mm..html
+        • Nastri Fiberoll 12mm 12pz Azzurro - https://www.tintolav.com/images/dacshop/upload/b01-040azfiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Bianco - https://www.tintolav.com/images/dacshop/upload/b01-040bifiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Giallo - https://www.tintolav.com/images/dacshop/upload/b01-040gifiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Rosa - https://www.tintolav.com/images/dacshop/upload/b01-040rafiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Rosso - https://www.tintolav.com/images/dacshop/upload/b01-040rofiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Verde - https://www.tintolav.com/images/dacshop/upload/b01-040vefiberoll_12mm.png
+        • Nastri Fiberoll 12mm 12pz Viola - https://www.tintolav.com/images/dacshop/upload/b01-040vifiberoll_12mm.png
         • Nastro Epson TM300.png
         • Penne Indelebili.png
         • Pinzatrice Bostitch.png
@@ -70,77 +78,73 @@ Links Immagini
         • Punti Bostitch 6mm.png
         • Punti Bostitch 10mm.png
         • Ricevute Carta Chimica.png
-        • Rotoli Hydrofix Arancione 76mm 10pz.png
-        • Rotoli Hydrofix Azzurro 76mm 10pz.png
-        • Rotoli Hydrofix Bianco 76mm 10pz.png
-        • Rotoli Hydrofix Giallo 76mm 10pz.png
-        • Rotoli Hydrofix Rosa 76mm 10pz.png
-        • Rotoli Hydrofix Rosso 76mm 10pz.png
-        • Rotoli Hydrofix Verde 76mm 10pz.png
-        • Rotoli Hydrofix Viola 76mm 10pz.png
+        • Rotoli Hydrofix Arancione 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025arhydrofix_76mm_fp.png
+        • Rotoli Hydrofix Azzurro 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025azhydrofix_76mm_fp.png
+        • Rotoli Hydrofix Bianco 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025bihydrofix_76mm_fp.png
+        • Rotoli Hydrofix Giallo 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025gihydrofix_76mm_fp.png
+        • Rotoli Hydrofix Rosa 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025rahydrofix_76mm_fp.png
+        • Rotoli Hydrofix Rosso 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025rohydrofix_76mm_fp.png
+        • Rotoli Hydrofix Verde 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025vehydrofix_76mm_fp.png
+        • Rotoli Hydrofix Viola 76mm 10pz - https://www.tintolav.com/images/dacshop/upload/b01-025vihydrofix_76mm_fp.png
         • Toglipunti Bostitch.png
     • Spazzole
-        • Spazzole Scamosciati/Acciaio Setola.png
-        • Spazzole Scamosciati/Acciaio USA.png
-        • Spazzole Scamosciati/Nylon.png
-        • Spazzole Scamosciati/Ottone Passamano.png
-        • Spazzole Scamosciati/Ottone Setola.png
-        • Spazzole Scamosciati/Ottone USA.png
-        • Spazzole Scamosciati/Tronchetto Acciaio.png
-        • Spazzole Smacchiatura/Crine Misto Nylon.png
-        • Spazzole Smacchiatura/Crine Nero.png
-        • Spazzole Smacchiatura/Nylon Manico.png
-        • Spazzole Smacchiatura/Pulisci Spazzole.png
-        • Spazzole Smacchiatura/Spazzola Pelliccia.png
-        • Spazzole Smacchiatura/Tampico Manico.png
-        • Spazzole Toglinodi/Pill Remover Pro.png
-        • Spazzole Toglinodi/Spazzola Doppia Azione.png
-        • Spazzole Toglinodi/Spugna Abrasiva.png
-        • Spazzole Toglipelo/Plik.png
-        • Spazzole Toglipelo/Pulirella Ricambio.png
-        • Spazzole Velluto/Senso Unico.png
+        • Spazzole Scamosciati/Acciaio e Setola - https://www.tintolav.com/images/dacshop/upload/b56-005acciaio_setola.png
+        • Spazzole Scamosciati/Acciaio USA - https://www.tintolav.com/images/dacshop/upload/b56-040acciaio_usa.png
+        • Spazzole Scamosciati/Nylon XXN - https://www.tintolav.com/images/dacshop/upload/b56-035nylon_xxn.png
+        • Spazzole Scamosciati/Ottone Passamano - https://www.tintolav.com/images/dacshop/upload/b56-020ottone_passamano.png
+        • Spazzole Scamosciati/Ottone e Setola - https://www.tintolav.com/images/dacshop/upload/b56-016ottone_setola.png
+        • Spazzole Scamosciati/Ottone USA https://www.tintolav.com/images/dacshop/upload/b56-045ottone_usa.png
+        • Spazzole Scamosciati/Tronchetto Acciaio - https://www.tintolav.com/images/dacshop/upload/b56-030tronchetto_acciaio.png
+        • Spazzole Smacchiatura/Crine Misto Nylon - https://www.tintolav.com/images/dacshop/upload/b58-010crine_misto_nylon.png
+        • Spazzole Smacchiatura/Crine Nero - https://www.tintolav.com/images/dacshop/upload/b58-015crine_nero.png
+        • Spazzole Smacchiatura/Nylon Manico - https://www.tintolav.com/images/dacshop/upload/b58-005nylon_manico.png
+        • Spazzole Smacchiatura/Pulisci Spazzole - https://www.tintolav.com/images/dacshop/upload/b58-020pulisci_spazzole.png
+        • Spazzole Smacchiatura/Spatola in Osso - https://www.tintolav.com/images/dacshop/upload/b58-025spatola_osso.png
+        • Spazzole Smacchiatura/Spazzola Pelliccia - https://www.tintolav.com/images/dacshop/upload/b58-030spazzola_pelliccia.png
+        • Spazzole Smacchiatura/Tampico Manico - https://www.tintolav.com/images/dacshop/upload/b58-000tampico_manico.png
+        • Spazzole Toglinodi/Pill Remover Pro - https://www.tintolav.com/images/dacshop/upload/b54-025pill_remover_pro.png
+        • Spazzole Toglinodi/Spazzola Doppia Azione - https://www.tintolav.com/images/dacshop/upload/b54-000spazzola_doppia_azione.png
+        • Spazzole Toglinodi/Spazzola per Lana - https://www.tintolav.com/images/dacshop/upload/b54-005spazzola_perlana.png
+        • Spazzole Toglinodi/Spugna Abrasiva - https://www.tintolav.com/images/dacshop/upload/b54-020spugna_abrasiva.png
+        • Spazzole Toglipelo/Plik - https://www.tintolav.com/images/dacshop/upload/b50-005plik_manico.png
+        • Spazzole Toglipelo/Pulirella Ricambio - https://www.tintolav.com/images/dacshop/upload/b50-030pulirella_con_ricambio.png
+        • Spazzole Velluto/Spazzola Henry's - https://www.tintolav.com/images/dacshop/upload/b52-010_spazzola_henry.png
+        • Spazzole Velluto/Senso Unico - https://www.tintolav.com/images/dacshop/upload/b52-015spazzole_senso_unico.png
     • Stender & Carrelli
-        • Carrello Grande.png
-        • Carrello Medio.png
-        • Carrello Piccolo.png
-        • Carrello Portalavoro.png
-        • Sacco Carrello.png
-        • Stender Doppio.png
-        • Stender Semplice.png
+        • Carrello Grande - https://www.tintolav.com/images/dacshop/upload/c04-010carrello_grande.png
+        • Carrello Medio - https://www.tintolav.com/images/dacshop/upload/c04-005carrello_medio.png
+        • Carrello Piccolo - https://www.tintolav.com/images/dacshop/upload/c04-000carrello_piccolo.png
+        • Carrello Portalavoro - https://www.tintolav.com/images/dacshop/upload/c04-015_carello_portalavoro.jpg
+        • Stender Doppio - https://www.tintolav.com/images/dacshop/upload/c01-005stender_doppio.png
+        • Stender Semplice - https://www.tintolav.com/images/dacshop/upload/c01-000stender_semplice.png
     • Stiratura
-        • Asta Reggicavo.png
-        • Bracciolo Donna.png
-        • Bracciolo Uomo.png
-        • Carrucola Siraflex.png
-        • Copia Manichette.png
-        • Copribracciolo Uomo.png
-        • Copritavolo Ambria Ghidini Vaporetta.png
-        • Copritavolo Maxi.png
-        • Copritavolo Rotolo 165cm.png
-        • Cordone per Ferro Matassa.png
-        • Estensori Maxi.png
-        • Ez-Off.png
-        • Molle Ganci.png
-        • Mollettone Maxi.png
-        • Mollettone Rotolo 130cm.png
-        • Mollettone Vaporetta.png
-        • Pinza Curva.png
-        • Pinza Dritta.png
-        • Pinza Topper.png
-        • Platoncino a Mano.png
-        • Poggiaferro.png
-        • Saliscendi.png
-        • Schiumato Blu Maxi.png
-        • Schiumato Blu Rotolo 130cm.png
-        • Schiumato Blu Vaporetta.png
-        • Sciolino.png
-        • Soletta Corazzata Ironmaster.png
-        • Soletta Corazzata Lemm.png
-        • Soletta Corazzata Veronesi Grande.png
-        • Soletta Teflon 2F.png
-        • Soletta Teflon AEG.png
-        • Telo Antilucido.png
-        • Tubo Vapore Matassa.png
+        • Bracciolo Donna - https://www.tintolav.com/images/dacshop/upload/b10-015bracciolo_donna.png
+        • Bracciolo Uomo - https://www.tintolav.com/images/dacshop/upload/b10-000bracciolo_uomo.png
+        • Carrucola Siraflex - https://www.tintolav.com/images/dacshop/upload/b40-025carrucola_siraflex.png
+        • Copia Manichette - https://www.tintolav.com/images/dacshop/upload/b10-030manichette.png
+        • Copritavolo Vaporetta - https://www.tintolav.com/images/dacshop/upload/b10-050aztelo_azzurro_mod_1.png
+        • Copritavolo Maxi - https://www.tintolav.com/images/dacshop/upload/b10-051aztelo_azzurro_mod_maxi.png
+        • Cordone per Ferro - https://www.tintolav.com/images/dacshop/upload/b13-010cordoni_per_ferro.png
+        • Estensori Maxi - https://www.tintolav.com/images/dacshop/upload/b13-015estensori_maxi.png
+        • Ez-Off - https://www.tintolav.com/images/dacshop/upload/b16-030ez-off.png
+        • Molle Ganci - https://www.tintolav.com/images/dacshop/upload/b13-025molle_ganci.png
+        • Mollettone Maxi - https://www.tintolav.com/images/dacshop/upload/b10-132mollettone_mod_maxi.png
+        • Mollettone Vaporetta - https://www.tintolav.com/images/dacshop/upload/b10-131mollettone_mod_c900.png
+        • Pinza Curva - https://www.tintolav.com/images/dacshop/upload/b16-060pinza_curva.png
+        • Pinza Dritta - https://www.tintolav.com/images/dacshop/upload/b16-065pinza_dritta.png
+        • Pinza Topper - https://www.tintolav.com/images/dacshop/upload/b16-055pinza_topper.png
+        • Platoncino a Mano - https://www.tintolav.com/images/dacshop/upload/b16-045platoncino_mano.png
+        • Poggiaferro - https://www.tintolav.com/images/dacshop/upload/b16-000poggiaferro.png
+        • Saliscendi - https://www.tintolav.com/images/dacshop/upload/b16-015saliscendi.png
+        • Schiumato Blu Maxi - https://www.tintolav.com/images/dacshop/upload/b10-161schiumato_mod_maxi.png
+        • Schiumato Blu Vaporetta - https://www.tintolav.com/images/dacshop/upload/b10-160schiumato_mod_vap.png
+        • Sciolino - https://www.tintolav.com/images/dacshop/upload/b16-025sciolino_1174014703.png
+        • Soletta Corazzata Ironmaster - https://www.tintolav.com/images/dacshop/upload/b17-320_soletta_corazzata_ironmaster.png
+        • Soletta Corazzata Veronesi Grande - https://www.tintolav.com/images/dacshop/upload/b17-371_soletta_corazzata_veronesi_grande.png
+        • Soletta Teflon 2F - https://www.tintolav.com/images/dacshop/upload/b17-130_soletta_semplice_ironmaster.png
+        • Soletta Teflon AEG - https://www.tintolav.com/images/dacshop/upload/b17-110_soletta_semplice_veronesi_grande.png
+        • Telo Antilucido - https://www.tintolav.com/images/dacshop/upload/b16-011retina_antiluc_25x70.png
+        • Tubo Vapore a Metro - https://www.tintolav.com/images/dacshop/upload/b13-003tubo_vapore_silicone_roll.png
 • Attrezzature Lavanderia
     • Attrezzature Asciugamento
         • A_ES_6_8.jpg
