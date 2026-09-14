@@ -908,7 +908,7 @@
                 const telBtn     = document.getElementById('telBtn');
                 const emailPopup = document.getElementById('emailPopup');
                 const emailBtn   = document.getElementById('emailBtn');
-                if (!waPopup.contains(e.target) && !waBtn.contains(e.target)) waPopup.classList.remove('openn');
+                if (!waPopup.contains(e.target) && !waBtn.contains(e.target)) waPopup.classList.remove('open');
                 if (!telPopup.contains(e.target) && !telBtn.contains(e.target)) telPopup.classList.remove('open');
                 if (!emailPopup.contains(e.target) && !emailBtn.contains(e.target)) emailPopup.classList.remove('open');
             });
@@ -942,23 +942,23 @@
             track.innerHTML = html;
             // MARQUEE IMAGES
             const marqueeImages = [
-            { url: 'Immagini/Categorie/Prodotti/Additivi/Certisan K.png', label: 'Certisan K' },
-            { url: 'Immagini/Categorie/Prodotti/Additivi/Oxon 1lt.png', label: 'Oxon 1lt' },
-            { url: 'Immagini/Categorie/Prodotti/Additivi/Sfeltran-tex.png', label: 'Sfeltran-tex' },
-            { url: 'Immagini/Categorie/Prodotti/Appretti/Deopret.png', label: 'Deopret' },
-            { url: 'Immagini/Categorie/Prodotti/Appretti/Okay.png', label: 'Okay' },
-            { url: 'Immagini/Categorie/Prodotti/Appretti/Renova.png', label: 'Renova' },
-            { url: 'Immagini/Categorie/Prodotti/Appretti/Wrinkle.png', label: 'Wrinkle' },
-            { url: 'Immagini/Categorie/Prodotti/Deoamm 1lt/Ambra Vanilla.png', label: 'Ambra & Vanilla 1lt' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a48-410ncertisan_k_20kg.png', label: 'Certisan K' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a48-500dx12oxon_1lt_1006720412.png', label: 'Oxon 1lt' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a48-510k_sfeltran-tex_10kg.png', label: 'Sfeltran-tex' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png', label: 'Deopret' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a70-015okay.png', label: 'Okay' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png', label: 'Renova' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png', label: 'Wrinkle' },
+            { url: 'https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png', label: 'Ambra & Vanilla 1lt' },
             ];
             const marqueeImages2 = [
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Stiro/Generatori di Vapore/Vaporino 2lt 3.jpg', label: 'Vaporino 2lt' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_14_18_23.png', label: 'Supercentrifugante 18kg' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_26_32.png', label: 'Supercentrifugante 32kg' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Stiro/Tavoli da Stiro/Tavolo aspirante vaporizzante 1270 caldaia.jpg', label: 'Vaporizzante con Caldaia' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/IMESA_PROEasyLine_01_W.jpg', label: 'Professional 8kg' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Imballaggio/Imbustatrice Murale Manuale.png', label: 'Imbustatrice a Muro' },
-            { url: 'Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 11_14_18.jpg', label: 'Essiccatoio 18kg' },
+            { url: 'Immagini/Attrezzature Stiro/Generatori di Vapore/Vaporino 2lt 3.jpg', label: 'Vaporino 2lt' },
+            { url: 'https://imesa.it/wp-content/uploads/2019/10/A_LM_14_18_23_F_1.png', label: 'Supercentrifugante 18kg' },
+            { url: 'https://imesa.it/wp-content/uploads/2019/10/A_LM_26_32_F_1.png', label: 'Supercentrifugante 32kg' },
+            { url: 'Immagini/Attrezzature Stiro/Tavoli da Stiro/Tavolo aspirante vaporizzante 1270 caldaia.jpg', label: 'Vaporizzante con Caldaia' },
+            { url: 'Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/IMESA_PROEasyLine_01_W.jpg', label: 'Professional 8kg' },
+            { url: 'Immagini/Attrezzature Imballaggio/Imbustatrice Murale Manuale.png', label: 'Imbustatrice a Muro' },
+            { url: 'Immagini/Attrezzature Asciugatura/A_ES 11_14_18.jpg', label: 'Essiccatoio 18kg' },
             ];
 
             function buildMarquee(trackEl, images) {
