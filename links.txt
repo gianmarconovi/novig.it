@@ -145,22 +145,15 @@ Links Immagini
         • Tubo Vapore a Metro - https://www.tintolav.com/images/dacshop/upload/b13-003tubo_vapore_silicone_roll.png
 • Attrezzature Lavanderia
     • Attrezzature Asciugamento
-        • A_ES_6_8 -
-        • B_ES_6_8.jpg
-        • C_ES_6_8.jpg
-        • A_ES 11_14_18.jpg
-        • B_ES 11_14_18.jpg
-        • C_ES 11_14_18.jpg
-        • A_ES 23_26_32_36.jpg
-        • B_ES 23_26_32_36.jpg
-        • C_ES 23_26_32_36.jpg
-        • A_ES 55_75.jpg
-        • B_ES 55_75.jpg
-        • C_ES 55_75.jpg
-    • Lavaggio ad Acqua/Professional
-        • A_6_8.jpg
-        • B_6_8.jpg
-        • C_6_8.jpg
+        • A_ES 11_14_18 - https://imesa.it/wp-content/uploads/2025/04/ES_18_SMART1.jpg
+        • B_ES 11_14_18 - https://imesa.it/wp-content/uploads/2025/04/ES_18_SMART2.jpg
+        • C_ES 11_14_18 - https://imesa.it/wp-content/uploads/2025/04/ES_18_SMART3.jpg
+        • A_ES 23_26_32_36 - https://imesa.it/wp-content/uploads/2025/04/ES_36_SMART1.jpg
+        • B_ES 23_26_32_36 - https://imesa.it/wp-content/uploads/2025/04/ES_36_SMART2.jpg
+        • C_ES 23_26_32_36 - https://imesa.it/wp-content/uploads/2025/04/ES_36_SMART3.jpg
+        • A_ES 55_75 - https://imesa.it/wp-content/uploads/2019/10/A_ES-55_75_BL_F-copia.jpg
+        • B_ES 55_75 - https://imesa.it/wp-content/uploads/2019/10/B_ES-55_75_BL_P1-copia.jpg
+        • C_ES 55_75 - https://imesa.it/wp-content/uploads/2019/10/C_ES-55_75_BL_P2-copia.jpg
     • Lavaggio ad Acqua/Supercentrifuganti
         • A_LM-8_11_2023_F - https://imesa.it/wp-content/uploads/2019/10/A_LM-8_11_2023_F-1000x1000.jpg
         • B_LM-8_11_2023_P1_ - https://imesa.it/wp-content/uploads/2019/10/B_LM-8_11_2023_P1_-1000x1000.png
@@ -181,9 +174,13 @@ Links Immagini
         • C_LM_100_125 - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_2.jpg
         • C_LM_100_125_TILTING - https://imesa.it/wp-content/uploads/2022/01/Lavatrici-supercentrifuganti_High-spin-washing-machines_LM_100_4.jpg
     • Lavaggio ad Acqua/Tandem
-        • A_TDM 1818.png
-        • B_TDM 1818.png
-        • C_TDM 1818.png
+        • A_TDM 1818 - https://imesa.it/wp-content/uploads/2022/01/Tandem_Washing-machines-and-Tumble-Dryers_TDM_03.jpg
+        • B_TDM 1818 - https://imesa.it/wp-content/uploads/2022/01/Tandem_Washing-machines-and-Tumble-Dryers_TDM_01-1000x707.jpg
+        • C_TDM 1818 - https://imesa.it/wp-content/uploads/2022/01/Tandem_Washing-machines-and-Tumble-Dryers_TDM_02.jpg
+    • Stiro
+        • FI https://imesa.it/wp-content/uploads/2022/11/fi2022_03.369.png
+        • MCA https://imesa.it/wp-content/uploads/2024/12/IMESA_Calandre-asciuganti_Drying-Ironing_MCA_NEW_FRONTE-1.png
+        • MCM https://imesa.it/wp-content/uploads/2022/01/Calandre-asciuganti_Drying-Ironing_MCM_3.jpg
 • Loghi Fornitori
     • Alberti Angelo - Immagini/Loghi Fornitori/Alberti Angelo.png
     • Bioxelle - Immagini/Loghi Fornitori/Bioxelle.png
