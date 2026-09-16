@@ -20,7 +20,7 @@
         <!-------------- novig.it Style -------------->
         <style>
             *{margin: 0;padding: 0;box-sizing: border-box;}
-            html { scroll-behavior: smooth; }
+            html { scroll-behavior: smooth; scroll-padding-top: 80px; }
             body{font-family: 'Poppins', sans-serif;}
             a{text-decoration: none;color: #555;}
             a:hover{color:#009541; cursor: pointer;}
@@ -411,7 +411,7 @@
                 <div class="container">
                     <nav>
                         <div class="navbar">
-                            <div class="logo">
+                            <div class="logo" id="home">
                                 <a href="index.html"><img src="Immagini/novigLogo.png" width="125px"></a>
                             </div>
                             <div class="cart-overlay" id="menuOverlay" onclick="closeMenu()"></div>
@@ -422,10 +422,10 @@
                                 </div>
                                 <div class="menu-body">
                                     <ul class="menu-nav-links">
-                                        <li><a href="index.html" onclick="closeMenu()">Home</a></li>
-                                        <li><a href="catalogo-generale/" onclick="closeMenu()">Catalogo Generale</a></li>                       
+                                        <li><a href="#home" onclick="closeMenu()">Home</a></li>
+                                        <li><a href="#catalogo-generale" onclick="closeMenu()">Catalogo Generale</a></li>                       
                                         <li><a onclick="openModal('richiesta-listino-prezzi.html')" onclick="closeMenu()">Richiedi Listino Prezzi</a></li>
-                                        <li><a href="chi-siamo/" onclick="closeMenu()">Chi Siamo</a></li>
+                                        <li><a href="#chi-siamo" onclick="closeMenu()">Chi Siamo</a></li>
                                     </ul>
                                     <div class="menu-socials">
                                         <a href="https://www.instagram.com/novigsnc/"target="_blank">Instagram</a>
@@ -848,7 +848,7 @@
 
         <!-------------- Chi Siamo -------------->
         <!-- HERO -->
-        <section class="hero">
+        <section class="hero" id="chi-siamo">
             <span class="hero-eyebrow">La nostra storia</span>
             <h1>Chi <em>Siamo</em></h1>
             <p class="hero-sub">Da oltre cinquant'anni al fianco delle lavanderie professionali italiane, con passione, competenza e la dedizione di una famiglia.</p>
@@ -980,7 +980,7 @@
         </section>
 
         <!-------------- Catalogo Generale -------------->
-        <div class="small-container" id="cat-gen">
+        <div class="small-container" id="catalogo-generale">
             <div class="row row-2">
                 <h2>Catalogo Generale</h2>
             </div>
