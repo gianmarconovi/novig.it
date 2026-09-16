@@ -292,20 +292,22 @@
             .col-3 img{width: 100%;}
             .slider-container {position: relative;width: 80%;max-width: 800px;overflow: hidden;border-radius: 5px;background-color: #fff;}
             .slider {display: flex;transition: transform 0.5s ease-in-out;}
-            /* FIX #2: corretto il selettore da discendente a lista separata da virgole */
             .slide1, .slide2, .slide3 {min-width: 100%;height: 200px;object-fit: cover;display: block;scroll-behavior: smooth;}
             /*-------featured product--------------*/
             .title{text-align: center;margin: 0px auto 80px;position: relative;line-height: 60px;color: #555;}
             .title::after{content: '';background: #009541;width: 80px;height: 5px;border-radius: 5px;position: absolute;bottom: 0;left: 50%;transform: translateX(-50%);}
             .col-4{flex-basis: 25%;padding: 10px;min-width: 200px;margin-bottom: 50px;transition: transform 0.5s;}
+            .col-6{flex-basis: 25%;padding: 10px;min-width: 200px;margin-bottom: 50px;transition: transform 0.5s;}
             .col-4 img{width: 100%;}
+            .col-6 img{width: 100%;}
             h4{color: #555;font-weight: normal;}
             .col-4 p{font-size: 14px;}
+            .col-6 p{font-size: 14px;}
             .rating .fa{color: #009541;}
             .col-4:hover{transform: translateY(-5px);}
+            .col-6:hover{transform: translateY(-5px);}
             /*-----------offer-------------*/
             .offer{background: #fff;margin-top: 80px;padding: 30px 0;}
-            /* FIX #4: padding laterale esplicito per offer-img, evita conflitto con .col-2 img {padding: 50px 0} */
             .col-2 .offer-img{padding: 50px 0;}
             small{color: #555;}
             /*--------------------testimonial---------------*/
@@ -337,17 +339,15 @@
             .copyright{text-align: center;}
             /*-------media-query-for-max-width-1000---------*/
             @media only screen and (max-width: 1000px){
-                /* FIX #5: rimossa la prima "transition: 1s" duplicata, mantenuta solo "transition: max-height 0.5s" */
                 nav ul:not(.menu-nav-links){position: absolute;top: 70px;left: 0;background: #333;width: 100%;overflow: hidden;max-height: 0;transition: max-height 0.5s;}
                 nav ul:not(.menu-nav-links) li{display: block;margin-right: 50px;margin-top: 10px;margin-bottom: 10px;}
                 nav ul:not(.menu-nav-links) li a{color: #fff;}
                 .menu-icon{display: block;cursor: pointer;}}
-            /* FIX #1: unificato il primo blocco @media 600px */
             @media only screen and (max-width: 600px){
                 .row{text-align: center;}
                 .col-1, .col-2, .col-3{flex-basis: 100%;}
                 .col-4{flex-basis: 50%; min-width: 0;}
-                /* FIX #1: spostato qui il secondo blocco 600px che era separato (single-product) */
+                .col-6{flex-basis: 50%; min-width: 0;}
                 .single-product .row{text-align: left;}
                 .single-product .col-2{padding: 20px 0;}
                 .single-product h1{font-size: 26px;line-height: 22px;}}
@@ -369,8 +369,6 @@
             .single-product .fa{color: #009541;margin-left: 10px;}
             .small-img-row{display: flex;justify-content: space-between;}
             .small-img-col{flex-basis: 24%;cursor: pointer;}
-            /* FIX #3: .col-3 p usa #777 ma il footer usa .footer-col3 che eredita anche .col-3 p.
-               Aggiunto override esplicito per garantire il colore corretto nel footer */
             .footer-col3 p, .footer-col4 p { color: #8a8a8a; }
             /*---------------- cart page -----------*/
             .cart-page{margin: 80px auto;}
@@ -491,14 +489,14 @@
                 </div>
             </div>
             
-        <!-------------- Our Featured Products -------------->
+        <!-------------- Vetrina Iniziale -------------->
         
             <div class="small-container">
                 <!-- Prodotti Chimici -->
                 <h2 class="title">Prodotti Chimici</h2>
                 <div class="row">
                     <!-- Oxon 1lt -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <a onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-500dx12oxon_1lt_1006720412.png" title="Clicca Immagine"></a>
                         <h4><a onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-1lt.html')">Additivo - Oxon 1lt</a></h4>
                         <div class="rating">
@@ -511,7 +509,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                     </div>
                     <!-- Okay -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <a onclick="openModal('catalogo-generale/prodotti-chimici/appretti/okay.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a70-015okay.png" title="Clicca Immagine"></a>
                         <h4><a onclick="openModal('catalogo-generale/prodotti-chimici/appretti/okay.html')">Appretto - Okay</a></h4>
                         <div class="rating">
@@ -524,7 +522,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                     </div>
                     <!-- Ambra & Vanilla 1lt -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png" title="Clicca Immagine">
                         <h4>Ammorbidente - Ambra & Vanilla</h4>
                         <div class="rating">
@@ -537,7 +535,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p> 
                     </div>
                     <!-- Orchidea Selvatica 1lt -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a45-025dx12ammorbidente_orchideaselvatica_1lt_353383926.png" title="Clicca Immagine">
                         <h4>Ammorbidente - Orchidea Selvatica</h4>
                         <div class="rating">
@@ -552,7 +550,7 @@
                 </div>
                 <div class="row">
                     <!-- Black Premium 1lt -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a39-515dx12blackpremium_1lt_23565267.png" title="Clicca Immagine">
                         <h4>Detergente - Black Premium</h4>
                         <div class="rating">
@@ -565,7 +563,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p> 
                     </div>
                     <!-- Detergente Note di Pulito 10kg -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a39-525kdetergente_notedipulito_10kg_1630671806.png" title="Clicca Immagine">
                         <h4>Detergente - Note di Pulito</h4>
                         <div class="rating">
@@ -578,7 +576,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                     </div>
                     <!-- White Xtra 20kg -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a39-512nwhitextra_20kg_702180516.png" title="Clicca Immagine">
                         <h4>Detergente - White Xtra</h4>
                         <div class="rating">
@@ -591,7 +589,7 @@
                         <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                     </div>
                     <!-- Deospray - Note di Pulito -->
-                    <div class="col-4">
+                    <div class="col-6">
                         <img src="https://www.tintolav.com/images/dacshop/upload/a73-012qudeospray_notedipulito_400ml_1600956983.png" title="Clicca Immagine">
                         <h4>Deospray - Note di Pulito</h4>
                         <div class="rating">
@@ -609,7 +607,7 @@
                 <h2 class="title">Accessori</h2>
                     <div class="row">
                         <!-- GRUCCE 500PZ -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Grucce & Accessori/Grucce 500pz.png" title="Clicca Immagine">
                             <h4>Grucce 500pz</h4>
                             <div class="rating">
@@ -622,7 +620,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- SPUGNE GRUCCE -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Grucce & Accessori/Spugne Grucce 500pz.png" title="Clicca Immagine">
                             <h4>Spugne Grucce</h4>
                             <div class="rating">
@@ -635,7 +633,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- CARTONCINI PER PANTALONI TINTOGRIPPO -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Grucce & Accessori/Tintogrippo.png" title="Clicca Immagine">
                             <h4>Cartoncini per Pantaloni</h4>
                             <div class="rating">
@@ -648,7 +646,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p> 
                         </div>
                         <!-- Bobina LDPE per Imbustratrice -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Imballaggio/Bobina.png" title="Clicca Immagine">
                             <h4>Bobina LDPE per Imbustratrice</h4>
                             <div class="rating">
@@ -663,7 +661,7 @@
                     </div>
                     <div class="row">
                         <!-- Buste LDPE per Piumoni -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Imballaggio/Buste Piumoni.png" title="Clicca Immagine">
                             <h4>Buste LDPE per Piumoni</h4>
                             <div class="rating">
@@ -676,7 +674,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p> 
                         </div> 
                         <!-- Buste per Sottovuoto 80x110cm -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Imballaggio/Buste Sottovuoto.png" title="Clicca Immagine">
                             <h4>Buste per Sottovuoto 80x110cm</h4>
                             <div class="rating">
@@ -689,7 +687,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- CARTONCINI PER PAPILLON -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Imballaggio/Cartoncini Papillon.png" title="Clicca Immagine">
                             <h4>Cartoncini per Papillon</h4>
                             <div class="rating">
@@ -702,7 +700,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- ROTOLI 76MM PER STAMPANTE -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <img src="Immagini/Categorie/Accessori/Marcatura/Rotoli Hydrofix Giallo 76mm 10pz.png" title="Clicca Immagine">
                             <h4>Rotoli 76mm per Stampante</h4>
                             <div class="rating">
@@ -720,7 +718,7 @@
                 <h2 class="title">Attrezzature Lavanderia</h2>
                     <div class="row">
                         <!-- ESSICCATOIO ROTATIVO -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-asciugatura/rotativo-11-14-18kg.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 11_14_18.jpg" title="Essiccatoio - Rotativo 11-14-18kg"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-asciugatura/rotativo-11-14-18kg.html')" title="Essiccatoio - Rotativo 11-14-18kg">Essiccatoio<br>Rotativo 11-14-18kg</a></h4>
                             <div class="rating">
@@ -733,7 +731,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- NASTRO TRASPORTATORE CASELLATO -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-gestione-deposito/nastro-trasportatore-casellato.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Gestione Deposito/Nastro Trasportatore Casellato.png" title="Nastro Trasportatore Casellato"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-gestione-deposito/nastro-trasportatore-casellato.html')" title="Nastro Trasportatore Casellato">Nastro Trasportatore Casellato</a></h4>
                             <div class="rating">
@@ -746,7 +744,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- IMBUSTATRICE MURALE MANUALE -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-imballaggio/imbustatrice-murale-manuale.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Imballaggio/Imbustatrice Murale Manuale.png" title="Imbustatrice Murale Manuale"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-imballaggio/imbustatrice-murale-manuale.html')" title="Imbustatrice Murale Manuale">Imbustatrice Murale Manuale</a></h4>
                             <div class="rating">
@@ -759,7 +757,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p> 
                         </div>
                         <!-- SUPERCENTRIFUGANTE 8-11kg -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/supercentrifugante-8-11kg.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM-8_11_2023_P2_.png" title="Lavatrice - Supercentrifugante 8-11kg"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/supercentrifugante-8-11kg.html')" title="Lavatrice - Supercentrifugante 8-11kg">Lavatrice<br>Supercentrifugante 8-11kg</a></h4>
                             <div class="rating">
@@ -774,7 +772,7 @@
                     </div>
                     <div class="row">
                         <!-- SUPERCENTRIFUGANTE 14-18-23kg -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/supercentrifugante-14-18-23kg.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_14_18_23.png" title="Lavatrice - Supercentrifugante 14-18-23kg"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/supercentrifugante-14-18-23kg.html')" title="Lavatrice - Supercentrifugante 14-18-23kg">Lavatrice<br>Supercentrifugante<br>14-18-23kg</a></h4>
                             <div class="rating">
@@ -787,7 +785,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- PROFESSIONAL 6-8kg -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/professional-6-8kg.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/C_6_8.jpg" title="Lavatrice - Professional 6-8kg"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/professional-6-8kg.html')" title="Lavatrice - Professional 6-8kg">Lavatrice<br>Professional 6-8kg</a></h4>
                             <div class="rating">
@@ -800,7 +798,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- TANDEM ESSICCATOIO + LAVATRICE -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/tandem-11/11-18/18kg.html')"><img src="Immagini/Categorie/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/C_TDM 1818.png" title="Tandem Essiccatoio + Lavatrice"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-lavaggio/tandem-11/11-18/18kg.html')" title="Tandem Essiccatoio + Lavatrice">Tandem Essiccatoio + Lavatrice</a></h4>
                             <div class="rating">
@@ -813,7 +811,7 @@
                             <p><a onclick="openModal('richiesta-listino-prezzi.html')">Scopri il prezzo!</a></p>
                         </div>
                         <!-- TAVOLO DA STIRO ASPIRANTE RISCALDANTE VAPORIZZANTE CON CALDAIA -->
-                        <div class="col-4">
+                        <div class="col-6">
                             <a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-stiro/tavolo-da-stiro-aspirante-riscaldante-vaporizzante-con-caldaia.html')"><img src="Immagini/Attrezzature Stiro/Tavoli da Stiro/Tavolo aspirante vaporizzante 1270 caldaia.jpg" title="Tavolo da Stiro Aspirante Riscaldante Vaporizzante con Caldaia"></a>
                             <h4><a onclick="openModal('catalogo-generale/attrezzature-lavanderia/attrezzature-stiro/tavolo-da-stiro-aspirante-riscaldante-vaporizzante-con-caldaia.html')" title="Tavolo da Stiro Aspirante Riscaldante Vaporizzante con Caldaia">Tavolo da Stiro Aspirante Riscaldante Vaporizzante con Caldaia</a></h4>
                             <div class="rating">
