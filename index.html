@@ -122,6 +122,19 @@
             #searchBarWrap.sticky {position:fixed;top:0;left:0;right:0;z-index:190;background:#fff;margin:0;max-width:100%;padding:10px 20px;border-bottom:2px solid #009541;border-radius:0;box-shadow:0 2px 12px rgba(0,0,0,0.08);}
             #searchBarWrap.sticky #searchBar {max-width:600px;margin:0 auto;border:2px solid #009541;border-radius:30px;box-shadow:none;}
             body.search-sticky {padding-top: 62px;}
+            /* QUICK NAV CATALOGO (pulsante centrale in basso) */
+            #catNav {position:fixed;left:50%;bottom:3px;transform:translateX(-50%);z-index:199;display:flex;flex-direction:column;align-items:center;gap:8px;max-width:calc(100vw - 140px);opacity:0;pointer-events:none;transition:opacity 0.4s;}
+            #catNav.visible {opacity:1;pointer-events:auto;}
+            #catNavBtn {display:flex;align-items:center;justify-content:center;gap:8px;min-height:56px;padding:0 24px;border-radius:28px;background:#009541;color:#fff;border:none;font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.2);transition:background 0.3s, transform 0.3s;white-space:nowrap;max-width:100%;}
+            #catNavBtn:hover {background:#000;transform:scale(1.05);}
+            #catNavBtn .cat-nav-label {overflow:hidden;text-overflow:ellipsis;}
+            #catNavBtn .cat-nav-arrow {flex-shrink:0;width:12px;height:12px;transition:transform 0.3s;}
+            #catNav.open #catNavBtn .cat-nav-arrow {transform:rotate(180deg);}
+            #catNavMenu {display:flex;flex-direction:column;gap:8px;align-items:stretch;width:100%;max-height:0;overflow:hidden;opacity:0;transform:translateY(10px);pointer-events:none;transition:max-height 0.35s ease, opacity 0.3s, transform 0.3s;order:-1;}
+            #catNav.open #catNavMenu {max-height:260px;opacity:1;transform:translateY(0);pointer-events:auto;}
+            #catNavMenu button {min-height:48px;padding:0 24px;border-radius:24px;background:#009541;color:#fff;border:none;font-family:'Poppins',sans-serif;font-size:13px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,0.2);transition:background 0.3s, transform 0.3s;white-space:nowrap;}
+            #catNavMenu button:hover {background:#000;transform:scale(1.05);}
+            @media (max-width:600px) {#catNavBtn, #catNavMenu button {font-size:12px;padding:0 16px;}}
             /* ACCORDION CATEGORIE */
             .accordion-section {margin-bottom:16px;}
             .accordion-header {display:flex;justify-content:space-between;align-items:center;background:#009541;color:#fff;padding:14px 20px;border-radius:10px;cursor:pointer;user-select:none;font-size:15px;font-weight:600;letter-spacing:0.03em;transition:background 0.3s;}
@@ -5585,6 +5598,14 @@
         </footer>
         <button id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'})">VAI SU</button>
         <button id="hamburger" onclick="toggleMenu()" aria-label="Menu">MENU</button>
+        <!-- QUICK NAV CATALOGO -->
+        <div id="catNav">
+            <div id="catNavMenu"></div>
+            <button id="catNavBtn" onclick="toggleCatNav()" aria-label="Vai a sezione del catalogo" aria-expanded="false">
+                <span class="cat-nav-label" id="catNavLabel">Accessori</span>
+                <svg class="cat-nav-arrow" viewBox="0 0 12 12" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="1.5,8 6,3.5 10.5,8"/></svg>
+            </button>
+        </div>
         <!-- PULSANTE EMAIL -->
         <button id="emailBtn" onclick="toggleEmailPopup()" aria-label="Email">
             <span class="btn-tooltip">Mandaci una mail</span>
@@ -5773,6 +5794,77 @@
                 if (!telPopup.contains(e.target) && !telBtn.contains(e.target)) telPopup.classList.remove('open');
                 if (!emailPopup.contains(e.target) && !emailBtn.contains(e.target)) emailPopup.classList.remove('open');
             });
+            // QUICK NAV CATALOGO
+            (function() {
+                var sections = [
+                    {id:'acc-accessori', name:'Accessori'},
+                    {id:'acc-attrezzature-lavanderia', name:'Attrezzature Lavanderia'},
+                    {id:'acc-prodotti', name:'Prodotti Chimici'},
+                    {id:'acc-ricambi', name:'Ricambi'}
+                ];
+                var nav = document.getElementById('catNav');
+                var menu = document.getElementById('catNavMenu');
+                var btn = document.getElementById('catNavBtn');
+                var label = document.getElementById('catNavLabel');
+                var catalog = document.getElementById('catalogo-generale');
+                var wrap = document.getElementById('searchBarWrap');
+                var current = 0;
+                function buildMenu() {
+                    menu.innerHTML = '';
+                    sections.forEach(function(sec, i) {
+                        if (i === current) return;
+                        var b = document.createElement('button');
+                        b.type = 'button';
+                        b.textContent = sec.name;
+                        b.onclick = function() { goToSection(i); };
+                        menu.appendChild(b);
+                    });
+                }
+                function setCurrent(i) {
+                    if (i === current) return;
+                    current = i;
+                    label.textContent = sections[i].name;
+                    buildMenu();
+                }
+                function closeNav() {
+                    nav.classList.remove('open');
+                    btn.setAttribute('aria-expanded', 'false');
+                }
+                function goToSection(i) {
+                    var sec = document.getElementById(sections[i].id);
+                    if (!sec) return;
+                    var body = sec.querySelector('.accordion-body');
+                    if (body && !body.classList.contains('open')) toggleAccordion(sections[i].id);
+                    setCurrent(i);
+                    closeNav();
+                    var y = sec.getBoundingClientRect().top + window.pageYOffset - 76;
+                    window.scrollTo({top: y, behavior: 'smooth'});
+                }
+                window.toggleCatNav = function() {
+                    var open = nav.classList.toggle('open');
+                    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+                };
+                function update() {
+                    var stickyOn = wrap && wrap.classList.contains('sticky');
+                    var rect = catalog.getBoundingClientRect();
+                    var show = stickyOn && rect.bottom > window.innerHeight * 0.3;
+                    nav.classList.toggle('visible', show);
+                    if (!show) closeNav();
+                    var idx = 0;
+                    sections.forEach(function(sec, i) {
+                        var el = document.getElementById(sec.id);
+                        if (el && el.getBoundingClientRect().top <= 110) idx = i;
+                    });
+                    setCurrent(idx);
+                }
+                buildMenu();
+                window.addEventListener('scroll', update, {passive:true});
+                window.addEventListener('resize', update);
+                document.addEventListener('click', function(e) {
+                    if (!nav.contains(e.target)) closeNav();
+                });
+                document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeNav(); });
+            })();
             // ACCORDION
             function toggleAccordion(id) {
                 const section = document.getElementById(id);
