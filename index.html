@@ -5703,24 +5703,20 @@
             // BARRA RICERCA STICKY
             (function() {
                 var wrap = document.getElementById('searchBarWrap');
-                var offsetTop = 0;
-                function initOffset() {
-                    wrap.classList.remove('sticky');
-                    document.body.classList.remove('search-sticky');
-                    offsetTop = wrap.getBoundingClientRect().top + window.pageYOffset;
+                if (!wrap) return;
+                var sentinel = document.createElement('div');
+                sentinel.style.cssText = 'height:0;margin:0;padding:0;';
+                wrap.parentNode.insertBefore(sentinel, wrap);
+                function check() {
+                    var pad = document.body.classList.contains('search-sticky') ? (parseFloat(getComputedStyle(document.body).paddingTop) || 0) : 0;
+                    var on = (sentinel.getBoundingClientRect().top - pad) <= 0;
+                    wrap.classList.toggle('sticky', on);
+                    document.body.classList.toggle('search-sticky', on);
                 }
-                window.addEventListener('load', initOffset);
-                window.addEventListener('resize', initOffset);
-                window.addEventListener('scroll', function() {
-                    if (!wrap) return;
-                    if (window.pageYOffset > offsetTop) {
-                        wrap.classList.add('sticky');
-                        document.body.classList.add('search-sticky');
-                    } else {
-                        wrap.classList.remove('sticky');
-                        document.body.classList.remove('search-sticky');
-                    }
-                });
+                window.addEventListener('scroll', check, {passive:true});
+                window.addEventListener('resize', check);
+                window.addEventListener('load', check);
+                check();
             })();
             function toggleSearchPopup() {
                 const popup = document.getElementById('searchPopup');
