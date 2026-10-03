@@ -201,13 +201,6 @@ Links Immagini
         • Sfeltran-tex - https://www.tintolav.com/images/dacshop/upload/a48-510k_sfeltran-tex_10kg.png
         • X9 Degreaser 2x5kg - https://www.tintolav.com/images/dacshop/upload/a39-050h2x9-degreaser_2x5kg.png
         
-    • Appretti
-        • Apretex 2x5kg - https://www.tintolav.com/images/dacshop/upload/a51-000h2apretex_2x5kg.png
-        • Deopret - https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png
-        • Okay - https://www.tintolav.com/images/dacshop/upload/a70-015okay.png
-        • Renova - https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png
-        • Wrinkle - https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png
-
     • Amm 1lt
         • Ambra Vanilla - https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png
         • Caresse Blanche - https://www.tintolav.com/images/dacshop/upload/a45-001dx12ammorbidente_caresseblanche_1lt_2003387814.png
@@ -250,6 +243,13 @@ Links Immagini
         • Soft Caps - https://www.tintolav.com/images/dacshop/upload/a45-021nsoft_caps_20kg_1702016355.png
         • Tahiti - https://www.tintolav.com/images/dacshop/upload/ah45-005nsoft_tahiti_20kg.png
         • Tintosoft - https://www.tintolav.com/images/dacshop/upload/a45-000ntintosoft_20kg_1252461766.png
+
+    • Appretti
+        • Apretex 2x5kg - https://www.tintolav.com/images/dacshop/upload/a51-000h2apretex_2x5kg.png
+        • Deopret - https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png
+        • Okay - https://www.tintolav.com/images/dacshop/upload/a70-015okay.png
+        • Renova - https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png
+        • Wrinkle - https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png
 
     • Deospray 400ml
         • Bergamotto & Zagara - https://www.tintolav.com/images/dacshop/upload/a73-002qudeospray_bergamotto_zagara_400ml.png
