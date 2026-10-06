@@ -541,3 +541,2015 @@ Ricambi
     https://novig.it/Immagini/Categorie/Ricambi/Vetro 1.jpg
     https://novig.it/Immagini/Categorie/Ricambi/Vetro 2.jpg
     https://novig.it/Immagini/Categorie/Ricambi/Viton.jpg
+
+<div class="accordion-body open">
+    <div class="row">
+    <!-- ADDITIVI -->
+        <!-- CERTISAN K -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/certisan-k.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-410ncertisan_k_20kg.png" alt="Certisan K" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/certisan-k.html')" alt="Certisan K" title="Apri Scheda Prodotto ">Additivo - Certisan K</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- OXON 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-500dx12oxon_1lt_1006720412.png" alt="Additivo - Oxon 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-1lt.html')" alt="Additivo - Oxon 1lt" title="Apri Scheda Prodotto ">Additivo - Oxon 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- OXON 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-500koxon_10kg_1726912271.png" alt="Additivo - Oxon 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-10kg.html')" alt="Additivo - Oxon 10kg" title="Apri Scheda Prodotto ">Additivo - Oxon 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- OXON 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-500noxon_20kg_150796358.png" alt="Additivo - Oxon 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/oxon-20kg.html')" alt="Additivo - Oxon 20kg" title="Apri Scheda Prodotto ">Additivo - Oxon 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SFELTRAN-TEX -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/sfeltran-tex.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-510k_sfeltran-tex_10kg.png" alt="Sfeltran-tex" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/sfeltran-tex.html')" alt="Sfeltran-tex" title="Apri Scheda Prodotto ">Additivo - Sfeltran-tex</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- X9 DEGREASER -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/x9-degreaser.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a39-050h2x9-degreaser_2x5kg.png" alt="X9 Degreaser" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/additivi/x9-degreaser.html')" alt="X9 Degreaser" title="Apri Scheda Prodotto ">Additivo - X9 Degreaser</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- AMMORBIDENTI -->
+        <!-- AMBRA & VANILLA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/ambra-vanilla-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-023dx12_ammorbidente_ambravanilla_1lt.png" alt="Ammorbidente - Ambra & Vanilla 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/ambra-vanilla-1lt.html')" alt="Ammorbidente - Ambra & Vanilla 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Ambra & Vanilla 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- AMBRA & VANILLA 20kg -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/ambra-vanilla-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-023n_ammorbidente_ambravanilla_20kg.png" alt="Ammorbidente - Ambra & Vanilla 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/ambra-vanilla-20kg.html')" alt="Ammorbidente - Ambra & Vanilla 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Ambra & Vanilla 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOXELLE 20kg -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/bioxelle-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-900nbioxelle_ammorbidente_20kg.png" alt="Ammorbidente - Bioxelle 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/bioxelle-20kg.html')" alt="Ammorbidente - Bioxelle 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Bioxelle 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CARESSE BLANCHE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/caresse-blanche-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-001dx12ammorbidente_caresseblanche_1lt_2003387814.png" alt="Ammorbidente - Caresse Blanche 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/caresse-blanche-1lt.html')" alt="Ammorbidente - Caresse Blanche 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Caresse Blanche 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CARESSE BLANCHE 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/caresse-blanche-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-001nammorbidente_caresseblanche_20kg_2065170068.png" alt="Ammorbidente - Caresse Blanche 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/caresse-blanche-20kg.html')" alt="Ammorbidente - Caresse Blanche 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Caresse Blanche 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CASHMERE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/cashmere-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-020dsoft_cashmere_6x1lt.png" alt="Ammorbidente - Cashmere 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/cashmere-1lt.html')" alt="Ammorbidente - Cashmere 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Cashmere 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CASHMERE 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/cashmere-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-020nsoft_cashmere_20kg.png" alt="Ammorbidente - Cashmere 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/cashmere-20kg.html')" alt="Ammorbidente - Cashmere 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Cashmere 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CERTISAN B 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/certisan-b-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-200ncertisan_b_ammorbidente_20kg.png" alt="Certisan B 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/certisan-b-20kg.html')" alt="Certisan B 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Certisan B 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CLEAN SENSE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/clean-sense-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-024dx12_ammorbidente_cleansense_1lt.png" alt="Ammorbidente - Clean Sense 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/clean-sense-1lt.html')" alt="Ammorbidente - Clean Sense 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Clean Sense 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CLEAN SENSE 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/clean-sense-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-024n_ammorbidente_cleansense_20kg.png" alt="Ammorbidente - Clean Sense 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/clean-sense-20kg.html')" alt="Ammorbidente - Clean Sense 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Clean Sense 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI COTONE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-cotone-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-022dx12ammorbidente_fiordicotone_1lt.png" alt="Ammorbidente - Fior di Cotone 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-cotone-1lt.html')" alt="Ammorbidente - Fior di Cotone 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Fior di Cotone 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI COTONE 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-cotone-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-022nammorbidente_fiordicotone_20kg.png" alt="Ammorbidente - Fior di Cotone 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-cotone-20kg.html')" alt="Ammorbidente - Fior di Cotone 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Fior di Cotone 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-002dx12ammorbidente_fiordiloto_1lt_647731693.png" alt="Ammorbidente - Fior di Loto 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-1lt.html')" alt="Ammorbidente - Fior di Loto 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Fior di Loto 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-002kammorbidente_fiordiloto_10kg_1966881408.png" alt="Ammorbidente - Fior di Loto 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-10kg.html')" alt="Ammorbidente - Fior di Loto 10kg" title="Apri Scheda Prodotto ">Ammorbidente - Fior di Loto 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-002nammorbidente_fiordiloto_20kg.png" alt="Ammorbidente - Fior di Loto 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fior-di-loto-20kg.html')" alt="Ammorbidente - Fior di Loto 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Fior di Loto 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FLORAL 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/floral-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-010dsoft_floral_6x1lt.png" alt="Ammorbidente - Floral 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/floral-1lt.html')" alt="Ammorbidente - Floral 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Floral 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FLORAL 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/floral-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-010nsoft_floral_20kg.png" alt="Ammorbidente - Floral 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/floral-20kg.html')" alt="Ammorbidente - Floral 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Floral 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FRESH LAVENDER 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fresh-lavender-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-003dx12ammorbidente_freshlavender_1lt_1756445025.png" alt="Ammorbidente - Fresh Lavender 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fresh-lavender-1lt.html')" alt="Ammorbidente - Fresh Lavender 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Fresh Lavender 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FRESH LAVENDER 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fresh-lavender-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-003nammorbidente_freshlavender_20kg_2125482202.png" alt="Ammorbidente - Fresh Lavender 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/fresh-lavender-20kg.html')" alt="Ammorbidente - Fresh Lavender 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Fresh Lavender 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-015dx12ammorbidente_muschio_1lt.png" alt="Ammorbidente - Muschio Bianco 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-1lt.html')" alt="Ammorbidente - Muschio Bianco 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Muschio Bianco 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-015kammorbidente_muschio_10kg_2147178984.png" alt="Ammorbidente - Muschio Bianco 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-10kg.html')" alt="Ammorbidente - Muschio Bianco 10kg" title="Apri Scheda Prodotto ">Ammorbidente - Muschio Bianco 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-015nammorbidente_muschio_20kg.png" alt="Ammorbidente - Muschio Bianco 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/muschio-bianco-20kg.html')" alt="Ammorbidente - Muschio Bianco 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Muschio Bianco 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-016dx12ammorbidente_notedipulito_1lt_1152466301.png" alt="Ammorbidente - Note di Pulito 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-1lt.html')" alt="Ammorbidente - Note di Pulito 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Note di Pulito 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-016kammorbidente_notedipulito_10kg_844136342.png" alt="Ammorbidente - Note di Pulito 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-10kg.html')" alt="Ammorbidente - Note di Pulito 10kg" title="Apri Scheda Prodotto ">Ammorbidente - Note di Pulito 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-016nammorbidente_notedipulito_20kg_389319088.png" alt="Ammorbidente - Note di Pulito 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/note-di-pulito-20kg.html')" alt="Ammorbidente - Note di Pulito 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Note di Pulito 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-025dx12ammorbidente_orchideaselvatica_1lt_353383926.png" alt="Ammorbidente - Orchidea Selvatica 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-1lt.html')" alt="Ammorbidente - Orchidea Selvatica 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Orchidea Selvatica 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-025kammorbidente_orchideaselvatica_10kg_702715273.png" alt="Ammorbidente - Orchidea Selvatica 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-10kg.html')" alt="Ammorbidente - Orchidea Selvatica 10kg" title="Apri Scheda Prodotto ">Ammorbidente - Orchidea Selvatica 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-025nammorbidente_orchideaselvatica_20kg.png" alt="Ammorbidente - Orchidea Selvatica 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/orchidea-selvatica-20kg.html')" alt="Ammorbidente - Orchidea Selvatica 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Orchidea Selvatica 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PIUMA SOFT 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/piuma-soft-10kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-020kammorbidente_piumasoft_10kg_923009331.png" alt="Ammorbidente - Piuma Soft 10kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/piuma-soft-10kg.html')" alt="Ammorbidente - Piuma Soft 10kg" title="Apri Scheda Prodotto ">Ammorbidente - Piuma Soft 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PURITY 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/purity-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-015dsoft_purity_6x1lt.png" alt="Ammorbidente - Purity 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/purity-1lt.html')" alt="Ammorbidente - Purity 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Purity 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PURITY 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/purity-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-015nsoft_purity_20kg.png" alt="Ammorbidente - Purity 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/purity-20kg.html')" alt="Ammorbidente - Purity 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Purity 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SOFFIO TROPICALE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soffio-tropicale-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-018dx12ammorbidente_soffiotropicale_1lt_1987550444.png" alt="Ammorbidente - Soffio Tropicale 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soffio-tropicale-1lt.html')" alt="Ammorbidente - Soffio Tropicale 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Soffio Tropicale 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SOFFIO TROPICALE 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soffio-tropicale-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-018nammorbidente_soffiotropicale_20kg_110650105.png" alt="Ammorbidente - Soffio Tropicale 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soffio-tropicale-20kg.html')" alt="Ammorbidente - Soffio Tropicale 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Soffio Tropicale 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SOFT CAPS 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soft-caps-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-021nsoft_caps_20kg_1702016355.png" alt="Ammorbidente - Soft Caps 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/soft-caps-20kg.html')" alt="Ammorbidente - Soft Caps 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Soft Caps 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TAHITI 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tahiti-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-005dsoft_tahiti_6x1lt.png" alt="Ammorbidente - Tahiti 1lt" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tahiti-1lt.html')" alt="Ammorbidente - Tahiti 1lt" title="Apri Scheda Prodotto ">Ammorbidente - Tahiti 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TAHITI 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tahiti-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/ah45-005nsoft_tahiti_20kg.png" alt="Ammorbidente - Tahiti 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tahiti-20kg.html')" alt="Ammorbidente - Tahiti 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Tahiti 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TINTOSOFT 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tintosoft-20kg.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a45-000ntintosoft_20kg_1252461766.png" alt="Ammorbidente - Tintosoft 20kg" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/ammorbidenti/tintosoft-20kg.html')" alt="Ammorbidente - Tintosoft 20kg" title="Apri Scheda Prodotto ">Ammorbidente - Tintosoft 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- APPRETTI -->
+        <!-- APRETEX -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/apretex.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a51-000h2apretex_2x5kg.png" alt="Appretto - Apretex" title="Apri Scheda Prodotto "></a>
+            <h4><a onclick="openModal('catalogo-generale/prodotti-chimici/appretti/apretex.html')" alt="Appretto - Apretex" title="Apri Scheda Prodotto ">Appretto - Apretex</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- DEOPRET -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/deopret.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a70-016adeopret_879534807.png" alt="Appretto - Deopret" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/deopret.html')" alt="Appretto - Deopret" title="Apri Scheda Prodotto ">Appretto - Deopret</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- OKAY -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/okay.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a70-015okay.png" alt="Appretto - Okay" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/okay.html')" alt="Appretto - Okay" title="Apri Scheda Prodotto ">Appretto - Okay</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- RENOVA -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/renova.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a48-615dx12renova_apprettante_1lt.png" alt="Appretto - Renova" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/renova.html')" alt="Appretto - Renova" title="Apri Scheda Prodotto ">Appretto - Renova</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- WRINKLE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/wrinkle.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a70-065wrinkleremover.png" alt="Appretto - Wrinkle" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/appretti/wrinkle.html')" alt="Appretto - Wrinkle" title="Apri Scheda Prodotto ">Appretto - Wrinkle</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- DEOSPRAY 400ml -->
+        <!-- NOTE DI PULITO -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/note-di-pulito.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-012qudeospray_notedipulito_400ml_1600956983.png" alt="Deospray - Note di Pulito" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/note-di-pulito.html')" alt="Deospray - Note di Pulito" title="Apri Scheda Prodotto ">Deospray - Note di Pulito</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BERGAMOTTO & ZAGARA -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/bergamotto-zagara.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-002qudeospray_bergamotto_zagara_400ml.png" alt="Deospray - Bergamotto & Zagara" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/bergamotto-zagara.html')" alt="Deospray - Bergamotto & Zagara" title="Apri Scheda Prodotto ">Deospray - Bergamotto & Zagara</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CAPRI-MARINE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/capri-marine.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-004qu_capri_marine_400ml.png" alt="Deospray - Capri-Marine" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/capri-marine.html')" alt="Deospray - Capri-Marine" title="Apri Scheda Prodotto ">Deospray - Capri-Marine</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CARESSE BLANCHE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/caresse-blanche.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-025qudeospray_caresseblanche_400ml_1999568823.png" alt="Deospray - Caresse Blanche" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/caresse-blanche.html')" alt="Deospray - Caresse Blanche" title="Apri Scheda Prodotto ">Deospray - Caresse Blanche</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI COTONE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fior-di-cotone.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-027qu_fior_cotone_400ml.png" alt="Deospray - Fior di Cotone" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fior-di-cotone.html')" alt="Deospray - Fior di Cotone" title="Apri Scheda Prodotto ">Deospray - Fior di Cotone</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fior-di-loto.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-026qudeospray_fiordiloto_400ml_1548238544.png" alt="Deospray - Fior di Loto" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fior-di-loto.html')" alt="Deospray - Fior di Loto" title="Apri Scheda Prodotto ">Deospray - Fior di Loto</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FRESH LAVENDER -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fresh-lavender.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-023qudeospray_freshlavender_400ml_1947113334.png" alt="Deospray - Fresh Lavender" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/fresh-lavender.html')" alt="Deospray - Fresh Lavender" title="Apri Scheda Prodotto ">Deospray - Fresh Lavender</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- LATTE DI ROSA -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/latte-di-rosa.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-010qudeospray_lattedirosa_400ml_517987386.png" alt="Deospray - Latte di Rosa" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/latte-di-rosa.html')" alt="Deospray - Latte di Rosa" title="Apri Scheda Prodotto ">Deospray - Latte di Rosa</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- LEMONGRASS -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/lemongrass.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-000qu_deospray_lemongrass_400ml.png" alt="Deospray - Lemongrass" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/lemongrass.html')" alt="Deospray - Lemongrass" title="Apri Scheda Prodotto ">Deospray - Lemongrass</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/muschio-bianco.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-015qudeospray_muschiobianco_400ml_912740329.png" alt="Deospray - Muschio Bianco" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/muschio-bianco.html')" alt="Deospray - Muschio Bianco" title="Apri Scheda Prodotto ">Deospray - Muschio Bianco</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/orchidea-selvatica.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-003qudeospray_orchideaselvatica_400ml_1664467022.png" alt="Deospray - Orchidea Selvatica" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/orchidea-selvatica.html')" alt="Deospray - Orchidea Selvatica" title="Apri Scheda Prodotto ">Deospray - Orchidea Selvatica</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORO & ARGAN -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/oro-argan.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-021quoroargan_400ml_1184712842.png" alt="Deospray - Oro & Argan" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/oro-argan.html')" alt="Deospray - Oro & Argan" title="Apri Scheda Prodotto ">Deospray - Oro & Argan</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- RED PASSION -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/red-passion.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-008quredpassion_400ml_1438201760.png" alt="Deospray - Red Passion" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/red-passion.html')" alt="Deospray - Red Passion" title="Apri Scheda Prodotto ">Deospray - Red Passion</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SOFFIO TROPICALE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/soffio-tropicale.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-018qudeospray_soffiotropicale_400ml_274077714.png" alt="Deospray - Soffio Tropicale" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/soffio-tropicale.html')" alt="Deospray - Soffio Tropicale" title="Apri Scheda Prodotto ">Deospray - Soffio Tropicale</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TALCO FIORENTINO -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/talco-fiorentino.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-005qudeospray_talcofiorentino_400ml_1721757731.png" alt="Deospray - Talco Fiorentino" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/talco-fiorentino.html')" alt="Deospray - Talco Fiorentino" title="Apri Scheda Prodotto ">Deospray - Talco Fiorentino</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- VANILLA LEMON -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/vanilla-lemon.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a73-001qudeospray_vanillalemon_400ml_1550175219.png" alt="Deospray - Vanilla Lemon" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/deospray/vanilla-lemon.html')" alt="Deospray - Vanilla Lemon" title="Apri Scheda Prodotto ">Deospray - Vanilla Lemon</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- DETERGENTI -->
+        <!-- BIOLOTO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-1lt.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a39-520dx12bioloto_1lt_363380436.png" alt="Detergente Bioloto da 1 litro" title="Apri Scheda Prodotto Bioloto da 1 litro"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-1lt.html'); return false;" title="Apri Scheda Prodotto Bioloto da 1 litro">Detergente - Bioloto 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOLOTO 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-10kg.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a39-520kbioloto_10kg_1721574963.png" alt="Detergente Bioloto da 10kg" title="Apri Scheda Prodotto Bioloto da 10kg"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-10kg.html'); return false;" title="Apri Scheda Prodotto Bioloto da 10kg">Detergente - Bioloto 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOLOTO 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-20kg.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a39-520nbioloto_20kg_1285167880.png" alt="Detergente Bioloto da 20kg" title="Apri Scheda Prodotto Bioloto da 20kg"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioloto-20kg.html'); return false;" title="Apri Scheda Prodotto Bioloto da 20kg">Detergente - Bioloto 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOMUSK 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-1lt.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a39-518dx12biomusk_1lt_1488407432.png" alt="Detergente Biomusk da 1 litro" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Biomusk 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOMUSK 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Musk 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Biomusk 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOMUSK 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-20kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 20kg/Bio Musk 20kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/biomusk-20kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Biomusk 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOORKY 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Bioorky.png" alt="Detergente Bioorky da 1 litro" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Bioorky 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOORKY 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Bio Orky 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Bioorky 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BIOORKY 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-20kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 20kg/Bio Orky 20kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/bioorky-20kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Bioorky 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BLACK PREMIUM 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/black-premium-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Black Premium.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/black-premium-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Black Premium 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- BLACK PREMIUM 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/black-premium-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Black Premium 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/black-premium-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Black Premium 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- DELICATI & LANA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/delicati-lana-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Delicati & Lana.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/delicati-lana-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Delicati & Lana 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- DELICATI & LANA 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/delicati-lana-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Delicati & Lana 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/delicati-lana-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Delicati & Lana 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Note di Pulito.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Note di Pulito 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Note di Pulito 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Note di Pulito 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-20kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 20kg/Note di Pulito 20kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/note-di-pulito-20kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Note di Pulito 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PERFECT 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/perfect-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Perfect 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/perfect-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Perfect 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SALVACOLOR 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/salvacolor-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/Salvacolor.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/salvacolor-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Salvacolor 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SALVACOLOR 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/salvacolor-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/Salvacolor 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/salvacolor-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - Salvacolor 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- WHITE XTRA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 1lt/White Xtra.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-1lt.html'); return false;" title="Apri Scheda Prodotto ">Detergente - White Xtra 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- WHITE XTRA 10KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-10kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 10kg/White Xtra 10kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-10kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - White Xtra 10kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- WHITE XTRA 20KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-20kg.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Deodet 20kg/White Xtra 20kg.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/detergenti/white-xtra-20kg.html'); return false;" title="Apri Scheda Prodotto ">Detergente - White Xtra 20kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- ESSENZE 1LT -->
+        <!-- AMBRA & VANILLA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/ambra-vanilla-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Ambra & Vanilla.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/ambra-vanilla-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Ambra & Vanilla 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CAPRI-MARINE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Capri-Marine.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Capri-Marine 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CARESSE BLANCHE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/caresse-blanche-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Caresse Blanche.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/caresse-blanche-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Caresse Blanche 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CLEAN SENSE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/clean-sense-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Clean Sense.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/clean-sense-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Clean Sense 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI COTONE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-cotone-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fior di Cotone.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-cotone-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Fior di Cotone 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-loto-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fior di Loto.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-loto-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Fior di Loto 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FRESH LAVENDER 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fresh-lavender-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Fresh Lavender.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fresh-lavender-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Fresh Lavender 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/muschio-bianco-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Muschio Bianco.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/muschio-bianco-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Muschio Bianco 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/note-di-pulito-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Note di Pulito.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/note-di-pulito-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Note di Pulito 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/orchidea-selvatica-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Orchidea Selvatica.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/orchidea-selvatica-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Orchidea Selvatica 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SOFFIO TROPICALE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/soffio-tropicale-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Soffio Tropicale.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/soffio-tropicale-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Soffio Tropicale 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TINTOFLOR 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/tintoflor-ess-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 1lt/Tintoflor.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/tintoflor-ess-1lt.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Tintoflor 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- ESSENZA 250ML -->
+        <!-- AMBRA & VANILLA 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/ambra-vanilla-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Ambra & Vanilla.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/ambra-vanilla-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Ambra & Vanilla 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CAPRI-MARINE 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Capri-Marine.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Capri-Marine 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CARESSE BLANCHE 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/caresse-blanche-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Caresse Blanche.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/caresse-blanche-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Caresse Blanche 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CLEAN SENSE 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/clean-sense-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Clean Sense.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/clean-sense-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Clean Sense 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI COTONE 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-cotone-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Fior di Cotone.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-cotone-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Fior di Cotone 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FIOR DI LOTO 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-loto-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Fior di Loto.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/fior-di-loto-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Fior di Loto 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/muschio-bianco-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Muschio Bianco.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/muschio-bianco-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Muschio Bianco 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/note-di-pulito-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Note di Pulito.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/note-di-pulito-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Note di Pulito 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORCHIDEA SELVATICA 250ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/orchidea-selvatica-ess-250ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Essense 250ml/Orchidea Selvatica.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/orchidea-selvatica-ess-250ml.html'); return false;" title="Apri Scheda Prodotto ">Essenza - Orchidea Selvatica 250ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- FINISSANTI -->
+        <!-- BEL PELL -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/bel-pell.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Finissanti/Bel Pell.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/bel-pell.html'); return false;" title="Apri Scheda Prodotto ">Finissanti - Bel Pell</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- RAVVILUX -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/ravvilux.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Finissanti/Ravvilux.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/ravvilux.html'); return false;" title="Apri Scheda Prodotto ">Finissanti - Ravvilux</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- RENNALUX NEUTRO -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/rennalux-neutro.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Finissanti/Rennalux Neutro.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/rennalux-neutro.html'); return false;" title="Apri Scheda Prodotto ">Finissanti - Rennalux Neutro</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- RENNALUX SCURENTE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/rennalux-scurente.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Finissanti/Rennalux Scurente.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/finissanti/rennalux-scurente.html'); return false;" title="Apri Scheda Prodotto ">Finissanti - Rennalux Scurente</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- MONODOSE -->
+        <!-- ADDITIVI 50ml -->
+            <!-- CATTURACOLORI COLORBLOK -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/colorblok-add-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Additivo Catturacolori Colorblok.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/colorblok-add-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Additivo Catturacolori Colorblok</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- EMULSENE -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/emulsene-add-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Additivo Smacchiatore Emulsene.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/emulsene-add-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Additivo Sgrassatore Enzimatico Emulsene</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- OXON -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/oxon-add-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Additivo Oxon.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/oxon-add-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Additivo Oxon</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+        <!-- AMMORBIDENTI 50ml -->
+            <!-- MUSCHIO BIANCO -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/muschio-bianco-amm-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Ammorbidente Muschio Bianco 50ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/muschio-bianco-amm-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Ammorbidente Muschio Bianco</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- NOTE DI PULITO -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-amm-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Ammorbidente Note di Pulito 50ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-amm-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Ammorbidente Note di Pulito</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- ORCHIDEA SELVATICA -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/orchidea-selvatica-amm-50ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Ammorbidente Orchidea Selvatica 50ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/orchidea-selvatica-amm-50ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Ammorbidente Orchidea Selvatica</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+        <!-- DEOESSICCATORE - NOTE DI PULITO -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-deoess.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Deoessiccatore.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-deoess.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Deoessiccatore</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+        <!-- DETERGENTI 100ml -->
+            <!-- BIOMUSK -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/biomusk-det-100ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Detergente Enzimatico Biomusk 100ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/biomusk-det-100ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Detergente Enzimatico Biomusk</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- NOTE DI PULITO -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-det-100ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Detergente Note di Pulito 100ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/note-di-pulito-det-100ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Detergente Note di Pulito</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- PIUMA, DELICATI, LANA -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/piuma-delicati-lana-det-100ml.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Monodose/Monodose Detergente Piuma, Delicati, Lana 100ml.png" alt="" title="Apri Scheda Prodotto "></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/monodose/piuma-delicati-lana-det-100ml.html'); return false;" title="Apri Scheda Prodotto ">Monodose - Detergente Piuma, Delicati, Lana</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+    <!-- PAVIMENTI 1LT -->
+        <!-- CAPRI-MARINE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-pav-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Capri-Marine.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/essenze/capri-marine-pav-1lt.html'); return false;" title="Apri Scheda Prodotto ">Pavimenti - Capri-Marine 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- CLEAN SENSE 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/clean-sense-pav-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Clean Sense.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/clean-sense-pav-1lt.html'); return false;" title="Apri Scheda Prodotto ">Pavimenti - Clean Sense 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- FRESH MELODY 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/fresh-melody-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Fresh Melody.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/fresh-melody-1lt.html'); return false;" title="Apri Scheda Prodotto ">Pavimenti - Fresh Melody 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- MUSCHIO BIANCO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/muschio-bianco-pav-1lt.html'); return false;"><img src="https://novig.it/Immagini/Categorie/Prodotti/Pavimenti 1lt/Muschio Bianco.png" alt="" title="Apri Scheda Prodotto "></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/muschio-bianco-pav-1lt.html'); return false;" title="Apri Scheda Prodotto ">Pavimenti - Muschio Bianco 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- NOTE DI PULITO 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/note-di-pulito-pav-1lt.html')"><img src="https://www.tintolav.com/images/dacshop/upload/a85-025dx12pavimenti_notedipulito_1lt_copy.png" alt="Note di Pulito 1lt" title="Apri Scheda Prodotto Note di Pulito 1lt"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/note-di-pulito-pav-1lt.html')" title="Apri Scheda Prodotto Note di Pulito 1lt">Pavimenti - Note di Pulito 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- ORO & ARGAN 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/oro-argan-pav-1lt.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a85-005dx12pavimenti_oroargan_1lt.png" alt="Oro & Argan 1lt" title="Apri Scheda Prodotto Oro & Argan 1lt"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/oro-argan-pav-1lt.html'); return false;" title="Apri Scheda Prodotto Oro & Argan 1lt">Pavimenti - Oro & Argan 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PASSION FRUIT 1LT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/orchidea-selvatica-ess-250ml.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a85-010dx12pavimenti_passionfruit_1lt_969175134.png" alt="Passion Fruit 1lt" title="Apri Scheda Prodotto Passion Fruit 1lt"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/pavimenti/orchidea-selvatica-ess-250ml.html'); return false;" title="Apri Scheda Prodotto Passion Fruit 1lt">Pavimenti - Passion Fruit 1lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- PRESMACCHIATORI -->
+        <!-- INCARBON -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/incarbon.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a60-005h2incarbon_2x5kg.png" alt="InCarbon" title="Apri Scheda Prodotto InCarbon"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/incarbon.html'); return false;" title="Apri Scheda Prodotto InCarbon">Presmacchiatori - InCarbon</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- JOLLY SMACK -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/jolly-smack.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a01-000kjollysmak-10kg.png" alt="Jolly Smak" title="Apri Scheda Prodotto Jolly Smak"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/jolly-smack.html'); return false;" title="Apri Scheda Prodotto Jolly Smak">Presmacchiatori - Jolly Smak</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PRECARBON -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/precarbon.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a60-000h2precarbon_2x5kg.png" alt="PreCarbon" title="Apri Scheda Prodotto PreCarbon"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/presmacchiatori/precarbon.html'); return false;" title="Apri Scheda Prodotto PreCarbon">Presmacchiatori - PreCarbon</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- RAFFORZATORI -->
+        <!-- ACTIV SUPERSTAT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/rafforzatori/activ-superstat.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a04-010kactivsuperstat-10kg.png" alt="Activ Superstat" title="Apri Scheda Prodotto Activ Superstat"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/rafforzatori/activ-superstat.html'); return false;" title="Apri Scheda Prodotto Activ Superstat">Rafforzatori - Activ Superstat</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    <!-- SMACCHIATORI -->
+        <!-- DRY SPOT -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/dry-spot.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a70-070dudryspot_731342750.png" alt="Dry Spot" title="Apri Scheda Prodotto Dry Spot"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/dry-spot.html'); return false;" title="Apri Scheda Prodotto Dry Spot">Smacchiatori - Dry Spot</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- OXON 750ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/oxon-750ml.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a31-500coxon_750ml.png" alt="Oxon 750ml" title="Apri Scheda Prodotto Oxon 750ml"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/oxon-750ml.html'); return false;" title="Apri Scheda Prodotto Oxon 750ml">Smacchiatori - Oxon 750ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PREZYM 2X5KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/prezym-2x5kg.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a31-000h2prezym.png" alt="Prezym 2x5lt" title="Apri Scheda Prodotto Prezym 2x5lt"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/prezym-2x5kg.html'); return false;" title="Apri Scheda Prodotto Prezym 2x5lt">Smacchiatori - Prezym 2x5lt</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- PREZYM 750ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/prezym-750ml.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a31-000cprezym_1855228433.png" alt="Prezym 750ml" title="Apri Scheda Prodotto Prezym 750ml"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/prezym-750ml.html'); return false;" title="Apri Scheda Prodotto Prezym 750ml">Smacchiatori - Prezym 750ml</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TINTOSMAC -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/tintosmac.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a70-020tintosmac.png" alt="Tintosmac" title="Apri Scheda Prodotto Tintosmac"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/tintosmac.html'); return false;" title="Apri Scheda Prodotto Tintosmac">Smacchiatori - Tintosmac</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TOGLISUDORE -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/toglisudore.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a01-020ctoglisudore-750ml.png" alt="Toglisudore" title="Apri Scheda Prodotto Toglisudore"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/toglisudore.html'); return false;" title="Apri Scheda Prodotto Toglisudore">Smacchiatori - Toglisudore</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TOP DEGREASER 750ML -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/top-degreaser.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a88-005ctopdegreaser_750ml.png" alt="Top Degreaser" title="Apri Scheda Prodotto Top Degreaser"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/top-degreaser.html'); return false;" title="Apri Scheda Prodotto Top Degreaser">Smacchiatori - Top Degreaser</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- SEITZ -->
+            <!-- BLUTOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/blutol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Blutol.jpg" alt="SEITZ Blutol" title="Apri Scheda Prodotto SEITZ Blutol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/blutol.html'); return false;" title="Apri Scheda Prodotto SEITZ Blutol">Smacchiatori - SEITZ Blutol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- CAVESOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/cavesol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Cavesol.jpg" alt="SEITZ Cavesol" title="Apri Scheda Prodotto SEITZ Cavesol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/cavesol.html'); return false;" title="Apri Scheda Prodotto SEITZ Cavesol">Smacchiatori - SEITZ Cavesol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- COLORSOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/colorsol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Colorsol.jpg" alt="SEITZ Colorsol" title="Apri Scheda Prodotto SEITZ Colorsol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/colorsol.html'); return false;" title="Apri Scheda Prodotto SEITZ Colorsol">Smacchiatori - SEITZ Colorsol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- FERROL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/ferrol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Ferrol.jpg" alt="SEITZ Ferrol" title="Apri Scheda Prodotto SEITZ Ferrol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/ferrol.html'); return false;" title="Apri Scheda Prodotto SEITZ Ferrol">Smacchiatori - SEITZ Ferrol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- FRANKOSOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/frankosol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Frankosol.jpg" alt="SEITZ Frankosol" title="Apri Scheda Prodotto SEITZ Frankosol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/frankosol.html'); return false;" title="Apri Scheda Prodotto SEITZ Frankosol">Smacchiatori - SEITZ Frankosol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- LACOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/lacol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Lacol.jpg" alt="SEITZ Lacol" title="Apri Scheda Prodotto SEITZ Lacol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/lacol.html'); return false;" title="Apri Scheda Prodotto SEITZ Lacol">Smacchiatori - SEITZ Lacol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- PURASOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/purasol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Purasol.jpg" alt="SEITZ Purasol" title="Apri Scheda Prodotto SEITZ Purasol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/purasol.html'); return false;" title="Apri Scheda Prodotto SEITZ Purasol">Smacchiatori - SEITZ Purasol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- QUICKOL -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/quickol.html'); return false;"><img src="Immagini/Smacchiatori Seitz/Quickol.jpg" alt="SEITZ Quickol" title="Apri Scheda Prodotto SEITZ Quickol"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/quickol.html'); return false;" title="Apri Scheda Prodotto SEITZ Quickol">Smacchiatori - SEITZ Quickol</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- V1 -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v1.html'); return false;"><img src="Immagini/Smacchiatori Seitz/V1.jpg" alt="SEITZ V1" title="Apri Scheda Prodotto SEITZ V1"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v1.html'); return false;" title="Apri Scheda Prodotto SEITZ V1">Smacchiatori - SEITZ V1</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- V2 -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v2.html'); return false;"><img src="Immagini/Smacchiatori Seitz/V2.jpg" alt="SEITZ V2" title="Apri Scheda Prodotto SEITZ V2"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v2.html'); return false;" title="Apri Scheda Prodotto SEITZ V2">Smacchiatori - SEITZ V2</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+            <!-- V3 -->
+            <div class="col-4">
+                <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v3.html'); return false;"><img src="Immagini/Smacchiatori Seitz/V3.jpg" alt="SEITZ V3" title="Apri Scheda Prodotto SEITZ V3"></a>
+                <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/smacchiatori/v3.html'); return false;" title="Apri Scheda Prodotto SEITZ V3">Smacchiatori - SEITZ V3</a></h4>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>
+                </div>
+                <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+            </div>
+    <!-- SOLVENTI -->
+        <!-- CARBONE ATTIVO 5KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/carbone-attivo.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a10-015carboneattivo.png" alt="Carbone Attivo 5kg" title="Apri Scheda Prodotto Carbone Attivo 5kg"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/carbone-attivo.html'); return false;" title="Apri Scheda Prodotto Carbone Attivo 5kg">Solventi - Carbone Attivo 5kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- DOWPER 23KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/dowper.html'); return false;"><img src="https://www.lavanderiastore.it/wp-content/uploads/2020/04/dowper-1.jpg" alt="Percloroetilene Dowper 23kg" title="Apri Scheda Prodotto Percloroetilene Dowper 23kg"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/dowper.html'); return false;" title="Apri Scheda Prodotto Percloroetilene Dowper">Solventi - Percloroetilene Dowper</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+        <!-- TONSIL 25KG -->
+        <div class="col-4">
+            <a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/tonsil.html'); return false;"><img src="https://www.tintolav.com/images/dacshop/upload/a10-025tonsil_1391359041.png" alt="Tonsil 25kg" title="Apri Scheda Prodotto Tonsil 25kg"></a>
+            <h4><a href="#" onclick="openModal('catalogo-generale/prodotti-chimici/solventi/tonsil.html'); return false;" title="Apri Scheda Prodotto Tonsil 25kg">Solventi - Tonsil 25kg</a></h4>
+            <div class="rating">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star-half-o"></i>
+            </div>
+            <p><a href="#" onclick="openModal('richiesta-listino-prezzi.html'); return false;" title="Apri Scheda Richiedi Listino Prezzi">Scopri il prezzo!</a></p>
+        </div>
+    </div><!-- fine row prodotti -->
+</div>
