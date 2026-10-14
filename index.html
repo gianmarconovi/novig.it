@@ -3222,7 +3222,7 @@
                 const cards = document.querySelectorAll('.col-4');
                 let found = 0;
                 cards.forEach(function(card) {
-                    const h3 = card.querySelector('h3');
+                  const h3 = card.querySelector('h3');
                     const text = h3 ? h3.textContent.toLowerCase() : '';
                     if (!q || text.includes(q)) { card.style.display = ''; found++; }
                     else { card.style.display = 'none'; }
