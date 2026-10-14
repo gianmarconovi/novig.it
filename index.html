@@ -3195,7 +3195,7 @@
                 wrap.parentNode.insertBefore(sentinel, wrap);
                 function check() {
                     var pad = document.body.classList.contains('search-sticky') ? (parseFloat(getComputedStyle(document.body).paddingTop) || 0) : 0;
-                    var on = (sentinel.getBoundingClientRect().top<br>pad) <= 0;
+                    var on = (sentinel.getBoundingClientRect().top - pad) <= 0;
                     wrap.classList.toggle('sticky', on);
                     document.body.classList.toggle('search-sticky', on);
                 }
@@ -3293,7 +3293,7 @@
                     if (body && !body.classList.contains('open')) toggleAccordion(sections[i].id);
                     setCurrent(i);
                     closeNav();
-                    var y = sec.getBoundingClientRect().top + window.pageYOffset<br>76;
+                    var y = sec.getBoundingClientRect().top + window.pageYOffset - 76;
                     window.scrollTo({top: y, behavior: 'smooth'});
                 }
                 window.toggleCatNav = function() {
