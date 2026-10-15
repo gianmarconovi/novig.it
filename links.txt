@@ -38,6 +38,7 @@ Accessori
         Immagini/Accessori/Imballaggio/Portanastro Adesivo Nova.png
     Lavaggio
         Immagini/Accessori/Lavaggio/Guanti Nitrile Taglia 7.png
+        Immagini/Accessori/Lavaggio/Respiratore 3M.jpg
         Immagini/Accessori/Lavaggio/Rubinetto Taniche.png
         Immagini/Accessori/Lavaggio/Sacco Rete Acqua 55x85 cm.png
         Immagini/Accessori/Lavaggio/Sacco Rete Secco 60x90 cm.png
@@ -91,13 +92,16 @@ Accessori
         Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Crine Nero.png
         Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Nylon Manico.png
         Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Pulisci Spazzole.png
+        Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Spatola in Osso.png
         Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Spazzola Pelliccia.png
         Immagini/Accessori/Spazzole/Spazzole Smacchiatura/Tampico Manico.png
         Immagini/Accessori/Spazzole/Spazzole Toglinodi/Pill Remover Pro.png
         Immagini/Accessori/Spazzole/Spazzole Toglinodi/Spazzola Doppia Azione.png
+        Immagini/Accessori/Spazzole/Spazzole Toglinodi/Per Lana.png
         Immagini/Accessori/Spazzole/Spazzole Toglinodi/Spugna Abrasiva.png
         Immagini/Accessori/Spazzole/Spazzole Toglipelo/Plik.png
         Immagini/Accessori/Spazzole/Spazzole Toglipelo/Pulirella Ricambio.png
+        Immagini/Accessori/Spazzole/Spazzole Velluto/Henry.png
         Immagini/Accessori/Spazzole/Spazzole Velluto/Senso Unico.png
     Stender & Carrelli
         Immagini/Accessori/Stender & Carrelli/Carrello Grande.png
