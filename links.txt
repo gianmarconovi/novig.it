@@ -225,33 +225,28 @@ Prodotti Chimici
         Immagini/Prodotti/Deoamm 1lt/Soffio Tropicale.png
         Immagini/Prodotti/Deoamm 1lt/Tahiti.png
 
-    Deoamm 10kg
-        Immagini/Prodotti/Deoamm 10kg/Fior di Loto.png
-        Immagini/Prodotti/Deoamm 10kg/Muschio Bianco.png
-        Immagini/Prodotti/Deoamm 10kg/Note di Pulito.png
-        Immagini/Prodotti/Deoamm 10kg/Orchidea Selvatica.png
-        Immagini/Prodotti/Deoamm 10kg/Piuma Soft.png
-
-    Deoamm 20kg
-        Immagini/Prodotti/Deoamm 20kg/Ambra Vanilla.png
-        Immagini/Prodotti/Deoamm 20kg/Bioxelle.png
-        Immagini/Prodotti/Deoamm 20kg/Caresse Blanche.png
-        Immagini/Prodotti/Deoamm 20kg/Cashmere.png
-        Immagini/Prodotti/Deoamm 20kg/Certisan B.png
-        Immagini/Prodotti/Deoamm 20kg/Clean Sense.png
-        Immagini/Prodotti/Deoamm 20kg/Fior di Cotone.png
-        Immagini/Prodotti/Deoamm 20kg/Fior di Loto.png
-        Immagini/Prodotti/Deoamm 20kg/Floral.png
-        Immagini/Prodotti/Deoamm 20kg/Fresh Lavender.png
-        Immagini/Prodotti/Deoamm 20kg/Muschio Bianco.png
-        Immagini/Prodotti/Deoamm 20kg/Note di Natura.png
-        Immagini/Prodotti/Deoamm 20kg/Note di Pulito.png
-        Immagini/Prodotti/Deoamm 20kg/Orchidea Selvatica.png
-        Immagini/Prodotti/Deoamm 20kg/Purity.png
-        Immagini/Prodotti/Deoamm 20kg/Soffio Tropicale.png
-        Immagini/Prodotti/Deoamm 20kg/Soft Caps.png
-        Immagini/Prodotti/Deoamm 20kg/Tahiti.png
-        Immagini/Prodotti/Deoamm 20kg/Tintosoft.png
+    Deoamm 10kg 20kg
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Ambra & Vanilla 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Caresse Blanche 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Cashmere 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Certisan B 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Clean Sense 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Fior di Cotone 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Fior di Loto 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Floral 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Fresh Lavender 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Muschio Bianco 10kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Muschio Bianco 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Note di Pulito 10kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Note di Pulito 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Orchidea Selvatica 10kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Orchidea Selvatica 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Piumasoft 10kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Purity 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Soffio Tropicale 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Soft Caps 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Tahiti 20kg.png
+        Immagini/Prodotti/Deoamm 10kg 20kg/Deoammorbidente Tintosoft 20kg.png
 
     Deospray 400ml
         Immagini/Prodotti/Deospray 400ml/Bergamotto & Zagara.png
