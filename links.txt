@@ -8,6 +8,7 @@ Accessori
     Grucce & Accessori
         Immagini/Accessori/Grucce & Accessori/Asta Regolabile.png
         Immagini/Accessori/Grucce & Accessori/Coprispalla Cartone.png
+        Immagini/Accessori/Grucce & Accessori/Gancio per Catena.png
         Immagini/Accessori/Grucce & Accessori/Graffette Doppia Punta.png
         Immagini/Accessori/Grucce & Accessori/Graffette in Plastica.png
         Immagini/Accessori/Grucce & Accessori/Graffette Larghe.png
