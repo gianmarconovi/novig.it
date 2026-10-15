@@ -281,22 +281,22 @@ Prodotti Chimici
         Immagini/Prodotti/Deodet 1lt/White Xtra.png
 
     Deodet 10kg
-        Immagini/Prodotti/Deodet 10kg/Bio Loto 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Bio Musk 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Bio Orky 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Black Premium 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Delicati & Lana 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Note di Pulito 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Perfect 10kg.png
-        Immagini/Prodotti/Deodet 10kg/Salvacolor 10kg.png
-        Immagini/Prodotti/Deodet 10kg/White Xtra 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Loto 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Musk 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Orky 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Black Premium 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Delicati & Lana 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Note di Pulito 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Perfect 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Salvacolor 10kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/White Xtra 10kg.png
 
     Deodet 20kg
-        Immagini/Prodotti/Deodet 10kg/Bio Loto 20kg.png
-        Immagini/Prodotti/Deodet 10kg/Bio Musk 20kg.png
-        Immagini/Prodotti/Deodet 10kg/Bio Orky 20kg.png
-        Immagini/Prodotti/Deodet 10kg/Note di Pulito 20kg.png
-        Immagini/Prodotti/Deodet 10kg/White Xtra 20kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Loto 20kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Musk 20kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Bio Orky 20kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/Note di Pulito 20kg.png
+        Immagini/Prodotti/Deodet 10kg 20kg/White Xtra 20kg.png
 
     Essense 1lt
         Immagini/Prodotti/Essense 1lt/Ambra & Vanilla.png
