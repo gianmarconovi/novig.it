@@ -210,7 +210,7 @@ Prodotti Chimici
         Immagini/Prodotti/Appretti/Wrinkle.png
 
     Deoamm 1lt
-        Immagini/Prodotti/Deoamm 1lt/Ambra Vanilla.png
+        Immagini/Prodotti/Deoamm 1lt/Ambra & Vanilla.png
         Immagini/Prodotti/Deoamm 1lt/Caresse Blanche.png
         Immagini/Prodotti/Deoamm 1lt/Cashmere.png
         Immagini/Prodotti/Deoamm 1lt/Clean Sense.png
