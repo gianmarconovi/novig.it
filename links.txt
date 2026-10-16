@@ -147,45 +147,45 @@ Accessori
         Immagini/Accessori/Stiratura/Tubo Vapore Matassa.png
 Attrezzature Lavanderia
     Attrezzature Asciugamento
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES_6_8.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES_6_8.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES_6_8.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 11_14_18.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 11_14_18.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 11_14_18.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 23_26_32_36.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 23_26_32_36.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 23_26_32_36.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/A_ES 55_75.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/B_ES 55_75.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Asciugatura/C_ES 55_75.jpg
+        Immagini/Attrezzature Asciugatura/A_ES_6_8.jpg
+        Immagini/Attrezzature Asciugatura/B_ES_6_8.jpg
+        Immagini/Attrezzature Asciugatura/C_ES_6_8.jpg
+        Immagini/Attrezzature Asciugatura/A_ES 11_14_18.jpg
+        Immagini/Attrezzature Asciugatura/B_ES 11_14_18.jpg
+        Immagini/Attrezzature Asciugatura/C_ES 11_14_18.jpg
+        Immagini/Attrezzature Asciugatura/A_ES 23_26_32_36.jpg
+        Immagini/Attrezzature Asciugatura/B_ES 23_26_32_36.jpg
+        Immagini/Attrezzature Asciugatura/C_ES 23_26_32_36.jpg
+        Immagini/Attrezzature Asciugatura/A_ES 55_75.jpg
+        Immagini/Attrezzature Asciugatura/B_ES 55_75.jpg
+        Immagini/Attrezzature Asciugatura/C_ES 55_75.jpg
     Attrezzature Lavaggio/Lavaggio ad Acqua/Professional
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/A_6_8.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/B_6_8.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/C_6_8.jpg
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/A_6_8.jpg
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/B_6_8.jpg
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Professional/C_6_8.jpg
     Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM-8_11_2023_F.jpg
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM-8_11_2023_P1_.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM-8_11_2023_P2_.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_14_18_23.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_14_18_23.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_14_18_23.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_26_32.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_26_32.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_26_32.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_40_55_70_85.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_40_55_70_85.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_40_55_70_85.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125_TILTING.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125_TILTING.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM-8_11_2023_F.jpg
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM-8_11_2023_P1_.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM-8_11_2023_P2_.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_14_18_23.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_14_18_23.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_14_18_23.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_26_32.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_26_32.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_26_32.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_40_55_70_85.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_40_55_70_85.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_40_55_70_85.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125_TILTING.png
     Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/A_TDM 1818.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/B_TDM 1818.png
-        Immagini/Attrezzature Lavanderia/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/C_TDM 1818.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/A_TDM 1818.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/B_TDM 1818.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/C_TDM 1818.png
 Loghi Fornitori
     Immagini/Loghi Fornitori/
         Immagini/Loghi Fornitori/Alberti Angelo.png
