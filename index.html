@@ -39,7 +39,45 @@
                 --cream: #F7F4EF;
                 --border: #E8E1D5;
                 --text-muted: #777;
+                 
+                --muted:#5f5f5f; 
+                --accent-hover:#00612a; 
+                --accent-text:#ffffff; 
             }
+            
+            /* ---------- Banner ---------- */
+            #ck{position:fixed;inset:auto 0 0 0;z-index:9999;background:var(--cream);color:var(--black);
+            border-top:1px solid var(--border);box-shadow:0 -6px 24px rgba(0,0,0,.12);
+            padding:18px 20px calc(18px + env(safe-area-inset-bottom,0px));display:none}
+            #ck.open{display:block}
+            #ck .wrap{max-width:960px;margin:0 auto}
+            #ck h2{margin:0 0 6px;font-size:1.05rem}
+            #ck p{margin:0;font-size:.9rem;color:var(--muted);max-width:75ch}
+            #ck a{color:var(--green-dark);}
+            #ck .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+            #ck button{font:inherit;font-size:.9rem;font-weight:600;padding:10px 18px;border-radius:8px;cursor:pointer;
+            border:1px solid var(--green-dark);background:transparent;color:var(--green-dark);}
+            #ck button.primary{background:var(--green-dark);color:var(--accent-text)}
+            #ck button:focus-visible,#ck input:focus-visible{outline:3px solid var(--green-dark);outline-offset:2px}
+
+            /* ---------- Pannello categorie ---------- */
+            #ck .prefs{display:none;margin-top:14px;border-top:1px solid var(--border);}
+            #ck.details .prefs{display:block}
+            #ck .raw{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:12px 0;border-bottom:1px solid var(--border);}
+            #ck .raw strong{display:block;font-size:.92rem}
+            #ck .raw span{font-size:.82rem;color:var(--muted)}
+            #ck .sw{position:relative;flex:none;width:44px;height:24px}
+            #ck .sw input{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:pointer;z-index:1}
+            #ck .sw i{position:absolute;inset:0;border-radius:24px;background:var(--border);transition:background .15s}
+            #ck .sw i::after{content:"";position:absolute;top:3px;left:3px;width:18px;height:18px;border-radius:50%;background:#fff;transition:transform .15s}
+            #ck .sw input:checked+i{background:var(--green-dark);}
+            #ck .sw input:checked+i::after{transform:translateX(20px)}
+            #ck .sw input:disabled{cursor:not-allowed}
+            #ck .sw input:disabled+i{opacity:.55}
+            @media (prefers-reduced-motion:reduce){#ck .sw i,#ck .sw i::after{transition:none}}
+
+            .reopen{background:none;border:0;padding:0;color:var(--green-dark);font:inherit;text-decoration:underline;cursor:pointer}
+            
             /*IFRAME MODAL*/
             .iframe-modal-overlay {display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 500;}
             .iframe-modal-overlay.open {display: flex; align-items: center; justify-content: center;}
@@ -3029,12 +3067,40 @@
             </div>        
         </div>
         </main>
+
+        <!-- ================= BANNER ================= -->
+        <div id="ck" role="dialog" aria-labelledby="ck-title" aria-describedby="ck-desc">
+            <div class="wrap">
+                <h2 id="ck-title">Questo sito usa i cookie</h2>
+                <p id="ck-desc">Usiamo cookie tecnici per far funzionare il sito. Con il tuo consenso usiamo anche cookie di preferenze,
+                statistica e marketing. Puoi cambiare idea in qualsiasi momento. Leggi l’<a href="/cookie-policy">informativa sui cookie</a>.</p>
+
+                <div class="prefs">
+                <div class="raw"><div><strong>Necessari</strong><span>Servono al funzionamento del sito. Sempre attivi.</span></div>
+                    <label class="sw"><input type="checkbox" checked disabled aria-label="Necessari"><i></i></label></div>
+                <div class="raw"><div><strong>Preferenze</strong><span>Ricordano scelte come la lingua.</span></div>
+                    <label class="sw"><input type="checkbox" data-cat="preferences" aria-label="Preferenze"><i></i></label></div>
+                <div class="raw"><div><strong>Statistiche</strong><span>Misurano in forma aggregata come viene usato il sito.</span></div>
+                    <label class="sw"><input type="checkbox" data-cat="statistics" aria-label="Statistiche"><i></i></label></div>
+                <div class="raw"><div><strong>Marketing</strong><span>Mostrano annunci pertinenti e ne misurano i risultati.</span></div>
+                    <label class="sw"><input type="checkbox" data-cat="marketing" aria-label="Marketing"><i></i></label></div>
+                </div>
+
+                <div class="actions">
+                <button type="button" id="ck-reject">Rifiuta tutti</button>
+                <button type="button" id="ck-custom">Personalizza</button>
+                <button type="button" id="ck-save" hidden>Salva selezione</button>
+                <button type="button" id="ck-accept" class="primary">Accetta tutti</button>
+                </div>
+            </div>
+        </div>
+
         <footer>
             <div class="footer">
                 <div class="container">
                     <div class="row">
                         <div class="footer-col4">
-                        <h3 style="color:#000">CONTATTACI</h3>
+                        <h1 class="" style="color:#000">CONTATTACI</h1>
                             <ul>
                                 <li><a href="tel:081 0604604">Ufficio: 081 0604604</a></li>
                                 <li><a href="tel:339 7393099">Gioacchino Novi: 339 7393099</a></li>
@@ -3046,6 +3112,7 @@
                     </div>
                     <hr>
                     <p class="copyright">Copyright 2026@ - novig.it<br>P.IVA IT05709950652<br>Tutti i diritti sono riservati.</p>
+                    <p><button class="reopen" id="ck-reopen">Gestisci le preferenze cookie</button></p>
                 </div>
             </div>
         </footer>
@@ -3158,6 +3225,59 @@
             </svg>
         </button>
         <script>
+            //COOKIE BANNER
+            (function () {
+                var KEY = "cookie_consent_v1";
+                var CATS = ["preferences", "statistics", "marketing"];
+                var el = document.getElementById("ck");
+                var boxes = el.querySelectorAll("input[data-cat]");
+                var btnSave = document.getElementById("ck-save");
+                var btnCustom = document.getElementById("ck-custom");
+
+                function read() {
+                    try { return JSON.parse(localStorage.getItem(KEY)); } catch (e) { return null; }
+                }
+                function write(c) {
+                    try { localStorage.setItem(KEY, JSON.stringify(c)); } catch (e) {}
+                }
+                function open(details) {
+                    var c = read() || {};
+                    boxes.forEach(function (b) { b.checked = !!c[b.dataset.cat]; });
+                    el.classList.toggle("details", !!details);
+                    btnSave.hidden = !details;
+                    btnCustom.hidden = !!details;
+                    el.classList.add("open");
+                    el.querySelector(".primary").focus();
+                }
+                function close() { el.classList.remove("open", "details"); }
+
+                // Da collegare ai tuoi script: qui carichi/blocchi i servizi in base al consenso.
+                function apply(c) {
+                    document.dispatchEvent(new CustomEvent("cookie-consent", { detail: c }));
+                    // if (c.statistics) { /* carica qui Analytics, Matomo, ecc. */ }
+                    // if (c.marketing)  { /* carica qui pixel e tag pubblicitari */ }
+                }
+                function save(c) {
+                    c.necessary = true;
+                    c.date = new Date().toISOString();
+                    write(c); apply(c); close();
+                }
+                function all(v) { var c = {}; CATS.forEach(function (k) { c[k] = v; }); return c; }
+
+                document.getElementById("ck-accept").onclick = function () { save(all(true)); };
+                document.getElementById("ck-reject").onclick = function () { save(all(false)); };
+                btnCustom.onclick = function () { open(true); };
+                btnSave.onclick = function () {
+                    var c = all(false);
+                    boxes.forEach(function (b) { c[b.dataset.cat] = b.checked; });
+                    save(c);
+                };
+                document.getElementById("ck-reopen").onclick = function () { open(true); };
+
+                var saved = read();
+                if (saved) apply(saved); else open(false);
+            })();
+
             //BACKTOTOP
             window.addEventListener('scroll', function() {document.getElementById('backToTop').classList.toggle('visible', window.scrollY > 300);});
             // WHATSAPP BUTTON
