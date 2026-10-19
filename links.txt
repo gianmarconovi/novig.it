@@ -126,7 +126,6 @@ Accessori
         Immagini/Accessori/Stiratura/Ez-Off.png
         Immagini/Accessori/Stiratura/Molle Ganci.png
         Immagini/Accessori/Stiratura/Mollettone Maxi.png
-        Immagini/Accessori/Stiratura/Mollettone Rotolo 130cm.png
         Immagini/Accessori/Stiratura/Mollettone Vaporetta.png
         Immagini/Accessori/Stiratura/Pinza Curva.png
         Immagini/Accessori/Stiratura/Pinza Dritta.png
@@ -135,16 +134,13 @@ Accessori
         Immagini/Accessori/Stiratura/Poggiaferro.png
         Immagini/Accessori/Stiratura/Saliscendi.png
         Immagini/Accessori/Stiratura/Schiumato Blu Maxi.png
-        Immagini/Accessori/Stiratura/Schiumato Blu Rotolo 130cm.png
         Immagini/Accessori/Stiratura/Schiumato Blu Vaporetta.png
         Immagini/Accessori/Stiratura/Sciolino.png
         Immagini/Accessori/Stiratura/Soletta Corazzata Ironmaster.png
-        Immagini/Accessori/Stiratura/Soletta Corazzata Lemm.png
         Immagini/Accessori/Stiratura/Soletta Corazzata Veronesi Grande.png
         Immagini/Accessori/Stiratura/Soletta Teflon 2F.png
         Immagini/Accessori/Stiratura/Soletta Teflon AEG.png
         Immagini/Accessori/Stiratura/Telo Antilucido.png
-        Immagini/Accessori/Stiratura/Tubo Vapore Matassa.png
 Attrezzature Lavanderia
     Attrezzature Asciugamento
         Immagini/Attrezzature Asciugatura/A_ES_6_8.jpg
@@ -258,6 +254,7 @@ Prodotti Chimici
         Immagini/Prodotti/Deospray 400ml/Bergamotto & Zagara.png
         Immagini/Prodotti/Deospray 400ml/Capri-Marine.png
         Immagini/Prodotti/Deospray 400ml/Caresse Blanche.png
+        Immagini/Prodotti/Deospray 400ml/Fior di Cotone.png
         Immagini/Prodotti/Deospray 400ml/Fior di Loto.png
         Immagini/Prodotti/Deospray 400ml/Fresh Lavender.png
         Immagini/Prodotti/Deospray 400ml/Latte di Rosa.png
