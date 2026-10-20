@@ -75,9 +75,7 @@
             #ck .sw input:disabled{cursor:not-allowed}
             #ck .sw input:disabled+i{opacity:.55}
             @media (prefers-reduced-motion:reduce){#ck .sw i,#ck .sw i::after{transition:none}}
-
-            .reopen{background:none;border:0;padding:0;color:var(--green-dark);font:inherit;text-decoration:underline;cursor:pointer}
-            
+            .reopen{background:none;border:0;padding:0;color:var(--green-dark);font:inherit;text-decoration:underline;cursor:pointer;}
             /*IFRAME MODAL*/
             .iframe-modal-overlay {display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 500;}
             .iframe-modal-overlay.open {display: flex; align-items: center; justify-content: center;}
@@ -479,6 +477,7 @@
                                         <li><a href="#catalogo-generale" onclick="closeMenu()">Catalogo Generale</a></li>                       
                                         <li><a onclick="openModal('richiesta-listino-prezzi.html')">Richiedi Listino Prezzi</a></li>
                                         <li><a href="#chi-siamo" onclick="closeMenu()">Chi Siamo</a></li>
+                                        <li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
                                     </ul>
                                     <div class="menu-socials">
                                         <a href="https://www.instagram.com/novigsnc/"target="_blank">Instagram</a>
@@ -3073,7 +3072,7 @@
             <div class="wrap">
                 <h2 id="ck-title">Questo sito usa i cookie</h2>
                 <p id="ck-desc">Usiamo cookie tecnici per far funzionare il sito. Con il tuo consenso usiamo anche cookie di preferenze,
-                statistica e marketing. Puoi cambiare idea in qualsiasi momento. Leggi l’<a href="/cookie-policy">informativa sui cookie</a>.</p>
+                statistica e marketing. Puoi cambiare idea in qualsiasi momento. Leggi l'<a href="cookie-policy.html" target="_blank">informativa sui cookie</a>.</p>
 
                 <div class="prefs">
                 <div class="raw"><div><strong>Necessari</strong><span>Servono al funzionamento del sito. Sempre attivi.</span></div>
@@ -3112,7 +3111,7 @@
                     </div>
                     <hr>
                     <p class="copyright">Copyright 2026@ - novig.it<br>P.IVA IT05709950652<br>Tutti i diritti sono riservati.</p>
-                    <p><button class="reopen" id="ck-reopen">Gestisci le preferenze cookie</button></p>
+                    <p class="copyright"><button class="reopen" id="ck-reopen">Gestisci le preferenze cookie</button></p>
                 </div>
             </div>
         </footer>
@@ -3414,8 +3413,10 @@
                 };
                 function update() {
                     var stickyOn = wrap && wrap.classList.contains('sticky');
-                    var rect = catalog.getBoundingClientRect();
-                    var show = stickyOn && rect.bottom > window.innerHeight * 0.3;
+                    var last = document.getElementById('acc-ricambi') || catalog;
+                    var rect = last.getBoundingClientRect();
+                    // sparisce appena la fine di #acc-ricambi arriva nella zona del pulsante (in basso)
+                    var show = stickyOn && rect.bottom > window.innerHeight - 80;
                     nav.classList.toggle('visible', show);
                     if (!show) closeNav();
                     var idx = 0;
@@ -3505,17 +3506,38 @@
             buildMarquee(document.getElementById('marqueeTrackk2'), marqueeImages2);
             //IFRAME MODAL
             function openModal(url) {
-                document.getElementById('iframeContent').src = url;
+                var frame = document.getElementById('iframeContent');
+                // replace() evita di aggiungere voci alla cronologia del browser
+                try { frame.contentWindow.location.replace(url); } catch (e) { frame.src = url; }
                 document.getElementById('iframeModal').classList.add('open');
                 document.body.style.overflow = 'hidden';
                 document.getElementById('backToTop').style.display = 'none';
+                if (!(history.state && history.state.iframeModal)) {
+                    history.pushState({ iframeModal: true }, '');
+                }
             }
-            function closeModal() {
+            function hideModal() {
+                var frame = document.getElementById('iframeContent');
                 document.getElementById('iframeModal').classList.remove('open');
-                document.getElementById('iframeContent').src = '';
+                try { frame.contentWindow.location.replace('about:blank'); } catch (e) { frame.src = ''; }
                 document.body.style.overflow = '';
                 document.getElementById('backToTop').style.display = '';
             }
+            function closeModal() {
+                // chiusura da UI (X / overlay): torna indietro nella cronologia,
+                // la chiusura effettiva avviene in popstate
+                if (history.state && history.state.iframeModal) {
+                    history.back();
+                } else {
+                    hideModal();
+                }
+            }
+            // pulsante indietro del browser
+            window.addEventListener('popstate', function () {
+                if (document.getElementById('iframeModal').classList.contains('open')) {
+                    hideModal();
+                }
+            });
         </script>
         <div id="iframeModal" class="iframe-modal-overlay" onclick="closeModal()">
             <div class="iframe-modal-box" onclick="event.stopPropagation()">
