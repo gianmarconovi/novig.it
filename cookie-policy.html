@@ -834,6 +834,21 @@
                 document.body.style.overflow = '';
                 document.getElementById('backToTop').style.display = '';
             }
+            //RIMUOVERE L'ANCORA #... DA URL
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    e.preventDefault(); // Evita la comparsa del cancelletto nell'URL
+                    
+                    const targetId = this.getAttribute('href');
+                    const target = document.querySelector(targetId);
+                    
+                    if (target) {
+                        window.scrollTo({
+                            top: target.offsetTop
+                        });
+                    }
+                });
+            });
         </script>
         <div id="iframeModal" class="iframe-modal-overlay" onclick="closeModal()">
             <div class="iframe-modal-box" onclick="event.stopPropagation()">
