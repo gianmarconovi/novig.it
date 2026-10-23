@@ -172,12 +172,12 @@ Attrezzature Lavanderia
         Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_40_55_70_85.png
         Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_40_55_70_85.png
         Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_40_55_70_85.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM_100_125_TILTING.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM_100_125_TILTING.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125.png
-        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM_100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM 100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/A_LM 100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM 100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/B_LM 100_125_TILTING.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM 100_125.png
+        Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Supercentrifuganti/C_LM 100_125_TILTING.png
     Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem
         Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/A_TDM 1818.png
         Immagini/Attrezzature Lavaggio/Lavaggio ad Acqua/Tandem/B_TDM 1818.png
