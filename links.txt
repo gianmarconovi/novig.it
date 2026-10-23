@@ -258,7 +258,7 @@ Prodotti Chimici
         Immagini/Prodotti/Deospray 400ml/Fior di Loto.png
         Immagini/Prodotti/Deospray 400ml/Fresh Lavender.png
         Immagini/Prodotti/Deospray 400ml/Latte di Rosa.png
-        Immagini/Prodotti/Deospray 400ml/Lemongrass.png
+        Immagini/Prodotti/Deospray 400ml/Lemon Grass.png
         Immagini/Prodotti/Deospray 400ml/Muschio Bianco.png
         Immagini/Prodotti/Deospray 400ml/Note di Pulito.png
         Immagini/Prodotti/Deospray 400ml/Orchidea Selvatica.png
