@@ -801,19 +801,30 @@
             }
             // HAMBURGER MENU
             let menuOpen = false;
-            function toggleMenu() {
-            menuOpen = !menuOpen;
-            document.getElementById('menuOverlay').classList.toggle('open', menuOpen);
-            document.getElementById('menuSidebar').classList.toggle('open', menuOpen);
-            document.getElementById('hamburger').textContent = menuOpen ? 'Chiudi' : 'MENU';
-            document.body.style.overflow = menuOpen ? 'hidden' : '';
+            function setMenuUI(open) {
+                menuOpen = open;
+                document.getElementById('menuOverlay').classList.toggle('open', open);
+                document.getElementById('menuSidebar').classList.toggle('open', open);
+                document.getElementById('hamburger').textContent = open ? 'Chiudi' : 'MENU';
+                document.body.style.overflow = open ? 'hidden' : '';
+            }
+            function openMenu() {
+                setMenuUI(true);
+                // voce di cronologia: il tasto indietro del browser chiude la sidebar
+                if (!(history.state && history.state.menuOpen)) {
+                    history.pushState({ menuOpen: true }, '');
+                }
             }
             function closeMenu() {
-            menuOpen = false;
-            document.getElementById('menuOverlay').classList.remove('open');
-            document.getElementById('menuSidebar').classList.remove('open');
-            document.getElementById('hamburger').textContent = 'MENU';
-            document.body.style.overflow = '';
+                if (!menuOpen) return;
+                setMenuUI(false);
+                // rimuove la voce di cronologia aggiunta all'apertura
+                if (history.state && history.state.menuOpen) {
+                    history.back();
+                }
+            }
+            function toggleMenu() {
+                if (menuOpen) closeMenu(); else openMenu();
             }
             //IFRAME MODAL
             function openModal(url) {
