@@ -3588,7 +3588,13 @@
             }
             // pulsante indietro del browser
             window.addEventListener('popstate', function () {
-                if (document.getElementById('iframeModal').classList.contains('open')) {
+                // se la sidebar è aperta, il tasto indietro chiude solo quella
+                if (menuOpen) {
+                    setMenuUI(false);
+                    return;
+                }
+                if (document.getElementById('iframeModal').classList.contains('open') &&
+                    !(history.state && history.state.iframeModal)) {
                     hideModal();
                 }
             });
