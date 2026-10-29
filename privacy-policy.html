@@ -839,6 +839,18 @@
                 document.body.style.overflow = '';
                 document.getElementById('backToTop').style.display = '';
             }
+            // pulsante indietro del browser
+            window.addEventListener('popstate', function () {
+                // se la sidebar è aperta, il tasto indietro chiude solo quella
+                if (menuOpen) {
+                    setMenuUI(false);
+                    return;
+                }
+                if (document.getElementById('iframeModal').classList.contains('open') &&
+                    !(history.state && history.state.iframeModal)) {
+                    hideModal();
+                }
+            });
             //RIMUOVERE L'ANCORA #... DA URL
             document.addEventListener('click', function (e) {
                 var a = e.target.closest('a[href^="#"]');
